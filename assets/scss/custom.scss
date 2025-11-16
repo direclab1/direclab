@@ -4,6 +4,9 @@
 .group-photo-container {
   text-align: center;
   margin-bottom: 3rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .group-photo {
@@ -11,7 +14,8 @@
   max-width: 1000px;
   height: auto;
   border-radius: 0;
-  margin-bottom: 1rem;
+  margin: 0 auto 1rem auto;
+  display: block;
 }
 
 .group-photo-caption {

@@ -140,27 +140,38 @@
 }
 
 // Make avatars rectangular without cropping
-.people-widget .avatar {
+.people-widget .avatar,
+.people-widget .portrait,
+.people-widget .avatar-square,
+.people-widget .avatar-circle,
+.people-widget a.avatar,
+.people-widget a.portrait {
   border-radius: 0 !important;
   width: 100% !important;
   height: auto !important;
   max-width: 100% !important;
-  object-fit: contain !important; // Don't crop, show full image
-  aspect-ratio: auto !important; // Use original aspect ratio
-}
-
-.people-widget .avatar-circle {
-  border-radius: 0 !important;
   padding-bottom: 0 !important; // Remove forced square ratio
+  aspect-ratio: auto !important;
 }
 
-.people-widget .avatar-circle::before {
+.people-widget .avatar::before,
+.people-widget .portrait::before,
+.people-widget .avatar-circle::before,
+.people-widget .avatar-square::before {
   display: none !important; // Remove pseudo-element that creates square ratio
+  content: none !important;
+  padding-bottom: 0 !important;
 }
 
-.people-widget img {
+.people-widget img,
+.people-widget .avatar img,
+.people-widget .portrait img {
   border-radius: 0 !important;
   object-fit: contain !important;
+  width: 100% !important;
+  height: auto !important;
+  position: static !important; // Override any absolute positioning
+  max-width: 100% !important;
 }
 
 // Responsive: on tablets and phones, stack photo above bio

@@ -10,7 +10,8 @@
       "Bash(hugo:*)",
       "Bash(git checkout:*)",
       "Bash(curl:*)",
-      "Bash(kill:*)"
+      "Bash(kill:*)",
+      "Bash(identify:*)"
     ],
     "deny": [],
     "ask": []

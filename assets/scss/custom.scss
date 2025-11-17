@@ -139,20 +139,28 @@
   min-width: 0;
 }
 
-// Make avatars rectangular
+// Make avatars rectangular without cropping
 .people-widget .avatar {
   border-radius: 0 !important;
   width: 100% !important;
   height: auto !important;
   max-width: 100% !important;
+  object-fit: contain !important; // Don't crop, show full image
+  aspect-ratio: auto !important; // Use original aspect ratio
 }
 
 .people-widget .avatar-circle {
   border-radius: 0 !important;
+  padding-bottom: 0 !important; // Remove forced square ratio
+}
+
+.people-widget .avatar-circle::before {
+  display: none !important; // Remove pseudo-element that creates square ratio
 }
 
 .people-widget img {
   border-radius: 0 !important;
+  object-fit: contain !important;
 }
 
 // Responsive: on tablets and phones, stack photo above bio

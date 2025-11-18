@@ -72,7 +72,7 @@ sections:
           <div class="member-info">
             <p class="member-role">Ph.D. Student</p>
             <h2 class="member-name"><a href="../author/yizhi-jia">Yizhi Jia</a></h2>
-            <p class="member-bio">Yizhi Jia is a Ph.D. student in the Department of Construction Science at Texas A&M University. His research focuses on artificial intelligence in construction,NLP and digital innovation.</p>
+            <p class="member-bio">Yizhi Jia is a Ph.D. student in the Department of Construction Science at Texas A&M University. His research focuses on artificial intelligence in construction.</p>
           </div>
         </div>
 
@@ -83,7 +83,7 @@ sections:
           <div class="member-info">
             <p class="member-role">Ph.D. Student</p>
             <h2 class="member-name"><a href="../author/phumpat-dejchai">Phumpat Dejchai</a></h2>
-            <p class="member-bio">Phumpat Dejchai is a Ph.D. student in the Department of Construction Science at Texas A&M University. His research focuses on construction management, project management, and sustainability.</p>
+            <p class="member-bio">Phumpat Dejchai is a Ph.D. student and Graduate Research Assistant dedicated to advancing Construction Education through technology.</p>
           </div>
         </div>
 

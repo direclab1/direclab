@@ -97,6 +97,17 @@ sections:
             <p class="member-bio">Tannaz Ahmadi is a Ph.D. student in the Department of Construction Science at Texas A&M University. Her research focuses on construction management, risk analysis, and decision-making.</p>
           </div>
         </div>
+
+        <div class="team-member">
+          <div class="member-photo">
+            <img src="../author/avinash-kakarala/avatar.jpg" alt="Avinash Kakarala">
+          </div>
+          <div class="member-info">
+            <p class="member-role">Undergraduate Student</p>
+            <h2 class="member-name"><a href="../author/avinash-kakarala">Avinash Kakarala</a></h2>
+            <p class="member-bio">Avinash Kakarala is an undergraduate student in the Department of Computer Science at Texas A&M University.</p>
+          </div>
+        </div>
     design:
       columns: '1'
 

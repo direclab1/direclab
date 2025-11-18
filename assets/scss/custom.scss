@@ -334,7 +334,7 @@
 .research-project {
   display: flex;
   flex-direction: row;
-  gap: 2rem;
+  gap: 1.5rem;
   align-items: flex-start;
   margin-bottom: 2rem;
   margin-top: 2rem;
@@ -342,13 +342,14 @@
 
 .project-photo {
   flex-shrink: 0;
-  width: 300px;
+  width: 150px;
 }
 
 .project-photo img {
   width: 100%;
   height: auto;
   border-radius: 0;
+  border: 2px solid #e0e0e0;
 }
 
 .project-info {
@@ -359,18 +360,22 @@
 .project-title {
   font-family: 'Inter', sans-serif;
   font-weight: 600;
-  font-size: 1.4rem;
+  font-size: 1.3rem;
   color: #2c3e50;
-  margin: 0 0 0.5rem 0;
+  margin: 0;
   line-height: 1.3;
+  display: inline;
 }
 
 .project-date {
   font-family: 'Inter', sans-serif;
   color: #888;
-  font-size: 0.95rem;
-  margin: 0 0 1rem 0;
-  font-style: italic;
+  font-size: 0.9rem;
+  margin: 0;
+  font-style: normal;
+  display: block;
+  margin-top: 0.3rem;
+  margin-bottom: 1rem;
 }
 
 .project-description {

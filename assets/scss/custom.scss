@@ -331,6 +331,13 @@
 }
 
 // Research Projects page styling
+
+// Intro paragraph spacing
+.home-section > p:first-of-type {
+  line-height: 2.2;
+  margin-bottom: 3rem;
+}
+
 .research-project {
   margin-bottom: 2rem;
   margin-top: 2rem;

@@ -26,10 +26,10 @@ interests:
 
 education:
   courses:
-    - course: M.S. in Construction Management
+    - course: 
       institution:
       year:
-    - course: B.S. in Civil Engineering
+    - course: 
       institution:
       year:
 
@@ -49,5 +49,4 @@ weight: 3
 user_groups:
   - Ph.D. Students
 ---
-
-Rafay Hayat Ali is a Ph.D. student in the Department of Construction Science at Texas A&M University.
+Rafay Hayat Ali is a Ph.D. student in the Department of Interdisciplinary Engineering at Texas A&M University.

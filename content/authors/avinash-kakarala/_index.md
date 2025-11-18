@@ -36,11 +36,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:avinash@example.com'
+    link: 'avinash.kakarala@tamu.edu.'
 
 # Organizational groups that you belong to (for People widget)
 user_groups:
   - Current Members
 ---
-
-Avinash Kakarala is an undergraduate student in the Department of Computer Science at Texas A&M University.
+Avinash is a research assistant pursuing a B.S. in Computer Science and a minor in Statistics. He specializes in developing AI-driven solutions for semantic data interoperability and is interested in designing tools that automate workflows and improve accessibility of technical information in engineering domains. His research interests include exploring how AI workflows can be implemented across various industries and architectural advancements in NLP model design.

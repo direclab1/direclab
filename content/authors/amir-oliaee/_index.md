@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Amir Oliaee
+title: Amir Hossein Oliaee
 
 # Full Name (for SEO)
 first_name: Amir
@@ -50,5 +50,4 @@ weight: 1
 user_groups:
   - Ph.D. Students
 ---
-
 Amir Oliaee is a Ph.D. student in the Department of Construction Science at Texas A&M University. His research focuses on data-driven construction methods, natural language processing in architecture, engineering, and construction (AEC) workflows, and computer vision techniques.

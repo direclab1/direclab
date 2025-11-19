@@ -39,7 +39,7 @@ sections:
           <div class="member-info">
             <p class="member-role">Ph.D. Student</p>
             <h2 class="member-name"><a href="../author/amir-oliaee">Amir Oliaee</a></h2>
-            <p class="member-bio">Amir Oliaee is a Ph.D. student in the Department of Construction Science at Texas A&M University. His research focuses on data-driven construction methods, natural language processing in AEC, computer vision techniques, and AI in construction.</p>
+            <p class="member-bio">Amir Hossein Oliaee is a Research Assistant at Texas A&M University, working with Prof. David Jeong. His research focuses on enhancing transportation construction projects through AI, computer vision, and natural language processing. He holds an M.S. in Construction Management and a B.S. in Architectural Engineering. Amir is a Hagler Institute Fellow. He reviews for journals and conferences and mentors students in computational research in his spare time.</p>
           </div>
         </div>
 

@@ -84,11 +84,21 @@
 }
 
 // Active/current page highlight - dark blue instead of yellow
+// Override the ocean theme's yellow color
 .navbar-nav .nav-link.active,
-.navbar-nav .show > .nav-link {
+.navbar-nav .show > .nav-link,
+.navbar-light .navbar-nav .active > .nav-link,
+.navbar-light .navbar-nav .nav-link.active,
+.navbar-light .navbar-nav .nav-link.show,
+.navbar-light .navbar-nav .show > .nav-link {
   color: #2c3e50 !important;
-  font-weight: 600;
+  font-weight: 600 !important;
   background-color: transparent !important;
+}
+
+// Also override any yellow text color from theme
+body .navbar-nav .nav-link.active {
+  color: #2c3e50 !important;
 }
 
 // Group photo styling

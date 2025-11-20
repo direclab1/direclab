@@ -12,7 +12,8 @@
       "Bash(curl:*)",
       "Bash(kill:*)",
       "Bash(identify:*)",
-      "Bash(sips:*)"
+      "Bash(sips:*)",
+      "Bash(find:*)"
     ],
     "deny": [],
     "ask": []

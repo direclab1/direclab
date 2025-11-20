@@ -102,19 +102,29 @@ body .navbar-nav .nav-link.active {
 }
 
 // Dropdown menu styling - match page background with black text
-.dropdown-menu {
+.dropdown-menu,
+.navbar .dropdown-menu,
+.navbar-nav .dropdown-menu {
   background-color: #f8f9fa !important;
   border: 1px solid #ddd !important;
   box-shadow: 0 2px 8px rgba(0,0,0,0.1) !important;
 }
 
-.dropdown-item {
+.dropdown-item,
+.navbar .dropdown-item,
+.navbar-nav .dropdown-item,
+.dropdown-menu .dropdown-item {
   color: #333 !important;
   font-weight: 500 !important;
+  background-color: transparent !important;
 }
 
 .dropdown-item:hover,
-.dropdown-item:focus {
+.dropdown-item:focus,
+.navbar .dropdown-item:hover,
+.navbar .dropdown-item:focus,
+.dropdown-menu .dropdown-item:hover,
+.dropdown-menu .dropdown-item:focus {
   background-color: #e9ecef !important;
   color: #0066cc !important;
 }

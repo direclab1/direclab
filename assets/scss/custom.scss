@@ -147,17 +147,28 @@ body .navbar-nav .nav-link.active {
 .navbar-toggler,
 button.navbar-toggler,
 .navbar .navbar-toggler {
-  border: 1px solid rgba(0,0,0,0.1) !important;
-  background-color: transparent !important;
+  border: 1px solid rgba(0,0,0,0.2) !important;
+  background-color: rgba(255,255,255,0.9) !important;
   padding: 0.5rem 0.75rem !important;
 }
 
 .navbar-toggler-icon,
 .navbar-toggler .navbar-toggler-icon,
 button.navbar-toggler .navbar-toggler-icon {
-  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='%23000000' stroke-linecap='round' stroke-miterlimit='10' stroke-width='3' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e") !important;
-  width: 1.5em !important;
-  height: 1.5em !important;
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='%23000000' stroke-linecap='round' stroke-miterlimit='10' stroke-width='4' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e") !important;
+  width: 1.8em !important;
+  height: 1.8em !important;
+  opacity: 1 !important;
+}
+
+// Extra specificity for the hamburger icon
+.navbar-light .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='%23000000' stroke-linecap='round' stroke-miterlimit='10' stroke-width='4' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e") !important;
+}
+
+// Override any theme defaults
+.navbar-toggler:not(.collapsed) .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='%23000000' stroke-linecap='round' stroke-miterlimit='10' stroke-width='4' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e") !important;
 }
 
 // Mobile dropdown menu (collapsed navbar)

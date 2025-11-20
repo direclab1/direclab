@@ -71,6 +71,13 @@
   max-height: 50px;
   width: auto;
   display: block;
+  background: transparent !important;
+}
+
+.navbar-brand svg {
+  max-height: 50px;
+  width: auto;
+  background: transparent !important;
 }
 
 .navbar-brand {

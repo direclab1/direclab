@@ -101,6 +101,24 @@ body .navbar-nav .nav-link.active {
   color: #2c3e50 !important;
 }
 
+// Dropdown menu styling - match page background with black text
+.dropdown-menu {
+  background-color: #f8f9fa !important;
+  border: 1px solid #ddd !important;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1) !important;
+}
+
+.dropdown-item {
+  color: #333 !important;
+  font-weight: 500 !important;
+}
+
+.dropdown-item:hover,
+.dropdown-item:focus {
+  background-color: #e9ecef !important;
+  color: #0066cc !important;
+}
+
 // Group photo styling
 .group-photo-container {
   text-align: center;

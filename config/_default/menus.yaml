@@ -10,7 +10,7 @@ main:
     parent: People
     url: advisor
     weight: 11
-  - name: Research Members
+  - name: Our Members
     parent: People
     url: team
     weight: 12

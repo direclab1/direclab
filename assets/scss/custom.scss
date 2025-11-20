@@ -67,17 +67,15 @@
 }
 
 // Logo styling
-.navbar-brand img {
+.navbar-brand img,
+.navbar-brand svg,
+.navbar-brand img *,
+.navbar-brand svg * {
   max-height: 50px;
   width: auto;
   display: block;
-  background: transparent !important;
-}
-
-.navbar-brand svg {
-  max-height: 50px;
-  width: auto;
-  background: transparent !important;
+  background: none !important;
+  background-color: transparent !important;
 }
 
 .navbar-brand {
@@ -87,6 +85,7 @@
   letter-spacing: 0.05em;
   color: #333 !important;
   padding: 0.5rem 0;
+  background: transparent !important;
 }
 
 .navbar-nav .nav-link {

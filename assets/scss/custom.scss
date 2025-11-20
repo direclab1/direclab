@@ -144,14 +144,21 @@ body .navbar-nav .nav-link.active {
 }
 
 // Mobile menu (hamburger menu) styling
-.navbar-toggler {
-  border-color: #000 !important;
+.navbar-toggler,
+button.navbar-toggler,
+.navbar .navbar-toggler {
+  border: 2px solid #000 !important;
   background-color: #fff !important;
   padding: 0.5rem 0.75rem !important;
+  border-radius: 4px !important;
 }
 
-.navbar-toggler-icon {
-  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba(0, 0, 0, 1)' stroke-linecap='round' stroke-miterlimit='10' stroke-width='3' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e") !important;
+.navbar-toggler-icon,
+.navbar-toggler .navbar-toggler-icon,
+button.navbar-toggler .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='%23000000' stroke-linecap='round' stroke-miterlimit='10' stroke-width='3' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e") !important;
+  width: 1.5em !important;
+  height: 1.5em !important;
 }
 
 // Mobile dropdown menu (collapsed navbar)

@@ -66,12 +66,20 @@
   box-shadow: 0 1px 3px rgba(0,0,0,0.1);
 }
 
+// Logo styling
+.navbar-brand img {
+  max-height: 50px;
+  width: auto;
+  display: block;
+}
+
 .navbar-brand {
   font-family: 'Montserrat', 'Helvetica Neue', Arial, sans-serif;
   font-weight: 700;
   font-size: 1.5rem;
   letter-spacing: 0.05em;
   color: #333 !important;
+  padding: 0.5rem 0;
 }
 
 .navbar-nav .nav-link {

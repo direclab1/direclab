@@ -1,5 +1,5 @@
 ---
-title: The Group
+title: Research Members
 date: 2022-10-24
 
 type: landing
@@ -7,7 +7,7 @@ type: landing
 sections:
   - block: markdown
     content:
-      title: The Group
+      title: Research Members
       subtitle:
       text: |
         <div class="group-photo-container">

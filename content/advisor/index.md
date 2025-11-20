@@ -1,5 +1,5 @@
 ---
-title: Advisor
+title: Leader
 date: 2022-10-24
 
 type: landing
@@ -7,7 +7,7 @@ type: landing
 sections:
   - block: markdown
     content:
-      title: Advisor
+      title: Leader
       text: |
         <div class="team-member">
           <div class="member-photo">

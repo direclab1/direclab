@@ -6,11 +6,11 @@
 main:
   - name: People
     weight: 10
-  - name: Advisor
+  - name: Leader
     parent: People
     url: advisor
     weight: 11
-  - name: The Group
+  - name: Research Members
     parent: People
     url: team
     weight: 12

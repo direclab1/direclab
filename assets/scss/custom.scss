@@ -98,13 +98,14 @@
 }
 
 // Active/current page highlight - dark blue instead of yellow
-// Override the ocean theme's yellow color
+// Override the ocean theme's yellow color and remove background
 .navbar-nav .nav-link.active,
 .navbar-nav .show > .nav-link,
 .navbar-light .navbar-nav .active > .nav-link,
 .navbar-light .navbar-nav .nav-link.active,
 .navbar-light .navbar-nav .nav-link.show,
-.navbar-light .navbar-nav .show > .nav-link {
+.navbar-light .navbar-nav .show > .nav-link,
+.navbar .navbar-nav .nav-item .nav-link.active {
   color: #2c3e50 !important;
   font-weight: 600 !important;
   background-color: transparent !important;
@@ -113,6 +114,14 @@
 // Also override any yellow text color from theme
 body .navbar-nav .nav-link.active {
   color: #2c3e50 !important;
+  background-color: transparent !important;
+}
+
+// Remove any background from nav items
+.navbar-nav .nav-item,
+.navbar-nav .nav-item.active,
+.navbar .navbar-nav .nav-item {
+  background-color: transparent !important;
 }
 
 // Dropdown menu styling - match page background with black text

@@ -147,10 +147,9 @@ body .navbar-nav .nav-link.active {
 .navbar-toggler,
 button.navbar-toggler,
 .navbar .navbar-toggler {
-  border: 2px solid #000 !important;
-  background-color: #fff !important;
+  border: 1px solid rgba(0,0,0,0.1) !important;
+  background-color: transparent !important;
   padding: 0.5rem 0.75rem !important;
-  border-radius: 4px !important;
 }
 
 .navbar-toggler-icon,

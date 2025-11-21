@@ -9,7 +9,7 @@ sections:
     content:
       title: Research Projects
       text: |
-        Dr. Jeong's research team has secured over **$13.0 million** in funding from diverse sponsors including NSF, NCHRP, CII, FHWA, FTA, EPA-WERF, DOL, DOE, state DOTs, and industry partners like SHELL and GHD.
+        Dr. Jeong's research team has received a total funding of over **$13.0 million**. His research sponsors include National Science Foundation (NSF), National Cooperative Highway Research Program (NCHRP), Construction Industry Institute (CII), Federal Highway Administration (FHWA), Federal Transit Administration (FTA), Environmental Protection Agency (EPA) - Water Environmental Research Foundation (WERF), US Department of Labor (DOL), US Department of Energy (DOE), State DOTs (Texas, California, Montana, Iowa, Minnesota, South Dakota, and Oklahoma), Industry sponsors (SHELL, GHD, Charles Machine works, etc.), and International Agencies.
 
         ## Current Funded Projects
 

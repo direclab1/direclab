@@ -99,7 +99,11 @@ sections:
               <p class="project-date">(September 2023 - August 2026)</p>
             </div>
           </div>
-          <p class="project-description">Investigators: David Jeong (PI), Julie Hartell (Co-PI). NSF program engaging undergraduate students in research on virtual reality, drones, robotics, and AI within construction innovation contexts.</p>
+          <p class="project-description">
+            • Investigators: David Jeong (PI) and Julie Hartell (Co-PI).<br>
+            • Sponsor: National Science Foundation (NSF).<br>
+            • Objectives: This new NSF REU site focuses on emerging digital technologies and processes that are promising to transform construction into a safer, more productive, more resilient, and more sustainability cognizant sector. Undergraduate students in construction science and related disciplines have largely been neglected and underserved by research opportunities. Undergraduate students, especially underrepresented minorities and women, from programs that lack research resources and opportunities will participate in the proposed summer research experience program, which will be reinforced with enrichment activities and professional development activities. Students will participate in highly innovative research projects sponsored by federal and state funding agencies, as well as industry sponsors. REU students will conduct research on virtual reality, 3D-printing, drones, digital twins, robotics, smart materials, energy simulation, machine learning and artificial intelligence in the context of construction innovation. The participating students will learn analytical skills, independent thinking and cognitive skills, and collaboration skills that are required for developing, testing, and validating emerging digital technologies and sustainable solutions for construction. This unique REU program will provide STEM-field undergraduate students another clear career path to construction through research and innovation.
+          </p>
         </div>
 
         <hr>

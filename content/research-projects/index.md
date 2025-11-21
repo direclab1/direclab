@@ -61,7 +61,11 @@ sections:
               <p class="project-date">(Apr 2024 - Dec 2026)</p>
             </div>
           </div>
-          <p class="project-description">Investigators: Dr. David Jeong (PI), Dr. Ashrant Aryal (CoPI), Dr. Ghang Lee (Yonsei University). International collaboration developing AI-based semantic interoperability for seamless asset data exchange throughout plant lifecycles.</p>
+          <p class="project-description">
+            • Investigators: Dr. David Jeong (PI), Dr. Ashrant Aryal (CoPI) with Dr. Ghang Lee (PI) at Yonsei University.<br>
+            • Funding Agency: Korea Agency for Infrastructure Technology Advancement.<br>
+            • Objective: This research is an international collaboration project between Yonsei University and Texas A&M University. The objective of this research is to develop and test an AI-based semantic interoperability technologies that enable seamless asset data exchange and integration for process plant assets throughout their life cycle.
+          </p>
         </div>
 
         <hr>

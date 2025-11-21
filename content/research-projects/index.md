@@ -125,7 +125,7 @@ sections:
           </p>
         </div>
 
-        <hr>
+        ## Completed Projects (Selected)
 
         <div class="research-project">
           <div class="project-header">
@@ -155,7 +155,7 @@ sections:
           <p class="project-description">Investigators: Dr. KC Choi (PI), David Jeong (Co-PI). NOAA-funded cyber-physical platform measuring and mapping flood/roadway risk for coastal communities with predictive evacuation information.</p>
         </div>
 
-        ## Completed Projects (Selected)
+        <hr>
 
         <div class="research-project">
           <div class="project-header">

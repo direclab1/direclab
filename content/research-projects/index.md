@@ -80,7 +80,11 @@ sections:
               <p class="project-date">(September 2023 - February 2026)</p>
             </div>
           </div>
-          <p class="project-description">Investigators: Dr. David Jeong (PI), Dr. Charles Gurganus, Dr. Kunhee Choi. Texas DOT project leveraging historical data to create interactive heat maps visualizing feasible production rates across Texas.</p>
+          <p class="project-description">
+            • Investigators: Dr. David Jeong (PI), Dr. Charles Gurganus (Co-PI) and Dr. Kunhee Choi (Co-PI).<br>
+            • Funding Agency: Texas Department of Transportation.<br>
+            • Objective: Understanding and estimating realistic production rates of major work items in a highway project are critical to determining a reasonable project contract time, evaluating the contractor's baseline schedule, monitoring progress schedules, and ultimately completing the project on time. This project will leverage Texas DOT's historical project data to extract the as-built information of production rates of various work items, and develop an interactive tool that can generate color-coded heat maps to visualize feasible ranges of production rates of major work items across Texas. An advanced and interactive production rate estimation tool could significantly help Texas DOT achieve the goal of completing highway projects on time. Such a decision-aid tool could significantly improve Texas DOT's practice in determining more accurate production rates, resulting in more accurate contract time determination, the contractor's baseline schedule evaluation, and progress schedule monitoring. Such data-driven and practical production rates may provide higher certainty and reliability than the Texas DOT's current construction production rates table.
+          </p>
         </div>
 
         <hr>

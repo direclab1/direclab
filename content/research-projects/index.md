@@ -23,7 +23,11 @@ sections:
               <p class="project-date">(Oct 2024 - Sep 2027)</p>
             </div>
           </div>
-          <p class="project-description">Investigators: Dr. David Jeong (PI), Dr. Zofia Rybkowski, Dr. Jinshil Seo, Dr. Bugra Yalvac. NSF funding for creating serious games to teach project management concepts and evaluate effectiveness in improving student learning outcomes.</p>
+          <p class="project-description">
+            • Investigators: Dr. David Jeong (PI), Dr. Zofia Rybkowski (CoPI), Dr. Jinshil Seo (CoPI), and Dr. Bugra Yalvac (CoPI).<br>
+            • Funding Agency: National Science Foundation.<br>
+            • Objective: This project is to create and test various serious games and simulations as a transformative method for teaching complex project management concepts and principles and to evaluate their effectiveness. The project is expected to provide a clear blueprint for transforming the undergraduate construction science curriculum into an active learning-based model with improved student learning outcomes.
+          </p>
         </div>
 
         <hr>

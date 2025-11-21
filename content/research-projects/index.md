@@ -42,7 +42,11 @@ sections:
               <p class="project-date">(Oct 2024 - Sep 2029)</p>
             </div>
           </div>
-          <p class="project-description">Investigators: Dr. Phil Lewis (PI), Dr. David Jeong (Co-PI). DOL-sponsored pathway for skilled construction management careers in renewable energy, transportation, and broadband sectors across three locations.</p>
+          <p class="project-description">
+            • Investigators: Dr. Phil Lewis (PI), and Dr. David Jeong (Co-PI).<br>
+            • Funding Agency: US Department of Labor.<br>
+            • Objective: The lack of skilled workforce in the construction industry is getting worse and this shortage not only escalates project costs, delays, compromised quality and safety risks but also limits the industry's ability to meet growing demand, ultimately impacting the nation's economic growth and competitiveness. In response, the Department of Construction Science will create a worker-centered pathway for individuals who are interested in pursuing skilled, well-paying Construction Management careers in the renewable energy, transportation, and broadband sectors through this DOL sponsored grant. Strong support from the industry is a crucial element of the grant's success. This pioneering program will be offered at three locations (college station, Prairie view and McAllen) with collaboration with Prairie View A&M University.
+          </p>
         </div>
 
         <hr>

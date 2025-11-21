@@ -118,7 +118,11 @@ sections:
               <p class="project-date">(April 2023 - August 2026)</p>
             </div>
           </div>
-          <p class="project-description">Investigators: Dr. David Jeong (PI), Dr. Ashrant Aryal (Co-PI). Texas DOT project using Natural Language Processing to systematically identify potentially missing work items in highway projects.</p>
+          <p class="project-description">
+            • Investigators: Dr. David Jeong (PI), and Dr. Ashrant Aryal (Co-PI), through Interagency Contract (IAC).<br>
+            • Funding Agency: Texas Department of Transportation.<br>
+            • Objective: Change orders are the main reason for project delay and cost overrun. The most common reason for change orders in highway projects is "work item omission in contract" which accounts for more than two third of change orders. Identification of missing work items before bid advertisement will significantly help reduce the number of change orders during construction and it will help determining a realistic project budget. Recent advancement in artificial intelligence (AI) can serve as a key technique for the systematic identification of potentially missing work items in a new project by analyzing the space of historical project data. Specifically, as a sub-field of cutting-edge AI techniques, Natural Language Processing (NLP) enables a computer to analyze, understand, and derive meaning from human language in a smart and computational way. Innovative NLP techniques will contribute to the automated and reliable identification of potential change order items due to missing work items.
+          </p>
         </div>
 
         <hr>

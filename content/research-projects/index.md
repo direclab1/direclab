@@ -133,11 +133,15 @@ sections:
               <img src="project-7.jpg" alt="Asset Data Interoperability Framework">
             </div>
             <div class="project-title-area">
-              <h3 class="project-title">Asset Data Interoperability Framework</h3>
+              <h3 class="project-title">Asset Data Interoperability Framework (ADIF)</h3>
               <p class="project-date">(September 1, 2022 – August 31, 2023)</p>
             </div>
           </div>
-          <p class="project-description">Investigators: Dr. David Jeong (PI), Dr. Ashrant Aryal (Co-PI). SHELL-sponsored exploration of interoperability issues between P&ID and 3D models across software ecosystems.</p>
+          <p class="project-description">
+            • Investigators: Dr. David Jeong (PI) and Dr. Ashrant Aryal (Co-PI).<br>
+            • Sponsor: SHELL, Inc.<br>
+            • Objective: Our objective is to explore the current issues in interoperability between P&ID and 3D models. While software vendors might claim that they are compliant with existing data sharing standards, it is likely that not all the necessary data is exported or imported correctly when switching from one software ecosystem to another. We plan on identifying these issues by exploring current systems and their compatibility of sharing and editing models between each other.
+          </p>
         </div>
 
         <hr>
@@ -152,7 +156,11 @@ sections:
               <p class="project-date">(February 1, 2022 – January 31, 2024)</p>
             </div>
           </div>
-          <p class="project-description">Investigators: Dr. KC Choi (PI), David Jeong (Co-PI). NOAA-funded cyber-physical platform measuring and mapping flood/roadway risk for coastal communities with predictive evacuation information.</p>
+          <p class="project-description">
+            • Investigators: Dr. KC Choi (PI) and David Jeong (Co-PI).<br>
+            • Funding Agency: Texas Sea Grant – National Oceanic and Atmospheric Administration (NOAA).<br>
+            • Objective: this project is to create, test, and deploy a cyber-enabled digital twinning web platform. We call the proposed cyber-physical platform "AI-based Roadway Flooding Digital Twinning," or AIR-FLOOD. This novel digital platform measures, maps, and informs interdependent flood/roadway risk for coastal communities seeking to better prepare for future extreme flooding events, providing them with advanced predictive knowledge about the best possible evacuation routes from affected areas, according to a variety of inundation scenarios. The platform will also provide first responders with vital information regarding the best routes for efficient travel to affected communities and offer local and state transportation agencies the information necessary to optimize prioritization of their emergency roadway repair projects.
+          </p>
         </div>
 
         <hr>
@@ -167,7 +175,11 @@ sections:
               <p class="project-date">(February 1, 2021 – May 31, 2023)</p>
             </div>
           </div>
-          <p class="project-description">Investigator: Dr. H David Jeong (PI). Montana DOT project developing AI-based data-driven models leveraging historical project data for reliable duration estimation.</p>
+          <p class="project-description">
+            • Investigators: Dr. H David Jeong (PI).<br>
+            • Funding Agency: Montana Department of Transportation.<br>
+            • Objective: In recent years, artificial intelligence (AI) technologies have improved their technical capabilities for pattern recognition and prediction. Promising AI techniques such as Artificial Neural Networks (ANNs) are capable of processing various types of data and learning complex patterns to make a prediction with reliable accuracy. An AI based data-driven model can leverage historical project characteristics and performance data to estimate a reliable project duration for a new project. In this research, an AI-based model and its tool will be developed using historical highway project data to estimate the duration of a highway project with a certain level of confidence. This project will provide a robust support tool for a quick and reliable estimation of a project's duration.
+          </p>
         </div>
 
         <hr>
@@ -182,7 +194,11 @@ sections:
               <p class="project-date">(November 10, 2020 – August 31, 2022)</p>
             </div>
           </div>
-          <p class="project-description">Investigators: Dr. Charles Gurganus (PI), Dr. H. David Jeong (Co-PI). TxDOT training modules covering schedule development, production rate analysis, and critical path identification.</p>
+          <p class="project-description">
+            • Investigators: Dr. Charles Gurganus (PI) and Dr. H. David Jeong (Co-PI).<br>
+            • Funding Agency: Texas Department of Transportation.<br>
+            • Objective: This project is to develop training modules on the theme of "Basic Construction Schedule Analysis" for TxDOT that encompass various schedule development and analysis issues including schedule requirements, production rate and duration analysis, activity relationship analysis, critical path identification, and recommended communication requirements with contractors during construction.
+          </p>
         </div>
 
         <hr>
@@ -193,11 +209,15 @@ sections:
               <img src="completed-3.jpg" alt="Virtual Participatory Simulation Games">
             </div>
             <div class="project-title-area">
-              <h3 class="project-title">Virtual Participatory Simulation Games for Teaching Project Management</h3>
+              <h3 class="project-title">Virtual Participatory Simulation Games for Teaching and Learning Project Management Principles</h3>
               <p class="project-date">(January 1, 2021 – December 31, 2022)</p>
             </div>
           </div>
-          <p class="project-description">Investigators: Dr. H. David Jeong (PI), Dr. Zofia Zybkowski (Co-PI), Dr. Bugrahan Yalvac (Co-PI). T3 Grant developing virtual games to teach construction project management theories in engaging, interactive formats.</p>
+          <p class="project-description">
+            • Investigators: Dr. H. David Jeong (PI), Dr. Zofia Zybkowski (Co-PI), and Dr. Bugrahan Yalvac (Co-PI).<br>
+            • Funding Agency: T3 Grant - Texas A&M University.<br>
+            • Objective: The construction industry is one of the largest industry sectors in the U.S. and globally. However, compared with the other industry sectors, the construction industry has failed to improve the productivity over the last fifty years. There is no lack of evidence that the main causes of this failure are poor construction project management and organizational issues. Effective construction project management theories and principles have evolved over time and they are taught in academia and in industry in traditional settings. However, those theories and principles are inherently highly soft and intangible concepts that affect the entire project life cycle involving a large size of workflows, and interactions between project participants. The current and traditional teaching and learning models are not effective for students and trainees to truly understand and learn actional knowledge for change in the construction industry. One of the most successful ways to impart actional knowledge of those soft theories and principles are through serious games and participatory simulations. These often take the form of low-risk, small-scale controlled experiments that help students determine the impact of a decision before scaling a proposed process up to a full project; and create an enjoyable and effective lesson by imparting an "aha moment" to stakeholders. This project will develop virtual participatory simulation games for teaching and learning construction project management theories and principles and test the efficacy and value as an alternate to existing teaching and learning methods. In addition, the COVID-19 pandemic has created a new business environment where most training and education sessions must be delivered in a virtual setting. Thus, this research topic is timely since the ultimate goal is to test and develop the most efficient education and training approach for construction project management theories and principles in a virtual environment.
+          </p>
         </div>
 
         <hr>
@@ -208,11 +228,15 @@ sections:
               <img src="completed-4.jpg" alt="Virtual Lean Simulation Games">
             </div>
             <div class="project-title-area">
-              <h3 class="project-title">Development of Virtual Lean Simulation Games</h3>
+              <h3 class="project-title">Development of Virtual Lean Simulation Games for the Construction Industry</h3>
               <p class="project-date">(November 1, 2020 – October 10, 2022)</p>
             </div>
           </div>
-          <p class="project-description">Investigators: Dr. H. David Jeong (PI), Dr. Zofia Zybkowski (Co-PI). CIAC-funded online collaborative virtual games for disseminating lean design and construction principles.</p>
+          <p class="project-description">
+            • Investigators: Dr. H. David Jeong (PI) and Dr. Zofia Zybkowski (Co-PI).<br>
+            • Funding Agency: Construction Industry Advisory Council (CIAC), Department of Construction Science, Texas A&M University.<br>
+            • Objective: This project is to develop an on-line, collaborative, virtual simulation games for rapid dissemination of lean design and construction principles, methods and tools to the construction industry Developing virtual lean simulation games is challenging because the games should be dynamic, fun, and interactive to ensure the same or preferably higher level of participation and engagement of the participants as with the in-person games, and more importantly, the same or higher level of learning through virtual settings compared with in-person settings. We will test and hone our proof-of-concept simulation on volunteer practitioners using feedback from pre- and post- simulation surveys and develop an implementation strategy for industry. This research initiative will ultimately contribute to improving construction productivity and efficiency of construction projects.
+          </p>
         </div>
 
         <hr>
@@ -223,11 +247,15 @@ sections:
               <img src="completed-5.jpg" alt="Contingency Factors for Risk">
             </div>
             <div class="project-title-area">
-              <h3 class="project-title">Contingency Factors for Risk in Early Construction Cost Estimates</h3>
+              <h3 class="project-title">Contingency Factors to Account for Risk in Early Construction Cost Estimates for Transportation Infrastructure Projects</h3>
               <p class="project-date">(June 1, 2020 – June 30, 2022)</p>
             </div>
           </div>
-          <p class="project-description">Investigators: Dr. H David Jeong (PI), Dr. Doug Gransberg, Dr. KC Choi. NCHRP project developing national guidelines for state DOT staff to improve early construction contingency estimates.</p>
+          <p class="project-description">
+            • Investigators: Dr. H David Jeong (PI), Dr. Doug Gransberg (Co-PI), and Dr. KC Choi (Co-PI).<br>
+            • Funding Agency: National Cooperative Highway Research Program (NCHRP).<br>
+            • Objective: This project is to develop a national guide for state DOT staff responsible for scoping projects to improve early construction contingency estimates for common project types with differing levels of complexity. This research focuses on early construction contingency among cost components that impede the accuracy of project cost estimating. The guide will identify project-related risks that are associated with significant cost impacts and that affect the accuracy of early construction contingency estimates compared to actual construction costs.
+          </p>
         </div>
 
         <hr>
@@ -238,11 +266,15 @@ sections:
               <img src="completed-6.jpg" alt="RT383">
             </div>
             <div class="project-title-area">
-              <h3 class="project-title">RT383: Quantitative Validation of Industrial Integrated Project Delivery</h3>
+              <h3 class="project-title">RT383: Quantitative Validation and Development of Industrial Integrated Project Delivery (I2PD)</h3>
               <p class="project-date">(January 2020 - December 2022)</p>
             </div>
           </div>
-          <p class="project-description">Investigators: David Jeong (PI), Phil Barutha (University of Nebraska). CII research evaluating measurable increases in project success using integrated delivery versus traditional methods.</p>
+          <p class="project-description">
+            • Investigators: David Jeong (PI) with Phil Barutha (Univ of Nebraska).<br>
+            • Sponsor: Construction Industry Institute (CII).<br>
+            • Objectives: The overarching essential research question that will be evaluated in this study is whether there is a measurable increase in project success rates using I2PD and other related integrated delivery methods as compared to traditional delivery methods. The results of this research will be able to confirm whether the findings of CII RT 341 are consistent with the actual results on live projects that apply some or all of the principles and methods of I2PD.
+          </p>
         </div>
 
         <hr>
@@ -253,11 +285,15 @@ sections:
               <img src="completed-7.jpg" alt="Digitalization of Construction Contracts">
             </div>
             <div class="project-title-area">
-              <h3 class="project-title">International Research: Digitalization of Construction Contracts using AI/NLP</h3>
+              <h3 class="project-title">International Research Project: Digitalization of Construction Contract requirements using Artificial Intelligence and Natural Language Processing</h3>
               <p class="project-date">(July 2019 - December 2020)</p>
             </div>
           </div>
-          <p class="project-description">Investigators: Dr. Ghang Lee (PI, Yonsei), David Jeong (Co-PI). Korea IITP-funded international collaboration exploring AI algorithms for analyzing and extracting contract requirements.</p>
+          <p class="project-description">
+            • Investigators: Dr.Ghang Lee (PI, Yonsei) and David Jeong (Co-PI).<br>
+            • Sponsor: Institute of Information and Communications Technology Planning and Evaluation (IITP, Korea).<br>
+            • Objectives: This research project is an international collaboration with a group of researchers at Yonsei University in South Korea. The goal is to explore and test AI and NLP-based algorithms that can analyze major construction contract requirements from a large number of historical construction contract documents and then, automatically extract and organize major contractual requirements of a new project with a possible level of risk identification.
+          </p>
         </div>
 
         <hr>
@@ -268,11 +304,15 @@ sections:
               <img src="completed-8.jpg" alt="SDDOT Construction Cost Index">
             </div>
             <div class="project-title-area">
-              <h3 class="project-title">SDDOT Construction Cost Index Development</h3>
+              <h3 class="project-title">Develop an Improved SDDOT Construction Cost Index</h3>
               <p class="project-date">(March 2019 - June 2020)</p>
             </div>
           </div>
-          <p class="project-description">Investigators: David Jeong (PI), Brett Huntsman, Maxwell Steadman. South Dakota DOT project identifying uses and developing methodologies for calculating construction cost indices.</p>
+          <p class="project-description">
+            • Investigators: David Jeong (PI) with Brett Huntsman and Maxwell Steadman.<br>
+            • Sponsor: South Dakota Department of Transportation.<br>
+            • Objectives: This research project will identify current and potential uses for construction cost indices in South Dakota Department of Transportation and develop methodologies for calculating, maintaining, and using a CCI for each use. This study will also evaluate the level of risk or uncertainty for projections made using the CCI methods.
+          </p>
         </div>
 
         <hr>
@@ -283,11 +323,15 @@ sections:
               <img src="completed-9.jpg" alt="NCHRP 08-114">
             </div>
             <div class="project-title-area">
-              <h3 class="project-title">NCHRP 08-114: Systematic Approach for Determining Construction Contract Time</h3>
+              <h3 class="project-title">NCHRP 08-114: Systematic Approach for Determining Construction Contract Time: A Guidebook</h3>
               <p class="project-date">(August 2018 - August 2020)</p>
             </div>
           </div>
-          <p class="project-description">Investigators: David Jeong (PI), Doug Gransberg, Ali Touran, KC Choi. NCHRP guidebook developing procedures and risk-based methodology for reliable contract time estimation.</p>
+          <p class="project-description">
+            • Investigators: David Jeong (PI) with Co-PIs: Doug Gransberg, Ali Touran, and KC Choi.<br>
+            • Sponsor: National Cooperative Highway Research Program (NCHRP).<br>
+            • Objectives: This research aims at developing a comprehensive guidebook encompassing procedures, methods, and tools for determining contract time that can work for a wide spectrum of highway infrastructure projects. A systematic approach and a risk-based methodology will be employed to provide reliable contract time estimation methods over the project delivery process.
+          </p>
         </div>
 
         <hr>
@@ -298,11 +342,15 @@ sections:
               <img src="completed-10.jpg" alt="Maintenance Equipment Life Cycle">
             </div>
             <div class="project-title-area">
-              <h3 class="project-title">Optimizing Maintenance Equipment Life Cycle</h3>
+              <h3 class="project-title">Optimizing Maintenance Equipment Life Cycle for Local Agencies</h3>
               <p class="project-date">(August 2017 - December 2019)</p>
             </div>
           </div>
-          <p class="project-description">Investigators: David Jeong (PI), Jennifer Shane, Kevin Scheibe, Sree Nilakanta. Iowa Highway Research Board project developing algorithms for optimal economic replacement timing decisions.</p>
+          <p class="project-description">
+            • Investigators: David Jeong (PI), Jennifer Shane, Kevin Scheibe, and Sree Nilakanta.<br>
+            • Sponsor: Iowa Highway Research Board (IHRB).<br>
+            • Objectives: This research project has developed a historical performance driven framework and its algorithms to determine the life cycle cost of major maintenance units of equipment for local agencies. The algorithms allows the agency to determine the most optimal economic replacement or purchase timing options for each type of equipment.
+          </p>
         </div>
 
         <hr>
@@ -317,7 +365,11 @@ sections:
               <p class="project-date">(August 2017 - March 2020)</p>
             </div>
           </div>
-          <p class="project-description">Investigators: Bora Cetin (PI), David Jeong (Co-PI), Jeramy Ashlock (Co-PI). IHRB data-driven system assisting local agencies in gravel loss estimation and annual rock requirements.</p>
+          <p class="project-description">
+            • Investigators: Bora Cetin (PI), David Jeong (Co-PI), and Jeramy Ashlock (Co-PI).<br>
+            • Sponsor: Iowa Highway Research Board (IHRB).<br>
+            • Objectives: This research project developed a data driven Granular Roadway Asset Management System (GRAMS) to assist local agencies in making more reliable gravel loss estimation and consequently determining annual rock requirements for proper budgeting purposes. In this study, a series of online and in-person meetings and interviews were conducted along with electronic mailing surveys to gather information to develop a user-friendly GRAMS. Advanced statistical analysis methods such as the beta regression model and survival analysis were used as computational algorithms for estimation and risk analysis. When the user enters several input values, the GRAMS can generate a range of estimates under varying budget conditions and different levels of service. The tool is expected to significantly help local agencies to obtain consistency in terms of estimating gravel loss and determining rock requirement and as a result, better defend their granular road maintenance budget requests and management. This tool is primarily based upon empirical data and further calibration is recommended for enhanced estimation.
+          </p>
         </div>
 
         <hr>

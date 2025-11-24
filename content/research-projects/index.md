@@ -518,8 +518,8 @@ sections:
             </div>
           </div>
           <p class="project-description">
-            • Investigators: David Jeong (PI) with Doug Gransberg
-            • Sponsor: Iowa Department of Transportation
+            • Investigators: David Jeong (PI) with Doug Gransberg<br>
+            • Sponsor: Iowa Department of Transportation<br>
             • Objectives: The estimation of design efforts and costs plays a vital role in authorizing funds and controlling the budget during the project development process. Typically, the design phase consists of various engineering activities that require substantial efforts to deliver the final construction documents for bid preparation. Estimating these efforts accurately and efficiently is critical for transportation agencies in properly allocating funds, time, and resources. Therefore, there is a need for a proactive scheme to more accurately and reliably estimate design efforts and costs in order to help the design office negotiate more confidently with consulting firms and ultimately to enhance the accountability and transparency of funding decisions. In this Phase I study, historical data driven estimation models including regression models ad neural networks models were developed and tested. Also, a case-based reasoning–based tool was developed to make logical inferences when estimating the design efforts and costs of bridge design efforts. The case-based reasoning approach uses the concept of similarity scores to retrieve the records of the most similar historical bridge design projects. </p>
         </div>
 
@@ -535,7 +535,10 @@ sections:
               <p class="project-date">(April 2015 - June 2017)</p>
             </div>
           </div>
-          <p class="project-description">Investigators: Doug Gransberg (PI), David Jeong, Chris Harper, Carla Del Puerto. NCHRP guidelines for applying partnering principles across all contracting methods and project delivery approaches.</p>
+          <p class="project-description">
+            • Investigators: Doug Gransberg (PI), David Jeong, Chris Harper, and Carla Del Puerto<br>
+            • Sponsor: National Cooperative Highway Research Program (NCHRP)<br>
+            • Objectives: Partnering has historically been viewed as a highly formalized process that encourages cooperation, joint problem solving, and focusing as a team on the objectives of a project.  Key elements of the partnering process have included partnering charters, escalation ladders, periodic workshops and meetings, and performance tracking among other things. The goal of this research project is to provide guidelines for applying the principles of partnering to projects delivered by all alternate contracting methods as well as traditional low bid projects. It also expands and extends the definition of partnering in the highway agency’s context to include program-level initiatives designed to avoid project-level disputes and to swiftly resolve them when they do arise.</p>
         </div>
 
         <hr>
@@ -550,7 +553,10 @@ sections:
               <p class="project-date">(February 2015 - January 2017)</p>
             </div>
           </div>
-          <p class="project-description">Investigators: David Jeong (PI), Doug Gransberg. Montana DOT project developing dynamic item basket and multidimensional HCCI methodology for market analysis.</p>
+          <p class="project-description">
+            • Investigators: David Jeong (PI) and Doug Gransberg<br>
+            • Sponsor: Montana Department of Transportation (MDT)<br>
+            • Objectives: A highway construction cost index (HCCI) is an indicator of the purchasing power of a highway agency. Thus, it must reflect the actual construction market conditions. However, the current method is not robust enough to meet this primary goal due to (1) a significantly insufficient sample size of bid items used in HCCI calculation and (2) inability to address the need to track cost trend of construction submarket segments such as, but not limited to, various project types, sizes, and locations. This study develops an advanced methodology to overcome these apparent limitations using two new concepts: (1) dynamic item basket; and (2) multidimensional HCCIs. The dynamic item basket process identifies and utilizes an optimum amount of bid-item data to calculate HCCIs in order to minimize the potential error due to a small sample size, which leads to a better reflection of the current market conditions. Multidimensional HCCIs dissect the state highway construction market into distinctively smaller sectors of interest and thus allow the agency to understand the market conditions with much higher granularity. The new methodology is expected to help making more-reliable decisions in preparing business plans and budgets with more accurate and detailed information about the construction market conditions.</p>
         </div>
 
         <hr>
@@ -565,7 +571,10 @@ sections:
               <p class="project-date">(July 2014- June 2016)</p>
             </div>
           </div>
-          <p class="project-description">Investigators: Sri Sritharan (PI), Siemens, David Jeong, others. DOE research evaluating hexagonal precast concrete wind tower feasibility with potential 2-4% levelized cost savings.</p>
+          <p class="project-description">
+            • Investigators: Sri Sritharan (PI), Siemens, David Jeong and others<br>
+            • Sponsor: Department of Energy (DOE)<br>
+            • Objectives: Wind power generation has seen a dramatic increase in the 21st century and the Department of Energy (DOE) envisions that wind energy will become a much larger part of overall power generation in the U.S. by 2050. Wind turbines have continued to grow in size during the last few decades with towers commonly built at a height of 80 m for typical utility-scale turbines in the Unites States. The newly proposed tall tower technology has been designed to be cost-effective in assembling towers as high as 140 m from precast concrete module components that are capable of transport on the U.S. road system. This goal of this research is to present an alternative wind tower design with potential for reducing the overall levelized cost of energy (LCOE). It evaluates a hexagonal precast concrete wind tower solution that facilitates use of a taller wind turbine generator for harvesting stronger, steadier, and more frequent wind resources to increase wind energy production and lower the overall LCOE. The research team developed a stochastic life cycle cost model using a parametric estimate of the cost and fabrication and assembly schedules of this new wind tower design concept as well as forecasting the projected revenue to be created by the new technology.  The key result is that this new design concept is a commercially viable solution, with an estimated LCOE savings ranging from 2% to 4% compared with the typical 80 m turbine deployed in the United States, and it also provides wind power potential to previously untapped regions in the country.  This research result helps to inform energy developers, manufacturers, and policy makers, both regionally and nationally, of a possible economically feasible wind tower design solution.</p>
         </div>
 
         <hr>
@@ -580,7 +589,10 @@ sections:
               <p class="project-date">(May 2015 - April 2017)</p>
             </div>
           </div>
-          <p class="project-description">Investigators: Doug Gransberg (PI), David Jeong (CoPI). Montana DOT project applying neural network methodology to improve early-stage construction cost estimates.</p>
+          <p class="project-description">
+            • Investigators: Doug Gransberg (PI) and David Jeong (CoPI)<br>
+            • Sponsor: Montana Department of Transportation (MDT)<br>
+            • Objectives: A better understanding of top-down estimating practices, and the resulting increases in the accuracy of budgeting efforts, may have significant contributions to public transportation agencies in their efforts to allocate agency funds more efficiently. However, regardless of the vast improvement in computing technologies over the past 30 years, no great advancement in CCE accuracy has been made, preventing state highway agencies from using these technologies within their work. This research project has applied an artificial neural network methodology, as well as a multiple regression estimation model, to compare prediction accuracy of proposed estimating approaches to those achieved under Montana Department of Transportation’s current practices. The research concluded that these advanced methods may provide higher confidence in estimating construction costs in early project development stages.</p>
         </div>
 
         <hr>
@@ -595,7 +607,10 @@ sections:
               <p class="project-date">(January 2013 - October 2015)</p>
             </div>
           </div>
-          <p class="project-description">Investigators: David Jeong (PI), Omar Smadi, Doug Gransberg. Midwest Transportation Center project developing systematic pavement treatment selection framework for local agencies.</p>
+          <p class="project-description">
+            • Investigators: David Jeong (PI), Omar Smadi, Doug Gransberg<br>
+            • Sponsor: Midwest Transportation Center (MTC)<br>
+            • Objectives: Most local agencies in Iowa currently make their pavement treatment decisions based on their limited experience due primarily to lack of a systematic decision-making framework and a decision-aid tool. The lack of objective condition assessment data of agency pavements also contributes to this problem. This study developed a systematic pavement treatment selection framework for local agencies to assist them in selecting the most appropriate treatment and to help justify their maintenance and rehabilitation decisions. The framework is based on an extensive literature review of the various pavement treatment techniques in terms of their technical applicability and limitations, meaningful practices of neighboring states, and the results of a survey of local agencies. The treatment selection framework involves three different steps: pavement condition assessment, selection of technically feasible treatments using decision trees, and selection of the most appropriate treatment considering the return-on-investment (ROI) and other non-economic factors.</p>
         </div>
 
         <hr>
@@ -610,7 +625,10 @@ sections:
               <p class="project-date">(June 2014 - August 2016)</p>
             </div>
           </div>
-          <p class="project-description">Investigators: David Jeong (PI), Doug Gransberg. Minnesota LRRB study identifying barriers in ROW acquisition and developing 25 recommendations for process improvement.</p>
+          <p class="project-description">
+            • Investigators: David Jeong (PI) and Doug Gransberg<br>
+            • Sponsor: Minnesota Local Road Research Board (LRRB)<br>
+            • Objectives: Many urban counties and cities in Minnesota spend more than 30% of their transportation project budgets for ROW acquisition and it continues to become more expensive, difficult, and time consuming for project implementation. This project a) identified barriers and obstacles that occur during the ROW acquisition process that result in cost increases and delays and b) developed recommendations for change in order to improve the existing ROW acquisition process and practices. In total, twenty-two barriers were identified under the categories of project delivery, agency’s internal capability, relationship with the public, appraisal and acquisition, and legislative and other issues. The root causes of those barriers were also analyzed, including uncooperative work environment, lack of tools and methods, distrust of property owners, and adverse effect of eminent domain law. This project has developed twenty five different recommendation ideas for change. Implementation of these ideas is anticipated to greatly enhance the ROW acquisition process but strong leadership and support from top management to implement those ideas are required.</p>
         </div>
 
         <hr>
@@ -625,7 +643,10 @@ sections:
               <p class="project-date">(July 2013 - December 2015)</p>
             </div>
           </div>
-          <p class="project-description">Investigators: David Jeong (PI), Doug Gransberg. Mid-America Transportation Center project developing ideal framework to improve DWR data collection and utilization.</p>
+          <p class="project-description">
+            • Investigators: David Jeong (PI) and Doug Gransberg<br>
+            • Sponsor: Mid-America Transportation Center<br>
+            • Objectives: A significant amount of time and effort is invested to collect and document various field activity data of a highway project in Daily Work Report (DWR). Although there are many potential benefits of DWR data, the current use of the data is very limited. The objective of this study is to develop an ideal framework for an advanced DWR system to improve the DWR data collection and utilization practices. The study concluded that there is a huge gap between the current and potential level of benefits of DWR data. The challenges for better collection and utilization of DWR data were identified and classified. An ideal framework for an advanced DWR system was developed to overcome those challenges. The ideal framework consists of seven major components: a) data attributes and its relations, b) integration with existing systems, c) visualization of data, d) advanced data collection systems, e) automation of DWR data analysis and reporting, f) human factors, and g) other technical aspects.</p>
         </div>
 
         <hr>
@@ -640,7 +661,10 @@ sections:
               <p class="project-date">(February 2013- March 2016)</p>
             </div>
           </div>
-          <p class="project-description">Investigators: Doug Gransberg (PI), David Jeong (CoPI), Carla Del Puerto. NCHRP project developing data-driven framework for preconstruction cost estimation using top-down and bottom-up approaches.</p>
+          <p class="project-description">
+            • Investigators: Doug Gransberg (PI), David Jeong (CoPI), Carla Del Puerto<br>
+            • Sponsor: National Cooperation Highway Research Program (NCHRP)<br>
+            • Objectives: Necessary resources must be allocated to the preconstruction process to permit planners and designers the time and funding to be able to solve technical, environmental, and constructability problems before the construction contract is advertised. Research has proven that correcting errors, omissions, and ambiguities in preconstruction is far less expensive than during construction (4). Therefore, ensuring that the preconstruction phases are allocated sufficient funding to adequately complete the necessary investigations, analyses, etc. is a previously unrecognized determinant of not only the project’s final quality but of the agency’s ability to control cost and schedule growth during project delivery.This research has developed a data-driven holistic framework that comprises both top-down and bottom-up approaches to estimate pre-construction costs that meet various stakeholders’ needs during the preconstruction phases of the project. It demonstrates how to complete pre-construction cost estimates at the point in project development where the typical project is assigned a project identification number.</p>
         </div>
 
         <hr>
@@ -655,7 +679,10 @@ sections:
               <p class="project-date">(April 2013 - July 2014)</p>
             </div>
           </div>
-          <p class="project-description">Investigators: Jennifer Shane (PI), Doug Gransberg, David Jeong. NCHRP SHRP2 extension developing strategies based on five-dimensional project management framework.</p>
+          <p class="project-description">
+            • Investigators: Jennifer Shane (PI), Doug Gransberg, David Jeong<br>
+            • Sponsor: National Cooperation Highway Research Program (NCHRP)<br>
+            • Objectives: Infrastructure needs within the United States have changed from building new facilities to replacing, expanding, and renewing existing facilities. The project management issues involved with infrastructure renewal differ from the project management issues for new construction. Correspondingly, new project management approaches must be integrated into mainstream practices for all sizes and types of projects to accelerate project delivery, reduce project costs, and minimize project disputes. This research project developed a set  of strategies, methods and tools to address the challenges of managing modern infrastructure projects that are considerably more complex than traditional projects. The research results are developed based on the five dimensional project management framework. The five dimensions are (1) cost, (2) schedule, (3) technical, (4) context, and (5) finance.</p>
         </div>
 
         <hr>
@@ -670,7 +697,316 @@ sections:
               <p class="project-date">(January 2013 - December 2014)</p>
             </div>
           </div>
-          <p class="project-description">Investigators: David Jeong (PI), Omar Smadi, Doug Gransberg. Iowa DOT project developing systematic treatment selection framework with Excel-based decision aid tool.</p>
+          <p class="project-description">
+            • Investigators: David Jeong (PI), Omar Smadi, Doug Gransberg<br>
+            • Sponsor: Iowa Department of Transportation<br>
+            • Objectives: Most local agencies in Iowa currently make their pavement treatment decisions based on their limited experience due to primarily lack of a systematic decision-making framework and a decision aid tool. The lack of objective condition assessment data of their pavements also contributes to this problem. This study developed a systematic pavement treatment selection framework for local agencies in order to assist them in selecting the most appropriate treatment and justify their maintenance and rehabilitation decisions. The framework is based upon extensive literature review on various pavement treatment techniques in terms of their technical applicability and limitations, meaningful practices of neighboring states and the results of a survey of local agencies.  The treatment selection framework involves three different steps: a) pavement condition assessment, b) selection of technically feasible treatments using decision trees, and c) selection of the most appropriate treatment considering the return on investment (ROI) and other non-economic factors. An Excel-based spreadsheet tool that automates the treatment selection framework was also developed. The spreadsheet tool allows users to enter the severity and extent level of existing distresses and then, it recommends a set of technically feasible treatments. The tool also evaluates the ROI of each feasible treatment and if necessary, it can also evaluate the non-economic value of each treatment option to determine the most appropriate treatment for the pavement under consideration. The framework and the Excel spreadsheet tool developed in this study are anticipated to significantly help local agencies in Iowa to improve their pavement asset management practices and make more economic and defensible decisions on pavement treatment selection.</p>
+        </div>
+<hr>
+
+        <div class="research-project">
+          <div class="project-header">
+            <div class="project-photo">
+              <img src="completed-30.jpg" alt="A Risk Based Asset Investment Decision">
+            </div>
+            <div class="project-title-area">
+              <h3 class="project-title">A Risk Based Asset Investment Decision Making Process Tool- Phase II</h3>
+              <p class="project-date">(2013)</p>
+            </div>
+          </div>
+          <p class="project-description">
+            • Investigators: Duncan Rose (PI), David Jeong, and others<br>
+            • Sponsor: Water Environmental Research Foundation (WERF)<br>
+            • Objectives: The optimal investment strategy is directed at minimizing total cost to the utility including deferral or avoidance of the consequences to customers and community of failure (alternatively, “maximize benefit to the community”). It is the interaction of the three end of life determinants (physical life, service level/capacity life, and economic life) when applied on a case-by-case basis that sheds insight as to the optimal point at which reinvestment should occur. This research provides discussion on a selective application of the advanced concepts included in the End of Asset Life reinvestment decision-making process tool using a utility practitioner’s data set. The tool provides step- by-step process guidance to the asset management practitioner in making the cyclical transitional decisions between maintenance, operations and capital with a particular focus on the transition to capital reinvestment. In this research, the survivability or the probability of failure of an asset was determined from a survival curve developed through survival analysis provided sufficient, appropriate data is available.</p>
+        </div>
+        <hr>
+
+        <div class="research-project">
+          <div class="project-header">
+            <div class="project-photo">
+              <img src="completed-31.jpg" alt="Data and Information Integration Framework">
+            </div>
+            <div class="project-title-area">
+              <h3 class="project-title">Data and Information Integration Framework for Highway Project Decision Makings</h3>
+              <p class="project-date">(Aprill 2012 - June 2013)</p>
+            </div>
+          </div>
+          <p class="project-description">
+            • Investigators: David Jeong (PI) and Phil Lewis<br>
+            • Sponsor: Oklahoma Transportation Center (OkTC)<br>
+            • Objectives: A well-documented data with clear data flow, efficient data management system, appropriate tools and/or approaches to store, extract and manage information and knowledge would enhance the potential user’s decision-making process. This research develops a three-tiered framework to integrate data, information and decision-making in highway projects. The study uses the Juran’s Triple Role concept and context graph to illustrate the relationship between data, information and decision-making. The study discusses the complexity of data and information flow through a conceptual 3-D data flow diagram. The evolution of data and information integration in highway agencies is also outlined in the report. Potential methodologies in extracting information from raw qualitative and quantitative data are summarized. The developed framework was applied to three case studies; a) construction daily work reports, b) preconstruction cost estimation, and c) pavement management. In each case study, the three-tiered framework is applied and the current and ideal level of data and information integration for key decisions are identified and areas for improvement are also identified. The developed framework will guide highway agencies how to generate and place right information and knowledge in the hands of decision makers. The implementation of the framework will empower engineers to make informed and justifiable decisions, and lead to the improved accountability of project development and management. In addition, it will allow the active utilization of currently existing databases and justify the continuous and growing data collection efforts by highway agencies.</p>
+        </div>
+        <hr>
+
+        <div class="research-project">
+          <div class="project-header">
+            <div class="project-photo">
+              <img src="completed-32.jpg" alt="Calibration of Controlling Input Models">
+            </div>
+            <div class="project-title-area">
+              <h3 class="project-title">Calibration of Controlling Input Models for Pavement Management System</h3>
+              <p class="project-date">(April 2012- June 2013)</p>
+            </div>
+          </div>
+          <p class="project-description">
+            • Investigators: David Jeong (PI) and Phil Lewis<br>
+            • Sponsor: Oklahoma Transportation Center (OkTC)<br>
+            • Objectives:In a typical pavement management system, several input models which are computational backbones are used to develop maintenance and rehabilitation plans for pavements. Some of the major input models include the classification of pavement families, deterioration curves, and effectiveness of various treatment options. These major input models are currently in active use without any thorough validation using actual pavement condition assessment data. Validation and calibration of existing input models for pavement management systems has been one of the major technical goals by highway agencies. This research project used the proven Knowledge Discovery in Database (KDD) approach to investigate historical pavement condition assessment data in a structured manner in order to evaluate the performance of current input models and developed new models and/or calibrated the existing models for more accurate and reliable planning for pavement maintenance and rehabilitation activities. The performance of newly developed or calibrated input models were compared with the performance of current input models.</p>
+        </div>
+<hr>
+
+        <div class="research-project">
+          <div class="project-header">
+            <div class="project-photo">
+              <img src="completed-33.jpg" alt="Iowa Pavement Decision Framework">
+            </div>
+            <div class="project-title-area">
+              <h3 class="project-title">Development of a Next Generation Smart Project Management Information System (PMIS)</h3>
+              <p class="project-date">(June 2011 - May 2013)</p>
+            </div>
+          </div>
+          <p class="project-description">
+            • Investigators: CD Kim (PI), David Jeong (PI), Dr. YG Kim<br>
+            • Sponsor: Korean Small and Medium Business Administration (KSMBA)<br>
+            • Objectives: Rapid and reliable decision making and management of construction projects has become important as the owners of construction projects require fast delivery of their projects. In addition, rapid development of information technologies has changed the way business is executed in many industry sectors. As mobile personal computers have become more powerful with improved data storage capabilities and wireless connection abilities, mobile personal computer based project management information system (PMIS) is considered to be an onsite project management system for the future. It is anticipated that these mobile PMISs will significantly improve project productivity and work efficiency by allowing real-time access to project information and consequently, rapid and reliable decision making.  The objective of this study is to assess the needs of mobile PMIS information applications for use on construction jobsites and identify useful and desirable functions that must be available in the mobile PMIS tools in order to effectively handle project management issues in the field.</p>
+        </div>
+<hr>
+
+        <div class="research-project">
+          <div class="project-header">
+            <div class="project-photo">
+              <img src="completed-34.jpg" alt="Decision Making Process Tool">
+            </div>
+            <div class="project-title-area">
+              <h3 class="project-title">A Risk Based Asset Investment Decision Making Process Tool</h3>
+              <p class="project-date">(March 2011 - June 2012)</p>
+            </div>
+          </div>
+          <p class="project-description">
+            • Investigators: Wayne Francisco (PI), David Jeong, CSIRO in Australia<br>
+            • Sponsor: Water Environmental Research Foundation (WERF)<br>
+            • Objectives: The prime output of this project is a decision support tool to assist utilities in more effectively implementing their asset management programs to provide reliable service to their customers, while meeting the requirements of the Clean Water Act.</p>
+        </div>
+<hr>
+
+        <div class="research-project">
+          <div class="project-header">
+            <div class="project-photo">
+              <img src="completed-35.jpg" alt="Cycle Cost Analysis">
+            </div>
+            <div class="project-title-area">
+              <h3 class="project-title">Alternative Bidding Strategies for Asphalt and Concrete Pavement Projects Utilizing Life Cycle Cost Analysis</h3>
+              <p class="project-date">(April 2010 - May 2012)</p>
+            </div>
+          </div>
+          <p class="project-description">
+            • Investigators: David Jeong (PI)<br>
+            • Sponsor: Oklahoma Transportation Center (OkTC)<br>
+            • Objectives: Recent changes in pavement materials costs have impacted the competitive environment relative to the determination of the most cost effective pavement structure for a specific highway project. In response, State highway agencies have renewed their interest in using alternate pavement type bidding procedures to determine the appropriate pavement type. This research project developed an alternative bidding procedure for pavement projects. Not all highway projects are candidates for alternate bidding. A step by step procedure can help identify candidate highway projects for alternate bidding. In addition to developing a deterministic life cycle cost (LCC) analysis model using historical pavement data, the research team also developed a novel approach, namely, realistic LCCA model. This approach uses the association rule mining technique to find and probabilistically organize various treatment patterns applied to pavements in the past. A case study conducted in this project revealed that this realistic LCCA model is more reliable and is expected to provide better predictions on LCC. Moreover, since this approach is based upon the historical performance of pavements, it is expected to be easier to draw consensus between the asphalt and concrete industries in calculating life cycle costs.</p>
+        </div>
+<hr>
+
+        <div class="research-project">
+          <div class="project-header">
+            <div class="project-photo">
+              <img src="completed-36.jpg" alt="Models for Estimating">
+            </div>
+            <div class="project-title-area">
+              <h3 class="project-title">Procedures and Models for Estimating Preconstruction Engineering Costs of Highway Projects</h3>
+              <p class="project-date">(April 2010 - May 2012)</p>
+            </div>
+          </div>
+          <p class="project-description">
+            • Investigators: David Jeong (PI)<br>
+            • Sponsor: Oklahoma Transportation Center (OkTC)<br>
+            • Objectives: This study presents data driven and component-based preliminary engineering (PE) cost prediction models by utilizing critical factors retrieved from ten years of historical project data obtained from oklahoma department of transportation’s roadway division. The study used factor analysis of covariance and correlation matrix to investigate the significance of factors affecting preliminary engineering cost and identify the correlation among them. A combination of three models; regression models, decision tree models and neural network models were developed to obtain the optimum roadway PE cost models. The results of this project are expected to significantly influence how efficiently and economically highway projects are planned, executed and managed in the early stages of a project.</p>
+        </div>
+<hr>
+
+        <div class="research-project">
+          <div class="project-header">
+            <div class="project-photo">
+              <img src="completed-37.jpg" alt="Robot-based Automated Building Construction System">
+            </div>
+            <div class="project-title-area">
+              <h3 class="project-title">Robot-based Automated Building Construction System for High-rise Buildings</h3>
+              <p class="project-date">(July 2009 – October 2011)</p>
+            </div>
+          </div>
+          <p class="project-description">
+            • Investigators: David Jeong (PI)<br>
+            • Sponsor: Korean Ministry of Land, Transport and Maritime Affairs (KMLTMA)<br>
+            • Objectives: A new construction method called the robot-based construction automation system (RCA) was developed in South Korea and this system was applied to a real scale pilot project. The RCA system is composed of four sub-technologies; (1) automated identification of construction materials, (2) automated structural material assembly without human resources, (3) robotic crane for building construction, and (4) bolting robot for steel structure. Although these individual technologies have already been developed successfully, it was designed for a mid-rise building in the pilot project. The objective of this research is to identify areas to modify in order to apply this new system to high-rise buildings. The research team has analyzed fundamental applicability of the robot-based automated building construction system to high-rise building. A simulation based analysis was conducted to test whether modified technologies will be viable solutions to high rise building projects when RCA is used.</p>
+        </div>
+<hr>
+
+        <div class="research-project">
+          <div class="project-header">
+            <div class="project-photo">
+              <img src="completed-39.jpg" alt="Evaluation of Business Models">
+            </div>
+            <div class="project-title-area">
+              <h3 class="project-title">Evaluation of Business Models and Internet Based Systems for Construction Products Information</h3>
+              <p class="project-date">(June 2008 – May 2011)</p>
+            </div>
+          </div>
+          <p class="project-description">
+            • Investigators: David Jeong (PI)<br>
+            • Sponsor: Korean Institute of Construction Technologies (KICT)<br>
+            • Objectives: In the Architectural, Engineering and Construction (A/E/C) industry, advanced information technologies and the availability of the Internet services have significantly improved the efficiency of data flow between parties involved in construction and have allowed faster and easier access and storage of useful and relevant data to construction projects which were not simply available before. Of all the types of data exchanged between players in construction, construction product information constitutes the largest volume. Some leading construction product information providers have increased their business revenues and profits by operating internet based systems in which the information of the construction products is easily accessible and available in various formats to construction product information users. This study has a) identified various factors that are critical for a successful operation of construction products information market, b) identified and developed successful business models that are currently in operation for construction products information systems in the U.S. A/E/C industry, and c) identified organizational and operational structures of successful construction product information providers and developed a set of recommendations as a business implementation plan.</p>
+        </div>
+<hr>
+
+        <div class="research-project">
+          <div class="project-header">
+            <div class="project-photo">
+              <img src="completed-40.jpg" alt="Knowledge Management">
+            </div>
+            <div class="project-title-area">
+              <h3 class="project-title">Knowledge Management for Underground Infrastructure Asset Management Information System</h3>
+              <p class="project-date">(August 2008 – August 2010)</p>
+            </div>
+          </div>
+          <p class="project-description">
+            • Investigators: David Jeong (PI)<br>
+            • Sponsor: GHD, Inc.<br>
+            • Objectives: The nation’s water and wastewater pipeline networks are aged and deteriorating. As these infrastructure systems approach their design lives, there is an increasing demand for new construction, replacement, rehabilitation, and maintenance projects. Due to limited financial resources, it is important to get the most of the available budget by making the right decision in the planning, design, construction, and operation and maintenance activities. Asset management aims to maintain a desired level of service at the lowest cost throughout the asset’s life using advanced decision-making processes. The main objective of this research is to develop a framework of advanced asset management that improves asset management practices by optimally utilizing the readily available data. A complete historical dataset from an utility organization was used as a case study. Specifically, this study a) developed a Dynamic Deterioration Model that is capable of doing individual and group prediction depending on data availability, b) conducted a performance comparison study between different modeling techniques in the context Dynamic Deterioration Model to obtain the recommendation on the best modeling technique, c) developed an application of life cycle cost analysis model for sewer pipe material selection, and d) developed an application of a risk assessment model that measures the criticality for the prioritization of sewer pipe replacement.</p>
+        </div>
+<hr>
+
+        <div class="research-project">
+          <div class="project-header">
+            <div class="project-photo">
+              <img src="completed-41.jpg" alt="Evaluation of Construction Strategies">
+            </div>
+            <div class="project-title-area">
+              <h3 class="project-title">Evaluation of Construction Strategies for PCC Pavements</h3>
+              <p class="project-date">(August 2008 -  September 2010)</p>
+            </div>
+          </div>
+          <p class="project-description">
+            • Investigators: David Jeong (PI), Javier Irizarry (Co-PI) and Daniel Castro (Co-PI) -Georgia Tech<br>
+            • Sponsor: Oklahoma Transportation Center<br>
+            • Objectives: Most highways in the United States were built during the 1960s and 1970s and have exceeded their design lives. Most transportation departments have turned their focal activities from the expansion of the highway system to maintaining, preserving, and rehabilitating the existing road network. With increasing needs of pavement maintenance projects, there is a need for better management strategies for these high demand projects in the nation. This study investigated project management level solutions to optimizing resources, minimizing costs (including user costs), and reducing time for Portland Cement Concrete (PCC) pavement rehabilitation projects. This study extensively evaluated the applicability of the Construction Analysis for Pavement Rehabilitation Strategies (CA4PRS) software program as a potential solution to achieve the goal. The usability of the CA4PRS was assessed by conducting knowledge inventory surveys at Georgia Department of Transportation and Oklahoma Department of Transportation as well as conducting four case studies. Based on the findings of this study, this project has designed an improved planning procedure to find the most efficient project phasing and closure scenario for PCC pavement rehabilitation projects. A set of recommendations was developed to guide highway agencies.</p>
+        </div>
+<hr>
+
+        <div class="research-project">
+          <div class="project-header">
+            <div class="project-photo">
+              <img src="completed-42.jpg" alt="Development of an Improved System">
+            </div>
+            <div class="project-title-area">
+              <h3 class="project-title">Development of an Improved System for Contract Time Determination – Phase III</h3>
+              <p class="project-date">(August 2008 -  September 2010)</p>
+            </div>
+          </div>
+          <p class="project-description">
+            • Investigators: David Jeong (PI) and Gary Oberlender (Co-PI)<br>
+            • Sponsor: Oklahoma Transportation Center (OkTC)<br>
+            • Objectives: In the Phase III, the research team developed Daily Work Report (DWR) based estimation models to determine reasonable production rates of controlling activities of highway projects. The study used available resources such as DWR, soil data, AADT and other existing project data from the various divisions of Oklahoma Department of Transportation as primary source in estimating productivity. The study describes the effects and variations of production rates of highway activities to changes in environmental, geographical and project site conditions. The study also includes a relative comparison between a survey of experts’ estimate of production rate and DWR based prediction models. The models would allow ODOT engineers and schedulers to improve their accuracy and save their time in determining more reliable production rates of major highway construction activities by easily adjusting site conditions and project factors.</p>
+        </div>
+<hr>
+
+        <div class="research-project">
+          <div class="project-header">
+            <div class="project-photo">
+              <img src="completed-43.jpg" alt="Performance Assessment">
+            </div>
+            <div class="project-title-area">
+              <h3 class="project-title">Performance Assessment of On-Grade Horizontal Directional Drilling Technology</h3>
+              <p class="project-date">(March 2008 -  August 2009)</p>
+            </div>
+          </div>
+          <p class="project-description">
+            • Investigators: David Jeong (PI) and Gary Oberlender (Co-PI)<br>
+            • Sponsor: The Charles Machine Works, Inc.<br>
+            • Objectives: Many existing utility systems are located in congested or urban areas.  Installation, rehabilitation, or renewal of these systems using traditional open-cut construction causes significant disruption of service, interference of vehicular traffic, unsafe trenches to workers and pedestrians, and disturbance to businesses.  To reduce the disruptions caused by open-cut construction the Horizontal Directional Drilling (HDD) method has been widely accepted and used for installing gas and water lines, telecommunication cables, and electrical conduits. One application where HDD has had only moderate success is in the installation of gravity flow liquid conduits, such as sewer and storm drainage. The on-grade HDD method is a new and technically viable option for constructing gravity sewer pipelines. This study conducted a comprehensive assessment of its technical capabilities and economic feasibilities over the open-cut method.</p>
+        </div>
+<hr>
+
+        <div class="research-project">
+          <div class="project-header">
+            <div class="project-photo">
+              <img src="completed-44.jpg" alt="Estimating as a Competency">
+            </div>
+            <div class="project-title-area">
+              <h3 class="project-title">Estimating as a Competency in Capital Projects</h3>
+              <p class="project-date">(August 2007 -  December 2009)</p>
+            </div>
+          </div>
+          <p class="project-description">
+            • Investigators: David Jeong (PI), Gary Oberlender, Oswald Chong<br>
+            • Sponsor: Construction Industry Institute (CII)<br>
+            • Objectives:The greatest challenge facing the cost estimating community over the next decade is the loss of knowledge and experience from highly experienced estimators. A large percentage of experienced estimators are retiring and there is a shortage of qualified cost estimators to replace them in the engineering/construction industry. Cost estimating is a critical function for successful capital projects and reliable estimates depend heavily on the competency of cost estimators. Tools that aid the estimating process cannot replace the judgment and experience of a competent estimator. CII Research Team 253 was chartered to find solutions to both issues: the short supply of competent estimators and the loss of knowledge and experience of retiring estimators.  The research team 1) identified cost estimating competencies and investigated the gaps between the current and desired level of cost estimating competencies, 2) identified effective methods to recruit, attract, and retain cost estimators, 3) identified effective methods and strategies to transfer estimating knowledge and skills, 4) developed plans to educate and train new estimators, and 5) identified career paths for cost estimators.</p>
+        </div>
+<hr>
+
+        <div class="research-project">
+          <div class="project-header">
+            <div class="project-photo">
+              <img src="completed-45.jpg" alt="Development of Improved System">
+            </div>
+            <div class="project-title-area">
+              <h3 class="project-title">Development of Improved System for Contract Time Determination (Phase II)</h3>
+              <p class="project-date">(January 2007 – September 2007)</p>
+            </div>
+          </div>
+          <p class="project-description">
+            • Investigators: David Jeong (PI) and Gary Oberlender (Co-PI)<br>
+            • Sponsor: Oklahoma Department of Transportation<br>
+            • Objectives: Phase II has expanded from Phase I and developed a standalone computer software to automatically determine the contract time of Tier II and Tier III projects when quantities of controlling activities are given. The developed software, namely, OK-CTDS uses VB.Net as a main programming language to build graphic user interfaces (GUIs) and uses the Microsoft Access as a main database. The program is linked with the Microsoft project to automatically generate a project schedule and the critical path of the project. The OK-CTDS has an internal function to automatically transfer all the project data to the Microsoft project from the developed software. The validation results show that the developed system can produce a reasonably accurate contract time for highway projects.</p>
+        </div>
+<hr>
+
+        <div class="research-project">
+          <div class="project-header">
+            <div class="project-photo">
+              <img src="completed-46.jpg" alt="Performance Assessment">
+            </div>
+            <div class="project-title-area">
+              <h3 class="project-title">Performance Assessment of On-Board Survey Methodologies</h3>
+              <p class="project-date">(August 2006 -  August 2010)</p>
+            </div>
+          </div>
+          <p class="project-description">
+            • Investigators: David Jeong (PI), Samir Ahmed (Co-PI), and Gary Oberlender (Co-PI)<br>
+            • Sponsor: Federal Transit Administration (FTA)<br>
+            • Objectives: Transit agencies rely on surveys conducted on on-board buses and trains or in transit stations to obtain vital information and opinions from a cross section of their customers. The goal of this project is to assess the performance of on-board survey methods that are commonly used and have potential to improve the overall quality and the response rate of on-board surveys. This project provides the analysis of field tests and summarizes the results of recent on-board surveys conducted in major cities. The output of this research project is empirical based on statistical comparisons of different sets of on-board survey techniques. The findings of this report are expected to benefit future data collection efforts of on-board surveys.</p>
+        </div>
+<hr>
+
+        <div class="research-project">
+          <div class="project-header">
+            <div class="project-photo">
+              <img src="completed-47.jpg" alt="Evaluation of DOT Practices">
+            </div>
+            <div class="project-title-area">
+              <h3 class="project-title">Evaluation of DOT Practices in the U.S. for Rehabilitation of Transportation Drainage Structures</h3>
+              <p class="project-date">(February 2006 - July 2006)</p>
+            </div>
+          </div>
+          <p class="project-description">
+            • Investigators: David Jeong (PI) and Gary Oberlender (Co-PI)<br>
+            • Sponsor: Sekisui-SPR Americas<br>
+            • Objectives: The goal of this project was to evaluate various practices of rehabilitating transportation drainage structures used by state departments of transportation and identify the best practices.</p>
+        </div>
+<hr>
+
+        <div class="research-project">
+          <div class="project-header">
+            <div class="project-photo">
+              <img src="completed-48.jpg" alt="Development of an Improved System">
+            </div>
+            <div class="project-title-area">
+              <h3 class="project-title">Development of an Improved System for Contract Time Determination (Phase – I)</h3>
+              <p class="project-date">(January 2006 - December 2007)</p>
+            </div>
+          </div>
+          <p class="project-description">
+            • Investigators: David Jeong (PI)  and Gary Oberlender (Co-PI)<br>
+            • Sponsor: Oklahoma Transportation Center (OkTC)<br>
+            • Objectives: Contract time is the maximum time allowed in the contract for completion of all work contained in the contract documents. An accurate forecast of contract time is crucial to contract administration as the predicted duration and associated cost form a basis for budgeting, planning, monitoring and even litigation purposes. The goal of Phase I study is to develop a systematic process of estimating construction time for Oklahoma Department of Transportation (ODOT) by improving their old processes. ODOT highway projects were classified into three different Tiers through the evaluation of recently completed highway projects and a series of technical meetings and discussions with ODOT design division engineers, schedulers, contractors and FHWA-Oklahoma Division engineers. Phase I has developed a manual system to determine the contract time for Tier II highway projects.</p>
         </div>
     design:
       columns: '1'

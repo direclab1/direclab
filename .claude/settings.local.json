@@ -13,7 +13,9 @@
       "Bash(kill:*)",
       "Bash(identify:*)",
       "Bash(sips:*)",
-      "Bash(find:*)"
+      "Bash(find:*)",
+      "Bash(sed:*)",
+      "Bash(cat:*)"
     ],
     "deny": [],
     "ask": []

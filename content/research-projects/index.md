@@ -702,7 +702,8 @@ sections:
             • Sponsor: Iowa Department of Transportation<br>
             • Objectives: Most local agencies in Iowa currently make their pavement treatment decisions based on their limited experience due to primarily lack of a systematic decision-making framework and a decision aid tool. The lack of objective condition assessment data of their pavements also contributes to this problem. This study developed a systematic pavement treatment selection framework for local agencies in order to assist them in selecting the most appropriate treatment and justify their maintenance and rehabilitation decisions. The framework is based upon extensive literature review on various pavement treatment techniques in terms of their technical applicability and limitations, meaningful practices of neighboring states and the results of a survey of local agencies.  The treatment selection framework involves three different steps: a) pavement condition assessment, b) selection of technically feasible treatments using decision trees, and c) selection of the most appropriate treatment considering the return on investment (ROI) and other non-economic factors. An Excel-based spreadsheet tool that automates the treatment selection framework was also developed. The spreadsheet tool allows users to enter the severity and extent level of existing distresses and then, it recommends a set of technically feasible treatments. The tool also evaluates the ROI of each feasible treatment and if necessary, it can also evaluate the non-economic value of each treatment option to determine the most appropriate treatment for the pavement under consideration. The framework and the Excel spreadsheet tool developed in this study are anticipated to significantly help local agencies in Iowa to improve their pavement asset management practices and make more economic and defensible decisions on pavement treatment selection.</p>
         </div>
-<hr>
+    
+        <hr>
 
         <div class="research-project">
           <div class="project-header">
@@ -753,7 +754,7 @@ sections:
             • Sponsor: Oklahoma Transportation Center (OkTC)<br>
             • Objectives:In a typical pavement management system, several input models which are computational backbones are used to develop maintenance and rehabilitation plans for pavements. Some of the major input models include the classification of pavement families, deterioration curves, and effectiveness of various treatment options. These major input models are currently in active use without any thorough validation using actual pavement condition assessment data. Validation and calibration of existing input models for pavement management systems has been one of the major technical goals by highway agencies. This research project used the proven Knowledge Discovery in Database (KDD) approach to investigate historical pavement condition assessment data in a structured manner in order to evaluate the performance of current input models and developed new models and/or calibrated the existing models for more accurate and reliable planning for pavement maintenance and rehabilitation activities. The performance of newly developed or calibrated input models were compared with the performance of current input models.</p>
         </div>
-<hr>
+        <hr>
 
         <div class="research-project">
           <div class="project-header">
@@ -770,7 +771,7 @@ sections:
             • Sponsor: Korean Small and Medium Business Administration (KSMBA)<br>
             • Objectives: Rapid and reliable decision making and management of construction projects has become important as the owners of construction projects require fast delivery of their projects. In addition, rapid development of information technologies has changed the way business is executed in many industry sectors. As mobile personal computers have become more powerful with improved data storage capabilities and wireless connection abilities, mobile personal computer based project management information system (PMIS) is considered to be an onsite project management system for the future. It is anticipated that these mobile PMISs will significantly improve project productivity and work efficiency by allowing real-time access to project information and consequently, rapid and reliable decision making.  The objective of this study is to assess the needs of mobile PMIS information applications for use on construction jobsites and identify useful and desirable functions that must be available in the mobile PMIS tools in order to effectively handle project management issues in the field.</p>
         </div>
-<hr>
+        <hr>
 
         <div class="research-project">
           <div class="project-header">
@@ -787,7 +788,7 @@ sections:
             • Sponsor: Water Environmental Research Foundation (WERF)<br>
             • Objectives: The prime output of this project is a decision support tool to assist utilities in more effectively implementing their asset management programs to provide reliable service to their customers, while meeting the requirements of the Clean Water Act.</p>
         </div>
-<hr>
+        <hr>
 
         <div class="research-project">
           <div class="project-header">
@@ -804,7 +805,7 @@ sections:
             • Sponsor: Oklahoma Transportation Center (OkTC)<br>
             • Objectives: Recent changes in pavement materials costs have impacted the competitive environment relative to the determination of the most cost effective pavement structure for a specific highway project. In response, State highway agencies have renewed their interest in using alternate pavement type bidding procedures to determine the appropriate pavement type. This research project developed an alternative bidding procedure for pavement projects. Not all highway projects are candidates for alternate bidding. A step by step procedure can help identify candidate highway projects for alternate bidding. In addition to developing a deterministic life cycle cost (LCC) analysis model using historical pavement data, the research team also developed a novel approach, namely, realistic LCCA model. This approach uses the association rule mining technique to find and probabilistically organize various treatment patterns applied to pavements in the past. A case study conducted in this project revealed that this realistic LCCA model is more reliable and is expected to provide better predictions on LCC. Moreover, since this approach is based upon the historical performance of pavements, it is expected to be easier to draw consensus between the asphalt and concrete industries in calculating life cycle costs.</p>
         </div>
-<hr>
+        <hr>
 
         <div class="research-project">
           <div class="project-header">
@@ -821,7 +822,7 @@ sections:
             • Sponsor: Oklahoma Transportation Center (OkTC)<br>
             • Objectives: This study presents data driven and component-based preliminary engineering (PE) cost prediction models by utilizing critical factors retrieved from ten years of historical project data obtained from oklahoma department of transportation’s roadway division. The study used factor analysis of covariance and correlation matrix to investigate the significance of factors affecting preliminary engineering cost and identify the correlation among them. A combination of three models; regression models, decision tree models and neural network models were developed to obtain the optimum roadway PE cost models. The results of this project are expected to significantly influence how efficiently and economically highway projects are planned, executed and managed in the early stages of a project.</p>
         </div>
-<hr>
+        <hr>
 
         <div class="research-project">
           <div class="project-header">
@@ -838,7 +839,7 @@ sections:
             • Sponsor: Korean Ministry of Land, Transport and Maritime Affairs (KMLTMA)<br>
             • Objectives: A new construction method called the robot-based construction automation system (RCA) was developed in South Korea and this system was applied to a real scale pilot project. The RCA system is composed of four sub-technologies; (1) automated identification of construction materials, (2) automated structural material assembly without human resources, (3) robotic crane for building construction, and (4) bolting robot for steel structure. Although these individual technologies have already been developed successfully, it was designed for a mid-rise building in the pilot project. The objective of this research is to identify areas to modify in order to apply this new system to high-rise buildings. The research team has analyzed fundamental applicability of the robot-based automated building construction system to high-rise building. A simulation based analysis was conducted to test whether modified technologies will be viable solutions to high rise building projects when RCA is used.</p>
         </div>
-<hr>
+        <hr>
 
         <div class="research-project">
           <div class="project-header">
@@ -855,7 +856,7 @@ sections:
             • Sponsor: Korean Institute of Construction Technologies (KICT)<br>
             • Objectives: In the Architectural, Engineering and Construction (A/E/C) industry, advanced information technologies and the availability of the Internet services have significantly improved the efficiency of data flow between parties involved in construction and have allowed faster and easier access and storage of useful and relevant data to construction projects which were not simply available before. Of all the types of data exchanged between players in construction, construction product information constitutes the largest volume. Some leading construction product information providers have increased their business revenues and profits by operating internet based systems in which the information of the construction products is easily accessible and available in various formats to construction product information users. This study has a) identified various factors that are critical for a successful operation of construction products information market, b) identified and developed successful business models that are currently in operation for construction products information systems in the U.S. A/E/C industry, and c) identified organizational and operational structures of successful construction product information providers and developed a set of recommendations as a business implementation plan.</p>
         </div>
-<hr>
+        <hr>
 
         <div class="research-project">
           <div class="project-header">
@@ -872,7 +873,7 @@ sections:
             • Sponsor: GHD, Inc.<br>
             • Objectives: The nation’s water and wastewater pipeline networks are aged and deteriorating. As these infrastructure systems approach their design lives, there is an increasing demand for new construction, replacement, rehabilitation, and maintenance projects. Due to limited financial resources, it is important to get the most of the available budget by making the right decision in the planning, design, construction, and operation and maintenance activities. Asset management aims to maintain a desired level of service at the lowest cost throughout the asset’s life using advanced decision-making processes. The main objective of this research is to develop a framework of advanced asset management that improves asset management practices by optimally utilizing the readily available data. A complete historical dataset from an utility organization was used as a case study. Specifically, this study a) developed a Dynamic Deterioration Model that is capable of doing individual and group prediction depending on data availability, b) conducted a performance comparison study between different modeling techniques in the context Dynamic Deterioration Model to obtain the recommendation on the best modeling technique, c) developed an application of life cycle cost analysis model for sewer pipe material selection, and d) developed an application of a risk assessment model that measures the criticality for the prioritization of sewer pipe replacement.</p>
         </div>
-<hr>
+        <hr>
 
         <div class="research-project">
           <div class="project-header">
@@ -889,7 +890,7 @@ sections:
             • Sponsor: Oklahoma Transportation Center<br>
             • Objectives: Most highways in the United States were built during the 1960s and 1970s and have exceeded their design lives. Most transportation departments have turned their focal activities from the expansion of the highway system to maintaining, preserving, and rehabilitating the existing road network. With increasing needs of pavement maintenance projects, there is a need for better management strategies for these high demand projects in the nation. This study investigated project management level solutions to optimizing resources, minimizing costs (including user costs), and reducing time for Portland Cement Concrete (PCC) pavement rehabilitation projects. This study extensively evaluated the applicability of the Construction Analysis for Pavement Rehabilitation Strategies (CA4PRS) software program as a potential solution to achieve the goal. The usability of the CA4PRS was assessed by conducting knowledge inventory surveys at Georgia Department of Transportation and Oklahoma Department of Transportation as well as conducting four case studies. Based on the findings of this study, this project has designed an improved planning procedure to find the most efficient project phasing and closure scenario for PCC pavement rehabilitation projects. A set of recommendations was developed to guide highway agencies.</p>
         </div>
-<hr>
+        <hr>
 
         <div class="research-project">
           <div class="project-header">
@@ -906,7 +907,7 @@ sections:
             • Sponsor: Oklahoma Transportation Center (OkTC)<br>
             • Objectives: In the Phase III, the research team developed Daily Work Report (DWR) based estimation models to determine reasonable production rates of controlling activities of highway projects. The study used available resources such as DWR, soil data, AADT and other existing project data from the various divisions of Oklahoma Department of Transportation as primary source in estimating productivity. The study describes the effects and variations of production rates of highway activities to changes in environmental, geographical and project site conditions. The study also includes a relative comparison between a survey of experts’ estimate of production rate and DWR based prediction models. The models would allow ODOT engineers and schedulers to improve their accuracy and save their time in determining more reliable production rates of major highway construction activities by easily adjusting site conditions and project factors.</p>
         </div>
-<hr>
+        <hr>
 
         <div class="research-project">
           <div class="project-header">
@@ -923,7 +924,7 @@ sections:
             • Sponsor: The Charles Machine Works, Inc.<br>
             • Objectives: Many existing utility systems are located in congested or urban areas.  Installation, rehabilitation, or renewal of these systems using traditional open-cut construction causes significant disruption of service, interference of vehicular traffic, unsafe trenches to workers and pedestrians, and disturbance to businesses.  To reduce the disruptions caused by open-cut construction the Horizontal Directional Drilling (HDD) method has been widely accepted and used for installing gas and water lines, telecommunication cables, and electrical conduits. One application where HDD has had only moderate success is in the installation of gravity flow liquid conduits, such as sewer and storm drainage. The on-grade HDD method is a new and technically viable option for constructing gravity sewer pipelines. This study conducted a comprehensive assessment of its technical capabilities and economic feasibilities over the open-cut method.</p>
         </div>
-<hr>
+        <hr>
 
         <div class="research-project">
           <div class="project-header">
@@ -940,7 +941,7 @@ sections:
             • Sponsor: Construction Industry Institute (CII)<br>
             • Objectives:The greatest challenge facing the cost estimating community over the next decade is the loss of knowledge and experience from highly experienced estimators. A large percentage of experienced estimators are retiring and there is a shortage of qualified cost estimators to replace them in the engineering/construction industry. Cost estimating is a critical function for successful capital projects and reliable estimates depend heavily on the competency of cost estimators. Tools that aid the estimating process cannot replace the judgment and experience of a competent estimator. CII Research Team 253 was chartered to find solutions to both issues: the short supply of competent estimators and the loss of knowledge and experience of retiring estimators.  The research team 1) identified cost estimating competencies and investigated the gaps between the current and desired level of cost estimating competencies, 2) identified effective methods to recruit, attract, and retain cost estimators, 3) identified effective methods and strategies to transfer estimating knowledge and skills, 4) developed plans to educate and train new estimators, and 5) identified career paths for cost estimators.</p>
         </div>
-<hr>
+        <hr>
 
         <div class="research-project">
           <div class="project-header">
@@ -957,7 +958,7 @@ sections:
             • Sponsor: Oklahoma Department of Transportation<br>
             • Objectives: Phase II has expanded from Phase I and developed a standalone computer software to automatically determine the contract time of Tier II and Tier III projects when quantities of controlling activities are given. The developed software, namely, OK-CTDS uses VB.Net as a main programming language to build graphic user interfaces (GUIs) and uses the Microsoft Access as a main database. The program is linked with the Microsoft project to automatically generate a project schedule and the critical path of the project. The OK-CTDS has an internal function to automatically transfer all the project data to the Microsoft project from the developed software. The validation results show that the developed system can produce a reasonably accurate contract time for highway projects.</p>
         </div>
-<hr>
+        <hr>
 
         <div class="research-project">
           <div class="project-header">
@@ -974,7 +975,7 @@ sections:
             • Sponsor: Federal Transit Administration (FTA)<br>
             • Objectives: Transit agencies rely on surveys conducted on on-board buses and trains or in transit stations to obtain vital information and opinions from a cross section of their customers. The goal of this project is to assess the performance of on-board survey methods that are commonly used and have potential to improve the overall quality and the response rate of on-board surveys. This project provides the analysis of field tests and summarizes the results of recent on-board surveys conducted in major cities. The output of this research project is empirical based on statistical comparisons of different sets of on-board survey techniques. The findings of this report are expected to benefit future data collection efforts of on-board surveys.</p>
         </div>
-<hr>
+        <hr>
 
         <div class="research-project">
           <div class="project-header">
@@ -991,7 +992,7 @@ sections:
             • Sponsor: Sekisui-SPR Americas<br>
             • Objectives: The goal of this project was to evaluate various practices of rehabilitating transportation drainage structures used by state departments of transportation and identify the best practices.</p>
         </div>
-<hr>
+        <hr>
 
         <div class="research-project">
           <div class="project-header">
@@ -1010,4 +1011,5 @@ sections:
         </div>
     design:
       columns: '1'
+
 ---

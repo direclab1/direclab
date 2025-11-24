@@ -20,11 +20,7 @@ tags: []
 
 featured: false
 
-url_pdf: ''
 url_source: ''
-
-projects: []
-slides: ""
 ---
 
 Jain, D., Shrestha, K. J., and Jeong, H.D., Spatial-Temporal Visualization of Unit Price Data of Highway projects, the 6th International Conference on Construction Engineering and project Management, Busan, South Korea, Oct 11 -15, 2015.

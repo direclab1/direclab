@@ -27,11 +27,7 @@ tags:
 
 featured: true
 
-url_pdf: ''
 url_source: 'https://doi.org/10.1061/JMENEA.MEENG-5719'
-
-projects: []
-slides: ""
 ---
 
 This paper develops a comprehensive framework for risk-based decision-making in implementing collaboration and integration strategies. The research provides practical guidance for construction managers in selecting optimal collaboration approaches.

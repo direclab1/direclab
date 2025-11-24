@@ -27,11 +27,7 @@ tags: []
 
 featured: false
 
-url_pdf: ''
 url_source: ''
-
-projects: []
-slides: ""
 ---
 
 Alroomi, A., Jeong, H. S., Chong, O., and Oberlender, G. (2010) Identification and Assessment of Cost Estimating Competencies, Proceedings of the ASCE Construction Research Congress. Banff, Canada, May 8-10, 2010

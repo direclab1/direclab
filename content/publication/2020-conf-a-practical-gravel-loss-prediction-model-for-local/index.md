@@ -29,11 +29,7 @@ tags: []
 
 featured: false
 
-url_pdf: ''
 url_source: ''
-
-projects: []
-slides: ""
 ---
 
 Alam-Kan, S., Cetin, B., Jeong, H.D., Ashlock, J. C. and Yaw, M. (2020) A Practical Gravel Loss Prediction Model for Local Agencies, TRB 99nd Annual Meeting, Transportation Research Board of the National Academies, Washington, D.C. (Proceedings in the TRB website)

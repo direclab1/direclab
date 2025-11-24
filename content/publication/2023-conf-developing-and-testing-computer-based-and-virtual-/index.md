@@ -25,11 +25,7 @@ tags: []
 
 featured: false
 
-url_pdf: ''
 url_source: ''
-
-projects: []
-slides: ""
 ---
 
 Kim, S., Jeong, H.D., Rybkowski, Z. K (2023) Developing and Testing Computer-Based and Virtual Reality Target Value Design Simulations, The 31st International Group for Lean Construction (IGLC) Conference, Lille, France, June 26 – July 2, 2023.

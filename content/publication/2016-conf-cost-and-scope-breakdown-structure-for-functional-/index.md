@@ -25,11 +25,7 @@ tags: []
 
 featured: false
 
-url_pdf: ''
 url_source: ''
-
-projects: []
-slides: ""
 ---
 
 Craigie, E. K., Gransberg, D. D., and Jeong, H. D. (2016) Cost and Scope Breakdown Structure for Functional Level Estimating of Consultant Fees, TRB 94nd Annual Meeting, Transportation Research Board of the National Academies, Washington, D.C.

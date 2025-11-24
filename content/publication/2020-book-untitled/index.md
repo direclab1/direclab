@@ -22,11 +22,7 @@ tags: []
 
 featured: false
 
-url_pdf: ''
 url_source: ''
-
-projects: []
-slides: ""
 ---
 
 Jeong, H.S., and HanmiGlobal. (2020). Integrated Project Delivery: Project Success Formula through Collaboration, IPD 협력을 통한 프로젝트 성공방식. Bomundang, p.194, ISBN: 9788984132320(8984132322).

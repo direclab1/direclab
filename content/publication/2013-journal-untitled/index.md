@@ -25,11 +25,7 @@ tags: []
 
 featured: false
 
-url_pdf: ''
 url_source: ''
-
-projects: []
-slides: ""
 ---
 
 Syachrani, S., Jeong, H. S., and Chung, C. S. (2013), Advanced Criticality Assessment Method for Sewer Pipes, Water Science and Technology, 67(6), 1302-1309

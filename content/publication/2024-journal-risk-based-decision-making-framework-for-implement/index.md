@@ -27,11 +27,7 @@ tags: []
 
 featured: false
 
-url_pdf: ''
 url_source: 'https://doi.org/10.1061/JMENEA.MEENG-5719'
-
-projects: []
-slides: ""
 ---
 
 Kim, S., Ghimire, P., Barutha, P., and Jeong, H. D. (2024) Risk-based Decision-making Framework for Implementation of Collaboration and Integration Strategies, Journal of Management in Engineering, ASCE. 40(5), https://doi.org/10.1061/JMENEA.MEENG-5719

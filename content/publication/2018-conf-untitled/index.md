@@ -26,11 +26,7 @@ tags: []
 
 featured: false
 
-url_pdf: ''
 url_source: ''
-
-projects: []
-slides: ""
 ---
 
 Le, T., Jeong, H. D., Gilbert, S. B., & Chukharev-Hudilainen, E. (2018). Natural Language-based Data Extraction from Large-Scale Transportation Asset Repositories, 2018 Construction Research Congress (CRC), ASCE, April 2-5, 2018, New Orleans, LA.

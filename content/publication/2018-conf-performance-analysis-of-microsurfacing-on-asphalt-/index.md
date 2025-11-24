@@ -25,11 +25,7 @@ tags: []
 
 featured: false
 
-url_pdf: ''
 url_source: ''
-
-projects: []
-slides: ""
 ---
 
 Buss, A., Abdelaty, A., and Jeong, H.D. (2018) Performance Analysis of Microsurfacing on Asphalt pavements and Asphalt Overlays, 2018 International Society for Asphalt Pavements (ISAP) conference, Fortaleza, Brazil, June 19-21, 2018.

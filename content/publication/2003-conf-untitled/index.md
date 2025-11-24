@@ -25,11 +25,7 @@ tags: []
 
 featured: false
 
-url_pdf: ''
 url_source: ''
-
-projects: []
-slides: ""
 ---
 
 Jeong, H. S., Abraham, D. M., and Lew, J. J. (2003). Pipeline Damage Prevention Systems. New Pipeline Technologies, Security and Safety, Proceedings of the ASCE International Conference on Pipeline Engineering and Construction. Baltimore, MD., July 13-16, 2003, 1429-1437.

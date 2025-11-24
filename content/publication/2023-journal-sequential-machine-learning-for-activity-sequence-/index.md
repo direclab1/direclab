@@ -27,11 +27,7 @@ tags: []
 
 featured: false
 
-url_pdf: ''
 url_source: 'https://doi.org/10.1061/JCEMD4.COENG-1316'
-
-projects: []
-slides: ""
 ---
 
 Alikhani, H., Le, C., Jeong, H. D., and Damnjanovic, I. (2023)  Sequential Machine Learning for Activity Sequence Prediction from Daily Work Report Data, Journal of Construction Engineering and Management, ASCE., 149(9). https://doi.org/10.1061/JCEMD4.COENG-1316<2024 Best Paper of the Year Award, ASCE JCEM>

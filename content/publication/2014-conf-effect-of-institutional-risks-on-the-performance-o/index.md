@@ -27,11 +27,7 @@ tags: []
 
 featured: false
 
-url_pdf: ''
 url_source: ''
-
-projects: []
-slides: ""
 ---
 
 Park, H., Lee, K., Jeong, H. D., and Han, S. (2014) Effect of Institutional Risks on the Performance of International Construction Projects, 2014 Construction Research Congress (CRC), May 19-21, Atlanta, GA.

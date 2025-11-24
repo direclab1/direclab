@@ -25,11 +25,7 @@ tags: []
 
 featured: false
 
-url_pdf: ''
 url_source: 'https://doi.org/10.1061/(ASCE)PS.1949-1204.0000222'
-
-projects: []
-slides: ""
 ---
 
 Park, H., Ting, T., and Jeong, H.D. (2015) Procedural Framework for Modeling Likelihood of Failure of Underground Pipeline Assets, Journal of Pipeline Systems Engineering and Practice, ASCE, 7(2), https://doi.org/10.1061/(ASCE)PS.1949-1204.0000222

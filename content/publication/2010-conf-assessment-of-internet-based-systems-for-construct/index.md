@@ -29,11 +29,7 @@ tags: []
 
 featured: false
 
-url_pdf: ''
 url_source: ''
-
-projects: []
-slides: ""
 ---
 
 Lee, E., Sorrels, K., Jeong, H. S., Ju, K.B., and Han, C. H. (2010) Assessment of Internet Based Systems for Construction Product Information, Proceedings of the ASCE Construction Research Congress. Banff, Canada, May 8-10, 2010

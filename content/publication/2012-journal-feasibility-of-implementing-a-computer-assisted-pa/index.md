@@ -28,11 +28,7 @@ tags: []
 
 featured: false
 
-url_pdf: ''
 url_source: ''
-
-projects: []
-slides: ""
 ---
 
 Florez, L, Irizarry, J., Castro, D. Abdollahipour, S., and Jeong, H. S. (2012) Feasibility of Implementing a Computer-Assisted Pavement Rehabilitation Decision Support System, International Journal of Construction Education and Research, 8(4), 281-300

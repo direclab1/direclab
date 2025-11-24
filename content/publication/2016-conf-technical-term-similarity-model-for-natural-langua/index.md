@@ -23,11 +23,7 @@ tags: []
 
 featured: false
 
-url_pdf: ''
 url_source: ''
-
-projects: []
-slides: ""
 ---
 
 Le, T. and Jeong, H. D. (2016) Technical Term Similarity Model for Natural Language based Data Retrieval in Civil Infrastructure Projects, 33rd International Symposium on Automation and Robotics in Construction (ISARC 2016), Auburn, AL, July 18-21, 2016.

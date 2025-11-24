@@ -25,11 +25,7 @@ tags: []
 
 featured: false
 
-url_pdf: ''
 url_source: ''
-
-projects: []
-slides: ""
 ---
 
 Jeong, H.S., Syachrani, S., and Chung, C.S. (2011) Theoretical Issues in Advancing Infrastructure Asset Management Programs (two page extended abstract review only)

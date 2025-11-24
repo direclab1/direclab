@@ -27,11 +27,7 @@ tags: []
 
 featured: false
 
-url_pdf: ''
 url_source: ''
-
-projects: []
-slides: ""
 ---
 
 Barutha, P. J., Jeong, H.D., Gransberg, D. D., and Touran, A. (2021) Evaluation of the Impact of Collaboration and Integration on Performance of Industrial Projects, Journal of Management in Engineering, ASCE, 37(4), DOI:10.1061/(ASCE)ME.1943-5479.

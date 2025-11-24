@@ -22,11 +22,7 @@ tags: []
 
 featured: false
 
-url_pdf: ''
 url_source: ''
-
-projects: []
-slides: ""
 ---
 
 Le, T., and H. D. Jeong (2016) Interlinking Life-Cycle Data Spaces to Support Decision Making in Highway Asset Management, Automation in Construction, 64, 54-64.

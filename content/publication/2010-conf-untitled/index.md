@@ -21,11 +21,7 @@ tags: []
 
 featured: false
 
-url_pdf: ''
 url_source: ''
-
-projects: []
-slides: ""
 ---
 
 Jeong, H. S. (2010). HDD On-line/On-Grade Case Study, 15th Underground Construction Technology (UCT) International Conference, Jan. 19-21, 2010, Tampa, FL.

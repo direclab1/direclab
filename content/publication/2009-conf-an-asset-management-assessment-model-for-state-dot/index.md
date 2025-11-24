@@ -25,11 +25,7 @@ tags: []
 
 featured: false
 
-url_pdf: ''
 url_source: ''
-
-projects: []
-slides: ""
 ---
 
 Cooksey, S., Jeong, H. S., and Chae, M. (2009) An Asset Management Assessment Model for State DOTs, the 3rd international Conference on Construction Engineering and Management (ICCEM) and the 6th International Conference on Construction Project Management (ICCPM), Jeju, Korea. May 27-30,2009. (proceedings in CD-ROM).

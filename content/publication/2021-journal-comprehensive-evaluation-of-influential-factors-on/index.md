@@ -27,11 +27,7 @@ tags: []
 
 featured: false
 
-url_pdf: ''
 url_source: ''
-
-projects: []
-slides: ""
 ---
 
 Le, C., Yaw, M. W., Jeong, H. D., and Choi, K. (2021) Comprehensive Evaluation of Influential Factors on Public Roadway Project Contract Time, Journal of Management in Engineering, ASCE, 37(5), doi:10.1061/(ASCE)ME.1943-5479.0000932

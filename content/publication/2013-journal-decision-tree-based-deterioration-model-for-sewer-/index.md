@@ -24,11 +24,7 @@ tags: []
 
 featured: false
 
-url_pdf: ''
 url_source: 'https://doi.org/10.1061/(ASCE)CF.1943-5509.0000349'
-
-projects: []
-slides: ""
 ---
 
 Syachrani,S., Jeong, H. S., and Chung, C. S. (2013) Decision Tree Based Deterioration Model for Sewer Pipes, Journal of Performance of Constructed Facilities, ASCE. 27(5), https://doi.org/10.1061/(ASCE)CF.1943-5509.0000349

@@ -27,11 +27,7 @@ tags: []
 
 featured: false
 
-url_pdf: ''
 url_source: ''
-
-projects: []
-slides: ""
 ---
 
 Choi, K., Yin, Y., Goehl, D., and Jeong, D. (2021). Alternative Contracting Methods: Modeling and Assessing the Effects of Contract Type on Time-Cost-Change Performance, Journal of Management in Engineering, ASCE, 37 (1), DOI:10.1061/(ASCE)ME.1943-5479.0420096

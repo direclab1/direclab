@@ -25,11 +25,7 @@ tags: []
 
 featured: false
 
-url_pdf: ''
 url_source: ''
-
-projects: []
-slides: ""
 ---
 
 Le, C., Le, T., and Jeong, H.D. (2018) Geographic Information Systems (GIS) based Visual Analytics Framework for Highway Project Performance Evaluation, the 35th CIB W78 Conference: IT in Design, Construction and Management, Chicago, IL, October 1-3, 2018.

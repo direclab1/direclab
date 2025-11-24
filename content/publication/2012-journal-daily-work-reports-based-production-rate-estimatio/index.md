@@ -25,11 +25,7 @@ tags: []
 
 featured: false
 
-url_pdf: ''
 url_source: 'https://doi.org/10.1061/(ASCE)CO.1943-7862.0000442'
-
-projects: []
-slides: ""
 ---
 
 Woldesenbet, A., Jeong, H. S., and Oberlender, G. D. (2012) Daily Work Reports Based Production Rate Estimation for Highway Projects, Journal of Construction Engineering and Management, ASCE, 138(4), 481-490, https://doi.org/10.1061/(ASCE)CO.1943-7862.0000442

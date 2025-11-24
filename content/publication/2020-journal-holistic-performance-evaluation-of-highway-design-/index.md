@@ -29,11 +29,7 @@ tags: []
 
 featured: false
 
-url_pdf: ''
 url_source: 'https://doi.org/10.1061/(ASCE)ME.1943-5479.000078'
-
-projects: []
-slides: ""
 ---
 
 Choi, K., Jung, I., Yin, Y., Gurganus, C., and Jeong, H.D. (2020) Holistic Performance Evaluation of Highway Design-Build Projects, Journal of Management in Engineering, 36(4), https://doi.org/10.1061/(ASCE)ME.1943-5479.000078

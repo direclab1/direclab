@@ -25,11 +25,7 @@ tags: []
 
 featured: false
 
-url_pdf: ''
 url_source: 'https://doi.org/10.1061/JCEMD4.COENG-13655'
-
-projects: []
-slides: ""
 ---
 
 Ko, T., Lee, J., and Jeong, H. D., (2023) Project Requirements Prioritization through NLP-Driven Classification and Adjusted Work Items Analysis, Journal of Construction Engineering and Management, ASCE, 150(3),  https://doi.org/10.1061/JCEMD4.COENG-13655

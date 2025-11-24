@@ -23,11 +23,7 @@ tags: []
 
 featured: false
 
-url_pdf: ''
 url_source: ''
-
-projects: []
-slides: ""
 ---
 
 Shrestha, K. J, and Jeong, H. D. (2019) Daily Work Report Data Analysis using Text Analytics, the 8th International Conference on Construction Engineering and Project Management, Hong Kong SAR, Dec 8 -10, 2019

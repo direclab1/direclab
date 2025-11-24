@@ -25,11 +25,7 @@ tags: []
 
 featured: false
 
-url_pdf: ''
 url_source: ''
-
-projects: []
-slides: ""
 ---
 
 aw, M. W., Jeong, H. D., and Choi, K. (2022) Effects of Flexible Notice-To-Proceed Provisions on the Performance of Transportation Infrastructure Projects, Transportation Research Record, 2676 (4), 790-800. doi:10.1177/03611981211065736

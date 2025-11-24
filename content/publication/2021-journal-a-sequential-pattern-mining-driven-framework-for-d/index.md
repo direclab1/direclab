@@ -27,11 +27,7 @@ tags: []
 
 featured: false
 
-url_pdf: ''
 url_source: ''
-
-projects: []
-slides: ""
 ---
 
 Le, C., Shrestha, K. J., Jeong, H. D., and Damnjanovic, I. (2021) A Sequential Pattern Mining Driven Framework for Developing Construction Logic Knowledge Bases, Automation in Construction, 121 (January), Elsevier, DOI:10.1016/j.autcon.2020.103439.

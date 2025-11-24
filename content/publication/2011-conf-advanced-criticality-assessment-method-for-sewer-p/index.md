@@ -25,11 +25,7 @@ tags: []
 
 featured: false
 
-url_pdf: ''
 url_source: ''
-
-projects: []
-slides: ""
 ---
 
 Syachrani, S., Jeong, H. S., and Chung, C. S. (2011) Advanced Criticality Assessment Method for Sewer Pipeline Assets, 4th Leading Edge Conference on Strategic Asset Management (LESAM), Ruhr, Germany, Sep 27-30, 2011. (Abstract review only)

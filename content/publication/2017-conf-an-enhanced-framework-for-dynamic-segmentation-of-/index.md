@@ -23,11 +23,7 @@ tags: []
 
 featured: false
 
-url_pdf: ''
 url_source: ''
-
-projects: []
-slides: ""
 ---
 
 Abdelaty, A., and Jeong, H. D. (2017) An Enhanced Framework for Dynamic Segmentation of Pavement Sections, Construction Research Congress, ASCE. Vancouver, Canada, May 31- June 3, 2017

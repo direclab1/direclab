@@ -24,11 +24,7 @@ tags: []
 
 featured: false
 
-url_pdf: ''
 url_source: 'https://doi.org/10.1061/(ASCE)ME.1943-5479.000038'
-
-projects: []
-slides: ""
 ---
 
 Woldesenbet, W. Jeong, H.D., and Park, H. (2015) Framework for Integrating and Assessing Highway Infrastructure Data, Journal of Management in Engineering, ASCE, 32(1), https://doi.org/10.1061/(ASCE)ME.1943-5479.000038

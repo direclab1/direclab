@@ -27,11 +27,7 @@ tags: []
 
 featured: false
 
-url_pdf: ''
 url_source: ''
-
-projects: []
-slides: ""
 ---
 
 Im, C.W., Park, K. M., Kim, C. D., and Jeong, H. S.(2013) Development of a Next Generation Smart Project Management Information System, Korean Journal of Construction Engineering and Management, KICEM, 14(2), 117-130.

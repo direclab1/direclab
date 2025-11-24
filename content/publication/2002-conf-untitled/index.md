@@ -25,11 +25,7 @@ tags: []
 
 featured: false
 
-url_pdf: ''
 url_source: ''
-
-projects: []
-slides: ""
 ---
 
 Lew, J. J., Jeong, H. S., and Abraham, D. M. (2002). What and Who is SUE?. The Fifth Damage Prevention Conference and Expositions, San Diego, CA., Dec. 4  6, 2002. (proceedings in CD-ROM)

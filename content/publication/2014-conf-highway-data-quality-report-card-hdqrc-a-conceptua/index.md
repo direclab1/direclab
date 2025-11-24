@@ -23,11 +23,7 @@ tags: []
 
 featured: false
 
-url_pdf: ''
 url_source: ''
-
-projects: []
-slides: ""
 ---
 
 Woldesenbet, A., and Jeong, H. D., (2014) Highway Data Quality Report Card (HDQRC): A Conceptual Framework of Pavement Management Data, 2014 Construction Research Congress (CRC), May 19-21, Atlanta, GA.

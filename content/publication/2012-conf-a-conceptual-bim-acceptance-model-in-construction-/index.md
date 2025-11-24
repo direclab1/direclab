@@ -25,11 +25,7 @@ tags: []
 
 featured: false
 
-url_pdf: ''
 url_source: ''
-
-projects: []
-slides: ""
 ---
 
 Lee, S-K., Yu, J-H, and Jeong, D. (2012) A Conceptual BIM Acceptance Model in Construction Organizations: Literature Review, The Construction, Building, and Real Estate Research Conference of the Royal Institute of Chartered Surveyors (RICS COBRA), Sep 11-13, Las Vegas, Nevada.

@@ -27,11 +27,7 @@ tags: []
 
 featured: false
 
-url_pdf: ''
 url_source: 'https://doi.org/10.1061/(ASCE)ME.1943-5479.0001089'
-
-projects: []
-slides: ""
 ---
 
 Yin, Y., Choi, K., Jeong, H. D., and Touran, A. (2022) Integration of Schedule, Cost, Traffic, and Risk into the Determination of Construction Contract Times, Journal of Management in Engineering, ASCE, 38(6), 04022061,https://doi.org/10.1061/(ASCE)ME.1943-5479.0001089

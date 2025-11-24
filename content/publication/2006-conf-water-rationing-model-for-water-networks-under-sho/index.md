@@ -23,11 +23,7 @@ tags: []
 
 featured: false
 
-url_pdf: ''
 url_source: ''
-
-projects: []
-slides: ""
 ---
 
 Jeong, H. S., Abraham, D. M. (2006) Water Rationing Model for Water Networks under Short-term Water Supply Shortage, ASCE Pipeline Conference in Chicago, IL, July 30- August 2, 2006. (proceedings in CD-ROM).

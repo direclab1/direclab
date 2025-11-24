@@ -23,11 +23,7 @@ tags: []
 
 featured: false
 
-url_pdf: ''
 url_source: ''
-
-projects: []
-slides: ""
 ---
 
 Woldesenbet, A., and Jeong, H. S. (2012) Preliminary Engineering Cost Prediction for Reliable Highway Project Budget Allocation, ASCE Construction Research Congress, West Lafayette, IN, May 21-23, 2012

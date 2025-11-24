@@ -23,11 +23,7 @@ tags: []
 
 featured: false
 
-url_pdf: ''
 url_source: ''
-
-projects: []
-slides: ""
 ---
 
 Jeong, H.S., and Pecha, D.L. (2011) Proceedings of the ASCE Pipelines 2011 Conference, Seattle, WA, July 23-27, 2011 (Proceedings in CDROM).

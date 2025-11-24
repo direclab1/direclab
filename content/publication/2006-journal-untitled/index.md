@@ -25,11 +25,7 @@ tags: []
 
 featured: false
 
-url_pdf: ''
 url_source: ''
-
-projects: []
-slides: ""
 ---
 
 Baik, H-S., Jeong, H. S., and Abraham, D. M. (2006). Estimating Transition Probabilities in Markov Chain-Based Deterioration Models for Management of Wastewater Systems. Journal of Water Resources Planning and Management, ASCE, 132 (1), 15-24.

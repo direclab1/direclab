@@ -29,11 +29,7 @@ tags: []
 
 featured: false
 
-url_pdf: ''
 url_source: ''
-
-projects: []
-slides: ""
 ---
 
 Le, T., Jeong, H. D., Jahren, C., Shane, J., and Cetin, K. (2017) Information Delivery Workflows Throughout the Life Cycle of Transportation Assets, 2017 International Conference on Maintenance and Rehabilitation of Constructed Infrastructure Facilities, Seoul, S Korea, July 19-21, 2017.

@@ -25,11 +25,7 @@ tags: []
 
 featured: false
 
-url_pdf: ''
 url_source: ''
-
-projects: []
-slides: ""
 ---
 
 Lee, U-K., Jeong, H. D., and Woldesenbet, A. (2014) Assessment of Requirements for Successful Mobile Project Management Information Systems, Journal of the Korea Institute of Building Construction, 14 (1), 45-53.

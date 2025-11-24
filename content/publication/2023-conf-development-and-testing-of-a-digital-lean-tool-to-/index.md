@@ -29,11 +29,7 @@ tags: []
 
 featured: false
 
-url_pdf: ''
 url_source: ''
-
-projects: []
-slides: ""
 ---
 
 Yasaman, A., Rybkowski, Z. K., Jeong, H. D., Seo, J. and Maghool, S. A. H. (2023) Development and Testing of a Digital Lean Tool to Sharpen Motion and Transportation Waste Recognition, The 31st International Group for Lean Construction (IGLC) Conference, Lille, France, June 26 – July 2, 2023.

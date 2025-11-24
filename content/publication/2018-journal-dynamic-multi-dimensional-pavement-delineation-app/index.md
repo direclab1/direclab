@@ -23,11 +23,7 @@ tags: []
 
 featured: false
 
-url_pdf: ''
 url_source: 'https://doi.org/10.1061/(ASCE)CP.1943-5487.0000758'
-
-projects: []
-slides: ""
 ---
 
 Abdelaty, A., and Jeong, H.D. (2018) Dynamic Multi-dimensional Pavement Delineation Approach, Journal of Computing in Civil Engineering, ASCE. 32(4), https://doi.org/10.1061/(ASCE)CP.1943-5487.0000758

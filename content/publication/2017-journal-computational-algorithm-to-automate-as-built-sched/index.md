@@ -23,11 +23,7 @@ tags: []
 
 featured: false
 
-url_pdf: ''
 url_source: ''
-
-projects: []
-slides: ""
 ---
 
 Shrestha, K. J., and Jeong, H.D. (2017) Computational Algorithm to automate As-Built Schedule Development Using Digital Daily Work Reports, Automation in Construction.

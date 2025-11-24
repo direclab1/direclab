@@ -25,11 +25,7 @@ tags: []
 
 featured: false
 
-url_pdf: ''
 url_source: ''
-
-projects: []
-slides: ""
 ---
 
 Memarian, B., Jeong, H. S., and Uhm, D. (2012) Effects of Survey Techniques on On-Board Survey Performance, Journal of Transport Policy, Elsevier, 21, 52-62

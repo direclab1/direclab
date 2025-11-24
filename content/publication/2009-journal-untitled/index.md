@@ -23,11 +23,7 @@ tags: []
 
 featured: false
 
-url_pdf: ''
 url_source: ''
-
-projects: []
-slides: ""
 ---
 
 Jeong, H. S., and Abraham, D. M. (2009). Water Rationing Model for Consequence Minimization of Water Infrastructure against Intentional Attacks, Journal of Water Resources Planning and Management, ASCE, 135(2), 80-89.

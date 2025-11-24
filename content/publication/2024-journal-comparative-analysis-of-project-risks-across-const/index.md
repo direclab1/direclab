@@ -27,11 +27,7 @@ tags: []
 
 featured: false
 
-url_pdf: ''
 url_source: 'https://doi.org/10.1061/JCEMD4.COENG-1393'
-
-projects: []
-slides: ""
 ---
 
 Kim, S., Ghimire, P., Jeong, H. D., and Barutha, P. (2024) Comparative Analysis of Project Risks across Construction Sectors, Journal of Construction Engineering and Management, ASCE, 150(6) https://doi.org/10.1061/JCEMD4.COENG-1393.

@@ -27,11 +27,7 @@ tags: []
 
 featured: false
 
-url_pdf: ''
 url_source: ''
-
-projects: []
-slides: ""
 ---
 
 Le, C., Jeong, H.D., Le, T., Kang, Y. (2020) Evaluating Contractor’s Production Performance in Highway Projects Using Historical Daily Work Report Data, Journal of Management in Engineering, 36(3), 04020015. doi:10.1061/(ASCE)ME.1943-5479.0000764

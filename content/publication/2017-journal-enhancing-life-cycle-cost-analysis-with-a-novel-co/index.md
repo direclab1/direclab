@@ -27,11 +27,7 @@ tags: []
 
 featured: false
 
-url_pdf: ''
 url_source: ''
-
-projects: []
-slides: ""
 ---
 
 Abdelaty, A., Jeong, H.D., Dannen, B., and Todey, F. (2017) Enhancing Life Cycle Cost Analysis with a Novel Cost Classification Framework for Pavement Rehabilitation Project, Construction Management and Economics, 34(10), 724-736, Taylor & Francis

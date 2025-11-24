@@ -23,11 +23,7 @@ tags: []
 
 featured: false
 
-url_pdf: ''
 url_source: ''
-
-projects: []
-slides: ""
 ---
 
 Shrestha, K. P, and Jeong, H. D. (2019) Automated Unit Price Visualization Using ArcPy Site Package in ArcGIS, 36th International Symposium on Automation and Robotics in Construction (ISARC 2019), Banff, Canada, May 21-24, 2019.

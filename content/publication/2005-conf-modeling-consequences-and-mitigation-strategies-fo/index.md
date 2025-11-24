@@ -23,11 +23,7 @@ tags: []
 
 featured: false
 
-url_pdf: ''
 url_source: ''
-
-projects: []
-slides: ""
 ---
 
 Jeong, H. S. and Abraham, D. M. (2005) Modeling Consequences and Mitigation Strategies for Water Networks subject to Intentional Physical Attacks, ASCE International Conference on Computing in Civil Engineering, Cancun, Mexico, July 12-15, 2005 (proceedings in CD-ROM).

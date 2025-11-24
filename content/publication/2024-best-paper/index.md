@@ -27,17 +27,7 @@ tags:
 
 featured: true
 
-url_pdf: ''
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
 url_source: 'https://doi.org/10.1061/JCEMD4.COENG-1316'
-url_video: ''
-
-projects: []
-slides: ""
 ---
 
 **Award:** 2024 ASCE Journal of Construction Engineering and Management Best Paper of the Year Award

@@ -22,11 +22,7 @@ tags: []
 
 featured: false
 
-url_pdf: ''
 url_source: ''
-
-projects: []
-slides: ""
 ---
 
 Pour, S. A., and H. S. Jeong (2012). Realistic Life-Cycle Cost Analysis Using Typical Sequential Patterns of Pavement Treatments via Association Analysis. Transportation Research Record: Journal of the Transportation Research Board, No. 2304, Transportation Research Board of the National Academies, Washington, D.C., pp. 104-111.

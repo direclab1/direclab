@@ -23,11 +23,7 @@ tags: []
 
 featured: false
 
-url_pdf: ''
 url_source: ''
-
-projects: []
-slides: ""
 ---
 
 Gransberg, D. D., and Jeong, H. D. (2015) Managing Mega-Project Complexity in Five Dimensions, the 6th International Conference on Construction Engineering and project Management, Busan, South Korea, Oct 11 -15, 2015. (Keynote Presentation)

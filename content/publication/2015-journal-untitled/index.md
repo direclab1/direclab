@@ -25,11 +25,7 @@ tags: []
 
 featured: false
 
-url_pdf: ''
 url_source: 'https://doi.org/10.1061/(ASCE)ME.1943-5479.0000380'
-
-projects: []
-slides: ""
 ---
 
 Alroomi, A., Jeong, H. D., and Oberlender, G. D. (2015), Evaluation of Methods to Retain Cost Estimating Competencies Using Structural Equation Modeling, Journal of Management in Engineering, ASCE, 32(1), https://doi.org/10.1061/(ASCE)ME.1943-5479.0000380

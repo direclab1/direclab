@@ -23,11 +23,7 @@ tags: []
 
 featured: false
 
-url_pdf: ''
 url_source: ''
-
-projects: []
-slides: ""
 ---
 
 Le, C., and Jeong, H.D. (2019) A Daily Work Report Based Approach for Schedule Risk Analysis, 5th International Conference on Geotechnical, Structural and Construction Engineering (CIGOS 2019) Hanoi, Vietnam, Oct 31 - Nov 1, 2019.

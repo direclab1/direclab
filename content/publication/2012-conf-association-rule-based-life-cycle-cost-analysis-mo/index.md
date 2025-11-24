@@ -23,11 +23,7 @@ tags: []
 
 featured: false
 
-url_pdf: ''
 url_source: ''
-
-projects: []
-slides: ""
 ---
 
 Abdollahipour, S., and Jeong, H. S. (2012) Association Rule Based Life Cycle Cost Analysis Model for Pavement Projects, 9th National Conference on Transportation Asset Management, April 16-18,2012, San Diego, CA. (Abstract review only)

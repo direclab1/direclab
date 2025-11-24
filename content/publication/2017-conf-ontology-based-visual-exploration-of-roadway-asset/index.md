@@ -25,11 +25,7 @@ tags: []
 
 featured: false
 
-url_pdf: ''
 url_source: ''
-
-projects: []
-slides: ""
 ---
 
 Le, T., Jeong, H. D., and Jahren, C. T. (2017) Ontology-Based Visual Exploration of Roadway Asset Data, 8th International Visualization in Transportation Symposium: Visualization in Action, Washington, DC., July 27-28, 2017.

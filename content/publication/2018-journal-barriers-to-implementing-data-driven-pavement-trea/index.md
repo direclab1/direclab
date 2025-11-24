@@ -25,11 +25,7 @@ tags: []
 
 featured: false
 
-url_pdf: ''
 url_source: ''
-
-projects: []
-slides: ""
 ---
 
 Abdelaty, A., Jeong, H.D., and Smadi, O. (2018) Barriers to Implementing Data-Driven Pavement Treatment Performance Evaluation Process, Journal of Transportation Engineering, Part B: Pavements, ASCE. 144(1): 04017022

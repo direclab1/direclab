@@ -25,11 +25,7 @@ tags: []
 
 featured: false
 
-url_pdf: ''
 url_source: ''
-
-projects: []
-slides: ""
 ---
 
 Jeong, H. S., Baik, H-S., and Abraham, D. M. (2005) Evaluation of Deterioration Models of Wastewater Infrastructure Systems. Optimizing Pipeline Design, Operations, and Maintenance, ASCE Pipeline Conference, Houston, TX. August 21-24, 2005 (proceedings in CD-ROM).

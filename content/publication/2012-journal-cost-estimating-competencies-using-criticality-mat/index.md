@@ -25,11 +25,7 @@ tags: []
 
 featured: false
 
-url_pdf: ''
 url_source: 'https://doi.org/10.1061/(ASCE)CO.1943-7862.0000351'
-
-projects: []
-slides: ""
 ---
 
 Alroomi, A., Jeong, H. S., and Oberlender, G. D. (2012) Cost Estimating Competencies Using Criticality Matrix and Factor Analysis, Journal of Construction Engineering and Management, ASCE, 138 (11), 1270-1280, https://doi.org/10.1061/(ASCE)CO.1943-7862.0000351

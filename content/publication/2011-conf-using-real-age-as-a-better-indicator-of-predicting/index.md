@@ -25,11 +25,7 @@ tags: []
 
 featured: false
 
-url_pdf: ''
 url_source: ''
-
-projects: []
-slides: ""
 ---
 
 Syachrani, S., Jeong, H. S., and Chung, C.S. (2011) Using Real Age as a Better Indicator of Predicting Probability of Failure, Proceedings of the ASCE Pipelines Conference. July 23-27, 2011. Seattle, WA (proceedings in CD-ROM).

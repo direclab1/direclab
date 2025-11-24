@@ -27,11 +27,7 @@ tags: []
 
 featured: false
 
-url_pdf: ''
 url_source: 'https://doi.org/10.1177/03611981221148696'
-
-projects: []
-slides: ""
 ---
 
 Alam-Khan, S., Cetin, B., Jeong, H. D., and Ashlock, J. C. (2023) A Gravel Loss Prediction Model using Beta Regression, Transportation Research Record, https://doi.org/10.1177/03611981221148696.

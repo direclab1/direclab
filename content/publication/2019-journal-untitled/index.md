@@ -23,11 +23,7 @@ tags: []
 
 featured: false
 
-url_pdf: ''
 url_source: 'https://doi.org/10.1061/(ASCE)PS.1949-1204.000039'
-
-projects: []
-slides: ""
 ---
 
 Chae, M., and Jeong, H.D. (2019), Acceptance Sampling Plans for Pipeline Condition Assessment, Journal of Pipeline Systems, ASCE, 10(4), https://doi.org/10.1061/(ASCE)PS.1949-1204.000039

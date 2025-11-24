@@ -25,11 +25,7 @@ tags: []
 
 featured: false
 
-url_pdf: ''
 url_source: ''
-
-projects: []
-slides: ""
 ---
 
 Burman, R., Jeong, H. S., Gaunsalius, F. (2009) Advanced Horizontal Directional Drilling Technology for On-Grade Sewer Construction Projects, Proceedings of the ASCE Pipelines Conference. San Diego, CA. August 15-19, 2009. (proceedings in CD-ROM).

@@ -23,11 +23,7 @@ tags: []
 
 featured: false
 
-url_pdf: ''
 url_source: ''
-
-projects: []
-slides: ""
 ---
 
 Abdollahipour, S., and Jeong, H. S. (2012) Principal-Agent Model for Determining Incentive/Disincentive Amount in Highway Rehabilitation Projects, ASCE Construction Research Congress, West Lafayette, IN, May 21-23, 2012

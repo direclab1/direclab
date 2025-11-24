@@ -27,11 +27,7 @@ tags:
 
 featured: true
 
-url_pdf: ''
 url_source: ''
-
-projects: []
-slides: ""
 ---
 
 **Award:** 2016 ASCE Journal of Construction Engineering and Management Best Paper of the Year Award

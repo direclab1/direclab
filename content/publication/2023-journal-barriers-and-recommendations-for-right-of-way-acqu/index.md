@@ -27,11 +27,7 @@ tags: []
 
 featured: false
 
-url_pdf: ''
 url_source: 'https://doi.org/10.1061/JLADAH.LADR-907'
-
-projects: []
-slides: ""
 ---
 
 Abdelaty, A., Park, H., Jeong, H. D., and Gransberg, D. D. (2023) Barriers and Recommendations for Right of Way Acquisition Process, Journal of Legal Affairs and Dispute Resolution in Engineering and Construction, ASCE, 15(2), https://doi.org/10.1061/JLADAH.LADR-907

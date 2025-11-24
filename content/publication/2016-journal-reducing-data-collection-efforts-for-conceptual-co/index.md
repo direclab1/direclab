@@ -25,11 +25,7 @@ tags: []
 
 featured: false
 
-url_pdf: ''
 url_source: ''
-
-projects: []
-slides: ""
 ---
 
 Gardner, B. J., Gransberg, D. D., and Jeong, H. D. (2016) Reducing Data-Collection Efforts for Conceptual Cost Estimating at a Highway Agency, Journal of Construction Engineering and Management, ASCE. 10.1061/(ASCE)CO.1943-7862.0001174,

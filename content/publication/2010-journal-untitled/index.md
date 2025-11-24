@@ -29,11 +29,7 @@ tags: []
 
 featured: false
 
-url_pdf: ''
 url_source: 'https://doi.org/10.1016/j.tust.2010.05.005'
-
-projects: []
-slides: ""
 ---
 
 Syachrani, S., Rai, V, Jeong, H. S., Chae, M., and Iseley, T. (2010), A risk management approach to safety assessment of trenchless technologies, Journal of Tunneling and Underground Space Technology, Elsevier, 25(6), 681-688, https://doi.org/10.1016/j.tust.2010.05.005

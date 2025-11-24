@@ -25,11 +25,7 @@ tags: []
 
 featured: false
 
-url_pdf: ''
 url_source: ''
-
-projects: []
-slides: ""
 ---
 
 Barutha, P., Jeong, H.D., and Kang, Y. (2019) Comparison of Key Project Performance Indicators of Different Construction Sectors in terms of collaboration and integration, Creative Construction Conference, Budapest, Hungary, June 29-July 2, 2019

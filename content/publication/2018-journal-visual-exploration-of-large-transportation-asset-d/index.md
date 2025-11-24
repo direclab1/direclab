@@ -27,11 +27,7 @@ tags: []
 
 featured: false
 
-url_pdf: ''
 url_source: ''
-
-projects: []
-slides: ""
 ---
 
 Le, T., Le, C., Jeong, H. D., and Jahren, C. (2018) Visual Exploration of Large Transportation Asset Data Using Ontology-based Heat Tree, International Journal of Transportation. 6(1), 47-58

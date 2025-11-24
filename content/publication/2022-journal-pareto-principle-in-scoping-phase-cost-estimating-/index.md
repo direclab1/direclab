@@ -27,11 +27,7 @@ tags: []
 
 featured: false
 
-url_pdf: ''
 url_source: 'https://doi.org/10.1061/(ASCE)CO.1943-7862.0002349'
-
-projects: []
-slides: ""
 ---
 
 Le, C., Jeong, H. D., Damnjanovic, I., and Bukkapatnam, S. (2022) Pareto Principle in Scoping-Phase Cost Estimating: A Multi-Objective Optimization Approach for Selecting and Applying Optimal Major Work Items, Journal of Construction Engineering and Management, ASCE., https://doi.org/10.1061/(ASCE)CO.1943-7862.0002349

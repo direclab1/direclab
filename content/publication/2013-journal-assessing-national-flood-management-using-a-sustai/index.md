@@ -27,11 +27,7 @@ tags: []
 
 featured: false
 
-url_pdf: ''
 url_source: ''
-
-projects: []
-slides: ""
 ---
 
 Kang, M.K., Jeong, H.S., Kang, B. S. and Lee, J. H. (2013) Assessing National Flood Management Using a Sustainable Flood Management Framework, Water Policy (15), 418-434

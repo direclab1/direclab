@@ -23,11 +23,7 @@ tags: []
 
 featured: false
 
-url_pdf: ''
 url_source: ''
-
-projects: []
-slides: ""
 ---
 
 Ko, T., and Jeong, H. D. (2020) Syntactic Approach to Extracting Key Elements of Work Modification Cause in Change-Order Documents, Construction Research Congress 2020, Tempe, AZ. 134-142.

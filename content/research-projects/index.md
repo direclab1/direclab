@@ -517,7 +517,10 @@ sections:
               <p class="project-date">(2016)</p>
             </div>
           </div>
-          <p class="project-description">Investigators: David Jeong (PI), Doug Gransberg. Iowa DOT Phase I project developing regression and neural network models for design effort estimation.</p>
+          <p class="project-description">
+            • Investigators: David Jeong (PI) with Doug Gransberg
+            • Sponsor: Iowa Department of Transportation
+            • Objectives: The estimation of design efforts and costs plays a vital role in authorizing funds and controlling the budget during the project development process. Typically, the design phase consists of various engineering activities that require substantial efforts to deliver the final construction documents for bid preparation. Estimating these efforts accurately and efficiently is critical for transportation agencies in properly allocating funds, time, and resources. Therefore, there is a need for a proactive scheme to more accurately and reliably estimate design efforts and costs in order to help the design office negotiate more confidently with consulting firms and ultimately to enhance the accountability and transparency of funding decisions. In this Phase I study, historical data driven estimation models including regression models ad neural networks models were developed and tested. Also, a case-based reasoning–based tool was developed to make logical inferences when estimating the design efforts and costs of bridge design efforts. The case-based reasoning approach uses the concept of similarity scores to retrieve the records of the most similar historical bridge design projects. </p>
         </div>
 
         <hr>

@@ -1,14 +1,10 @@
 ---
 title: "Evaluation of the Impact of Collaboration and Integration on Performance of Industrial Projects"
 authors:
-- Barutha
-- P. J.
-- Jeong
-- H.D.
-- Gransberg
-- D. D.,
-- Touran
-- A.
+- Barutha, P. J.
+- admin
+- Gransberg, D. D.
+- Touran, A.
 date: "2021-01-01T00:00:00Z"
 doi: ""
 

@@ -1,16 +1,11 @@
 ---
 title: "Development and Testing of a Digital Lean Tool to Sharpen Motion and Transportation Waste Recognition"
 authors:
-- Yasaman
-- A.
-- Rybkowski
-- Z. K.
-- Jeong
-- H. D.
-- Seo
-- J.
-- Maghool
-- S. A. H.
+- Yasaman, A.
+- Rybkowski, Z. K.
+- admin
+- Seo, J.
+- Maghool, S. A. H.
 date: "2023-01-01T00:00:00Z"
 doi: ""
 

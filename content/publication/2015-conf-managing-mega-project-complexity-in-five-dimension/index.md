@@ -1,10 +1,8 @@
 ---
 title: "Managing Mega-Project Complexity in Five Dimensions"
 authors:
-- Gransberg
-- D. D.,
-- Jeong
-- H. D.
+- Gransberg, D. D.
+- admin
 date: "2015-01-01T00:00:00Z"
 doi: ""
 

@@ -1,14 +1,10 @@
 ---
 title: "Geographic Information System (GIS) based Framework for Estimating and Visualizing Unit Prices of Highway Work Items"
 authors:
-- Le
-- C.
-- Le
-- T.
-- Jeong
-- H.D.,
-- Lee
-- E.
+- Le, C.
+- Le, T.
+- admin
+- Lee, E.
 date: "2019-01-01T00:00:00Z"
 doi: "10.1061/(ASCE)CO.1943-7862.0001672"
 

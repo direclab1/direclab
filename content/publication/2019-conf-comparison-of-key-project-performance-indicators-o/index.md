@@ -1,12 +1,9 @@
 ---
 title: "Comparison of Key Project Performance Indicators of Different Construction Sectors in terms of collaboration and integration"
 authors:
-- Barutha
-- P.
-- Jeong
-- H.D.,
-- Kang
-- Y.
+- Barutha, P.
+- admin
+- Kang, Y.
 date: "2019-01-01T00:00:00Z"
 doi: ""
 

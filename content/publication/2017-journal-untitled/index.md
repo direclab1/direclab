@@ -1,14 +1,10 @@
 ---
 title: "Untitled"
 authors:
-- Guo
-- F.
-- Jahren
-- C.
-- Turkan
-- Y.,
-- Jeong
-- H. D.
+- Guo, F.
+- Jahren, C.
+- Turkan, Y.
+- admin
 date: "2017-01-01T00:00:00Z"
 doi: ""
 

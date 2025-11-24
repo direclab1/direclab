@@ -1,12 +1,9 @@
 ---
 title: "Critical Analysis of Current Practices of Highway Construction Cost Index (HCCI) calculation and utilization, 2016 Construction Research Congress (CRC)"
 authors:
-- Shrestha
-- K. J.
-- Jeong
-- H.D.,
-- Gransberg
-- D. D.
+- Shrestha, K. J.
+- admin
+- Gransberg, D. D.
 date: "2016-01-01T00:00:00Z"
 doi: ""
 

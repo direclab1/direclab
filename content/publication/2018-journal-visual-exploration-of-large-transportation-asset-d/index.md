@@ -1,14 +1,10 @@
 ---
 title: "Visual Exploration of Large Transportation Asset Data Using Ontology-based Heat Tree"
 authors:
-- Le
-- T.
-- Le
-- C.
-- Jeong
-- H. D.,
-- Jahren
-- C.
+- Le, T.
+- Le, C.
+- admin
+- Jahren, C.
 date: "2018-01-01T00:00:00Z"
 doi: ""
 

@@ -1,14 +1,10 @@
 ---
 title: "Named Entity Recognition of Building Construction Defect Information from Text with Linguistic Noise"
 authors:
-- Jeon
-- K.
-- Lee
-- G.
-- Yang
-- S.,
-- Jeong
-- H. D.
+- Jeon, K.
+- Lee, G.
+- Yang, S.
+- admin
 date: "2022-01-01T00:00:00Z"
 doi: "10.1016/j.autcon.2022.104543"
 

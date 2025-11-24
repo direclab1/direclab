@@ -1,10 +1,8 @@
 ---
 title: "A Framework for Inter-connection of Life Cycle highway Data islands, 2016 Construction Research Congress (CRC)"
 authors:
-- Le
-- T.
-- Jeong
-- H. D.
+- Le, T.
+- admin
 date: "2016-01-01T00:00:00Z"
 doi: ""
 

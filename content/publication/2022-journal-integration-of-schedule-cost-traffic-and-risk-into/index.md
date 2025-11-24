@@ -1,14 +1,10 @@
 ---
 title: "Integration of Schedule, Cost, Traffic, and Risk into the Determination of Construction Contract Times"
 authors:
-- Yin
-- Y.
-- Choi
-- K.
-- Jeong
-- H. D.,
-- Touran
-- A.
+- Yin, Y.
+- Choi, K.
+- admin
+- Touran, A.
 date: "2022-01-01T00:00:00Z"
 doi: "10.1061/(ASCE)ME.1943-5479.0001089"
 

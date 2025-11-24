@@ -1,12 +1,9 @@
 ---
 title: "Cost Estimating Competencies Using Criticality Matrix and Factor Analysis"
 authors:
-- Alroomi
-- A.
-- Jeong
-- H. S.,
-- Oberlender
-- G. D.
+- Alroomi, A.
+- admin
+- Oberlender, G. D.
 date: "2012-01-01T00:00:00Z"
 doi: "10.1061/(ASCE)CO.1943-7862.0000351"
 

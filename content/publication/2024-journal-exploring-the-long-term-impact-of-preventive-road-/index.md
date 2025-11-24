@@ -1,16 +1,11 @@
 ---
 title: "Exploring the Long-Term Impact of Preventive Road Treatments"
 authors:
-- Uhm
-- M.
-- Shin
-- G.
-- Kim
-- H.
-- Jeong
-- H. D.,
-- Kim
-- H.
+- Uhm, M.
+- Shin, G.
+- Kim, H.
+- admin
+- Kim, H.
 date: "2024-01-01T00:00:00Z"
 doi: "10.1061/JMENEA.MEENG-5885"
 

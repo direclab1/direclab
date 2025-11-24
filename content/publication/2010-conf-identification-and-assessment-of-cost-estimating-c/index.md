@@ -1,14 +1,10 @@
 ---
 title: "Identification and Assessment of Cost Estimating Competencies"
 authors:
-- Alroomi
-- A.
-- Jeong
-- H. S.
-- Chong
-- O.,
-- Oberlender
-- G.
+- Alroomi, A.
+- admin
+- Chong, O.
+- Oberlender, G.
 date: "2010-01-01T00:00:00Z"
 doi: ""
 

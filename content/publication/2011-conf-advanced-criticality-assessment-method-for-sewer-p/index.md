@@ -1,12 +1,9 @@
 ---
 title: "Advanced Criticality Assessment Method for Sewer Pipeline Assets"
 authors:
-- Syachrani
-- S.
-- Jeong
-- H. S.,
-- Chung
-- C. S.
+- Syachrani, S.
+- admin
+- Chung, C. S.
 date: "2011-01-01T00:00:00Z"
 doi: ""
 

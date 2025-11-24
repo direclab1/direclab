@@ -1,14 +1,10 @@
 ---
 title: "An Overview of Granular Roadway Management Practices"
 authors:
-- Alam-Khan
-- S.
-- Cetin
-- B.
-- Jeong
-- H. D.,
-- Ashlock
-- J.
+- Alam-Khan, S.
+- Cetin, B.
+- admin
+- Ashlock, J.
 date: "2021-01-01T00:00:00Z"
 doi: ""
 

@@ -1,12 +1,9 @@
 ---
 title: "Using Real Age as a Better Indicator of Predicting Probability of Failure"
 authors:
-- Syachrani
-- S.
-- Jeong
-- H. S.,
-- Chung
-- C.S.
+- Syachrani, S.
+- admin
+- Chung, C.S.
 date: "2011-01-01T00:00:00Z"
 doi: ""
 

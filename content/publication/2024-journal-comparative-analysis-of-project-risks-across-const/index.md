@@ -1,14 +1,10 @@
 ---
 title: "Comparative Analysis of Project Risks across Construction Sectors"
 authors:
-- Kim
-- S.
-- Ghimire
-- P.
-- Jeong
-- H. D.,
-- Barutha
-- P.
+- Kim, S.
+- Ghimire, P.
+- admin
+- Barutha, P.
 date: "2024-01-01T00:00:00Z"
 doi: "10.1061/JCEMD4.COENG-1393"
 

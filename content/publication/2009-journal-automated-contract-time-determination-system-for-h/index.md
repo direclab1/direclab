@@ -1,14 +1,10 @@
 ---
 title: "Automated Contract Time Determination System for Highway Projects"
 authors:
-- Jeong
-- H. S.
-- Atreya
-- S.
-- Oberlender
-- G.D.,
-- Chung
-- B. Y.
+- admin
+- Atreya, S.
+- Oberlender, G.D.
+- Chung, B. Y.
 date: "2009-01-01T00:00:00Z"
 doi: "10.1016/j.autcon.2009.04.004"
 

@@ -1,12 +1,9 @@
 ---
 title: "Ontology-Based Visual Exploration of Roadway Asset Data"
 authors:
-- Le
-- T.
-- Jeong
-- H. D.,
-- Jahren
-- C. T.
+- Le, T.
+- admin
+- Jahren, C. T.
 date: "2017-01-01T00:00:00Z"
 doi: ""
 

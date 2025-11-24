@@ -1,16 +1,11 @@
 ---
 title: "Framework for Evaluating the Success of Integrated Project Delivery in the Industrial Construction Sector: A Mixed Methods Approach & Machine Learning Application"
 authors:
-- Wood
-- X.
-- Ghimire
-- P.
-- Kim
-- S.
-- Barutha
-- P.,
-- Jeong
-- H. D.
+- Wood, X.
+- Ghimire, P.
+- Kim, S.
+- Barutha, P.
+- admin
 date: "2024-01-01T00:00:00Z"
 doi: "10.5130/AJCEB.v24i1/2.8783"
 

@@ -1,14 +1,10 @@
 ---
 title: "Multi-layered Assessment of an Emerging Internet Based Business for Construction Product Information"
 authors:
-- Lee
-- U. K
-- Jeong
-- H. S.
-- Ju
-- K.B,
-- Han
-- C.H.
+- Lee, U. K
+- admin
+- Ju, K.B
+- Han, C.H.
 date: "2011-01-01T00:00:00Z"
 doi: "10.1016/j.autcon.2011.03.006"
 

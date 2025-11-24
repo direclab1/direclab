@@ -1,16 +1,10 @@
 ---
 title: "Evaluating Commercial Feasibility of a New Tall Wind Tower Design Concept Using a Stochastic Levelized Cost of Energy Model"
 authors:
-- Barutha
-- P.
-- Nahvi
-- A.
-- Cai
-- B.
-- Jeong
-- H.D.,
-- Sritharan
-- S.
+- Barutha, P.
+- Nahvi, A.
+- Cai, B.
+- admin
 date: "2019-01-01T00:00:00Z"
 doi: "10.1016/j.jclepro.2019.118001"
 

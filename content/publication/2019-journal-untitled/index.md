@@ -1,10 +1,8 @@
 ---
 title: "Untitled"
 authors:
-- Chae
-- M.,
-- Jeong
-- H.D.
+- Chae, M.
+- admin
 date: "2019-01-01T00:00:00Z"
 doi: "10.1061/(ASCE)PS.1949-1204.000039"
 

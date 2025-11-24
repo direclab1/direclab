@@ -1,14 +1,10 @@
 ---
 title: "Empirical Analysis of Host Country Effects in the International Construction Market: An Industry-Level Approach"
 authors:
-- Lee
-- K.
-- Han
-- S. H.
-- Park
-- H.,
-- Jeong
-- H. D.
+- Lee, K.
+- Han, S. H.
+- Park, H.
+- admin
 date: "2015-01-01T00:00:00Z"
 doi: "10.1061/(ASCE)CO.1943-7862.00010"
 

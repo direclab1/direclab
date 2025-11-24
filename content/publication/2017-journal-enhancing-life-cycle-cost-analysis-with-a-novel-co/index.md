@@ -1,14 +1,10 @@
 ---
 title: "Enhancing Life Cycle Cost Analysis with a Novel Cost Classification Framework for Pavement Rehabilitation Project"
 authors:
-- Abdelaty
-- A.
-- Jeong
-- H.D.
-- Dannen
-- B.,
-- Todey
-- F.
+- Abdelaty, A.
+- admin
+- Dannen, B.
+- Todey, F.
 date: "2017-01-01T00:00:00Z"
 doi: ""
 

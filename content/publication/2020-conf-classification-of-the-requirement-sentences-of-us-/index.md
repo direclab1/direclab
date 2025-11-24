@@ -1,12 +1,9 @@
 ---
 title: "Classification of the Requirement Sentences of US DOT Standard Specifications Using Deep Learning Algorithms"
 authors:
-- Jeon
-- K.
-- Lee
-- G.,
-- Jeong
-- H.D.
+- Jeon, K.
+- Lee, G.
+- admin
 date: "2020-01-01T00:00:00Z"
 doi: ""
 

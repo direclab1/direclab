@@ -1,12 +1,9 @@
 ---
 title: "An Asset Management Assessment Model for State DOTs"
 authors:
-- Cooksey
-- S.
-- Jeong
-- H. S.,
-- Chae
-- M.
+- Cooksey, S.
+- admin
+- Chae, M.
 date: "2009-01-01T00:00:00Z"
 doi: ""
 

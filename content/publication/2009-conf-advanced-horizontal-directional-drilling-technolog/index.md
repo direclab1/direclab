@@ -1,12 +1,9 @@
 ---
 title: "Advanced Horizontal Directional Drilling Technology for On-Grade Sewer Construction Projects"
 authors:
-- Burman
-- R.
-- Jeong
-- H. S.
-- Gaunsalius
-- F.
+- Burman, R.
+- admin
+- Gaunsalius, F.
 date: "2009-01-01T00:00:00Z"
 doi: ""
 

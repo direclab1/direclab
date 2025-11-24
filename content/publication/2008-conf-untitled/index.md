@@ -1,10 +1,8 @@
 ---
 title: "Untitled"
 authors:
-- Syachrani
-- S.,
-- Jeong
-- H. S.
+- Syachrani, S.
+- admin
 date: "2008-01-01T00:00:00Z"
 doi: ""
 

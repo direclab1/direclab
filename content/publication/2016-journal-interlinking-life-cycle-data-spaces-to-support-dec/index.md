@@ -1,9 +1,7 @@
 ---
 title: "Interlinking Life-Cycle Data Spaces to Support Decision Making in Highway Asset Management"
 authors:
-- Le
-- T.,
-- admin
+- Le, T.
 date: "2016-01-01T00:00:00Z"
 doi: ""
 

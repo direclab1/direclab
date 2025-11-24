@@ -1,14 +1,10 @@
 ---
 title: "Barriers and Recommendations for Right of Way Acquisition Process"
 authors:
-- Abdelaty
-- A.
-- Park
-- H.
-- Jeong
-- H. D.,
-- Gransberg
-- D. D.
+- Abdelaty, A.
+- Park, H.
+- admin
+- Gransberg, D. D.
 date: "2023-01-01T00:00:00Z"
 doi: "10.1061/JLADAH.LADR-907"
 

@@ -1,14 +1,10 @@
 ---
 title: "A System-level Gravel Loss Prediction Model"
 authors:
-- Alam-Kan
-- S.
-- Cetin
-- B.
-- Jeong
-- H.D.,
-- Ashlock
-- J. C.
+- Alam-Kan, S.
+- Cetin, B.
+- admin
+- Ashlock, J. C.
 date: "2020-01-01T00:00:00Z"
 doi: ""
 

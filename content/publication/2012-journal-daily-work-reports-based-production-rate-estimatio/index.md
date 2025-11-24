@@ -1,12 +1,9 @@
 ---
 title: "Daily Work Reports Based Production Rate Estimation for Highway Projects"
 authors:
-- Woldesenbet
-- A.
-- Jeong
-- H. S.,
-- Oberlender
-- G. D.
+- Woldesenbet, A.
+- admin
+- Oberlender, G. D.
 date: "2012-01-01T00:00:00Z"
 doi: "10.1061/(ASCE)CO.1943-7862.0000442"
 

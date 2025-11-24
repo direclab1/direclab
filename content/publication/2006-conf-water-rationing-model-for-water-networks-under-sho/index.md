@@ -1,10 +1,8 @@
 ---
 title: "Water Rationing Model for Water Networks under Short-term Water Supply Shortage"
 authors:
-- Jeong
-- H. S.
-- Abraham
-- D. M.
+- admin
+- Abraham, D. M.
 date: "2006-01-01T00:00:00Z"
 doi: ""
 

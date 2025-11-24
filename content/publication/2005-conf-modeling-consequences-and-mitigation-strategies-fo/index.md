@@ -1,10 +1,8 @@
 ---
 title: "Modeling Consequences and Mitigation Strategies for Water Networks subject to Intentional Physical Attacks"
 authors:
-- Jeong
-- H. S.
-- Abraham
-- D. M.
+- admin
+- Abraham, D. M.
 date: "2005-01-01T00:00:00Z"
 doi: ""
 

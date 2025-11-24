@@ -1,10 +1,8 @@
 ---
 title: "Syntactic Approach to Extracting Key Elements of Work Modification Cause in Change-Order Documents"
 authors:
-- Ko
-- T.,
-- Jeong
-- H. D.
+- Ko, T.
+- admin
 date: "2020-01-01T00:00:00Z"
 doi: ""
 

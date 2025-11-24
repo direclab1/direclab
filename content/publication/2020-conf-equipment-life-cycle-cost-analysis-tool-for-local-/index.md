@@ -1,16 +1,11 @@
 ---
 title: "Equipment Life Cycle Cost Analysis Tool for Local Agencies"
 authors:
-- Alikhani
-- H.
-- Jeong
-- H.D.
-- Shane
-- J.
-- Scheibe
-- K.
-- Nilakanta
-- S.
+- Alikhani, H.
+- admin
+- Shane, J.
+- Scheibe, K.
+- Nilakanta, S.
 date: "2020-01-01T00:00:00Z"
 doi: ""
 

@@ -1,14 +1,10 @@
 ---
 title: "Assessing National Flood Management Using a Sustainable Flood Management Framework"
 authors:
-- Kang
-- M.K.
-- Jeong
-- H.S.
-- Kang
-- B. S.
-- Lee
-- J. H.
+- Kang, M.K.
+- admin
+- Kang, B. S.
+- Lee, J. H.
 date: "2013-01-01T00:00:00Z"
 doi: ""
 

@@ -1,10 +1,8 @@
 ---
 title: "Technical Term Similarity Model for Natural Language based Data Retrieval in Civil Infrastructure Projects"
 authors:
-- Le
-- T.
-- Jeong
-- H. D.
+- Le, T.
+- admin
 date: "2016-01-01T00:00:00Z"
 doi: ""
 

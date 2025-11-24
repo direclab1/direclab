@@ -1,13 +1,10 @@
 ---
 title: "Untitled"
 authors:
-- Le
-- T.
-- Jeong
-- H. D.
-- Gilbert
-- S. B., & Chukharev-Hudilainen
-- E.
+- Le, T.
+- admin
+- Gilbert, S. B.
+- Chukharev-Hudilainen, E.
 date: "2018-01-01T00:00:00Z"
 doi: ""
 

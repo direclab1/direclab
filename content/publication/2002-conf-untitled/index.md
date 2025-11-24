@@ -1,12 +1,9 @@
 ---
 title: "Untitled"
 authors:
-- Lew
-- J. J.
-- Jeong
-- H. S.,
-- Abraham
-- D. M.
+- Lew, J. J.
+- admin
+- Abraham, D. M.
 date: "2002-01-01T00:00:00Z"
 doi: ""
 

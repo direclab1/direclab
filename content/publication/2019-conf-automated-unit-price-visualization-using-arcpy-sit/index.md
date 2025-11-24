@@ -1,10 +1,8 @@
 ---
 title: "Automated Unit Price Visualization Using ArcPy Site Package in ArcGIS"
 authors:
-- Shrestha
-- K. P,
-- Jeong
-- H. D.
+- Shrestha, K. P
+- admin
 date: "2019-01-01T00:00:00Z"
 doi: ""
 

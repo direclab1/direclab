@@ -1,10 +1,8 @@
 ---
 title: "Computational Algorithm to automate As-Built Schedule Development Using Digital Daily Work Reports"
 authors:
-- Shrestha
-- K. J.,
-- Jeong
-- H.D.
+- Shrestha, K. J.
+- admin
 date: "2017-01-01T00:00:00Z"
 doi: ""
 

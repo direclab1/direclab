@@ -1,14 +1,10 @@
 ---
 title: "Understanding Dynamic Data Interaction Between Civil Integrated Management: A Review of Use Cases and Enabling Techniques"
 authors:
-- Le
-- T.
-- Hassan
-- F.
-- Le
-- C.,
-- Jeong
-- H.D.
+- Le, T.
+- Hassan, F.
+- Le, C.
+- admin
 date: "2019-01-01T00:00:00Z"
 doi: ""
 

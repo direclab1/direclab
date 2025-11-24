@@ -1,12 +1,9 @@
 ---
 title: "Assessment of Requirements for Successful Mobile Project Management Information Systems"
 authors:
-- Lee
-- U-K.
-- Jeong
-- H. D.,
-- Woldesenbet
-- A.
+- Lee, U
+- admin
+- Woldesenbet, A.
 date: "2014-01-01T00:00:00Z"
 doi: ""
 

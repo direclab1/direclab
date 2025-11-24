@@ -1,16 +1,11 @@
 ---
 title: "Assessment of Internet Based Systems for Construction Product Information"
 authors:
-- Lee
-- E.
-- Sorrels
-- K.
-- Jeong
-- H. S.
-- Ju
-- K.B.,
-- Han
-- C. H.
+- Lee, E.
+- Sorrels, K.
+- admin
+- Ju, K.B.
+- Han, C. H.
 date: "2010-01-01T00:00:00Z"
 doi: ""
 

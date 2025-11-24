@@ -1,10 +1,8 @@
 ---
 title: "Untitled"
 authors:
-- Pour
-- S. A.
-- Jeong
-- H. S.
+- Pour, S. A.
+- admin
 date: "2013-01-01T00:00:00Z"
 doi: ""
 

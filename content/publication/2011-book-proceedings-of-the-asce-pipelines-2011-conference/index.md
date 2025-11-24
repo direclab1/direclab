@@ -2,9 +2,7 @@
 title: "Proceedings of the ASCE Pipelines 2011 Conference"
 authors:
 - admin
-- H.S.,
-- Pecha
-- D.L.
+- Pecha, D.L.
 date: "2011-01-01T00:00:00Z"
 doi: ""
 

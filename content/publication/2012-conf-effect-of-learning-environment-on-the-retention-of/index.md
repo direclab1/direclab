@@ -1,10 +1,8 @@
 ---
 title: "Effect of Learning Environment on the Retention of Estimating Knowledge and Skills"
 authors:
-- Alroomi
-- A.,
-- Jeong
-- H. S.
+- Alroomi, A.
+- admin
 date: "2012-01-01T00:00:00Z"
 doi: ""
 

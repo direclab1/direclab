@@ -1,10 +1,8 @@
 ---
 title: "Daily Work Report Data Analysis using Text Analytics"
 authors:
-- Shrestha
-- K. J,
-- Jeong
-- H. D.
+- Shrestha, K. J
+- admin
 date: "2019-01-01T00:00:00Z"
 doi: ""
 

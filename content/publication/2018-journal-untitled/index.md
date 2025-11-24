@@ -1,12 +1,9 @@
 ---
 title: "Untitled"
 authors:
-- Le
-- T.
-- Le
-- C.
-- Jeong
-- H. D.
+- Le, T.
+- Le, C.
+- admin
 date: "2018-01-01T00:00:00Z"
 doi: "10.1061/(ASCE)ME.1943-5479.0000620"
 

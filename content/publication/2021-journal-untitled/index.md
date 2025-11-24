@@ -1,14 +1,10 @@
 ---
 title: "Untitled"
 authors:
-- Choi
-- K.
-- Yin
-- Y.
-- Goehl
-- D.,
-- Jeong
-- D.
+- Choi, K.
+- Yin, Y.
+- Goehl, D.
+- admin
 date: "2021-01-01T00:00:00Z"
 doi: ""
 

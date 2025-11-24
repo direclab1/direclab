@@ -1,10 +1,8 @@
 ---
 title: "Association Rule Based Life Cycle Cost Analysis Model for Pavement Projects"
 authors:
-- Abdollahipour
-- S.,
-- Jeong
-- H. S.
+- Abdollahipour, S.
+- admin
 date: "2012-01-01T00:00:00Z"
 doi: ""
 

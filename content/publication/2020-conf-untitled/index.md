@@ -1,12 +1,9 @@
 ---
 title: "Untitled"
 authors:
-- Yaw
-- M.W.
-- Rybkowski
-- Z.K.,
-- Jeong
-- H.D.
+- Yaw, M.W.
+- Rybkowski, Z.K.
+- admin
 date: "2020-01-01T00:00:00Z"
 doi: "10.24928/2020/0028"
 

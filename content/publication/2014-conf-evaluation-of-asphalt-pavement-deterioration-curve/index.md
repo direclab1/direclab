@@ -1,14 +1,10 @@
 ---
 title: "Evaluation of Asphalt Pavement Deterioration Curves for Oklahoma Interstate Highways"
 authors:
-- Khalegian
-- H.
-- Lewis
-- M. P.
-- Jeong
-- H. D.,
-- Woldesenbet
-- A.,
+- Khalegian, H.
+- Lewis, M. P.
+- admin
+- Woldesenbet, A.
 date: "2014-01-01T00:00:00Z"
 doi: ""
 

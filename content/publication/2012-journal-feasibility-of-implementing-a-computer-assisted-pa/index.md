@@ -1,15 +1,10 @@
 ---
 title: "Feasibility of Implementing a Computer-Assisted Pavement Rehabilitation Decision Support System"
 authors:
-- Florez
-- L
-- Irizarry
-- J.
-- Castro
-- D. Abdollahipour
-- S.,
-- Jeong
-- H. S.
+- Florez, L
+- Irizarry, J.
+- Castro, D. A
+- admin
 date: "2012-01-01T00:00:00Z"
 doi: ""
 

@@ -1,12 +1,9 @@
 ---
 title: "Radar Chart Tool for Evaluating the Performance of Pavement Rehabilitation Treatments, Construction Research Congress"
 authors:
-- Abdelaty
-- A.
-- Jeong
-- H. D.,
-- Smadi
-- Omar
+- Abdelaty, A.
+- admin
+- Smadi, O
 date: "2017-01-01T00:00:00Z"
 doi: ""
 

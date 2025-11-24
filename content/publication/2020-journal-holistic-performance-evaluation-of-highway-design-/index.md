@@ -1,16 +1,11 @@
 ---
 title: "Holistic Performance Evaluation of Highway Design-Build Projects"
 authors:
-- Choi
-- K.
-- Jung
-- I.
-- Yin
-- Y.
-- Gurganus
-- C.,
-- Jeong
-- H.D.
+- Choi, K.
+- Jung, I.
+- Yin, Y.
+- Gurganus, C.
+- admin
 date: "2020-01-01T00:00:00Z"
 doi: "10.1061/(ASCE)ME.1943-5479.000078"
 

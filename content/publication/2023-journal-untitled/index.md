@@ -1,16 +1,11 @@
 ---
 title: "Untitled"
 authors:
-- Yin
-- Y.
-- Choi
-- K.
-- Lee
-- Y-C.
-- Jeong
-- H. D.,
-- Liu
-- X.
+- Yin, Y.
+- Choi, K.
+- Lee, Y
+- admin
+- Liu, X.
 date: "2023-01-01T00:00:00Z"
 doi: "10.1061/JMENEA.MEENG-5153"
 

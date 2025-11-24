@@ -1,12 +1,9 @@
 ---
 title: "Financing Options for Surface Transportation Projects in the United States"
 authors:
-- Bahrevar
-- E.
-- Shane
-- J. S.,
-- Jeong
-- H. D.,
+- Bahrevar, E.
+- Shane, J. S.
+- admin
 date: "2014-01-01T00:00:00Z"
 doi: ""
 

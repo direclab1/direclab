@@ -1,14 +1,10 @@
 ---
 title: "End of Asset Life Reinvestment Decision Making Process Tool for Advanced Asset Management: Theory"
 authors:
-- Iyer
-- S.
-- Rose
-- D.
-- Jeong
-- H.S.,
-- George
-- B.
+- Iyer, S.
+- Rose, D.
+- admin
+- George, B.
 date: "2012-01-01T00:00:00Z"
 doi: ""
 

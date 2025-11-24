@@ -1,12 +1,9 @@
 ---
 title: "Cost and Scope Breakdown Structure for Functional Level Estimating of Consultant Fees"
 authors:
-- Craigie
-- E. K.
-- Gransberg
-- D. D.,
-- Jeong
-- H. D.
+- Craigie, E. K.
+- Gransberg, D. D.
+- admin
 date: "2016-01-01T00:00:00Z"
 doi: ""
 

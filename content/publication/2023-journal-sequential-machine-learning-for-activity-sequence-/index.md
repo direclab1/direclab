@@ -1,14 +1,10 @@
 ---
 title: "Sequential Machine Learning for Activity Sequence Prediction from Daily Work Report Data"
 authors:
-- Alikhani
-- H.
-- Le
-- C.
-- Jeong
-- H. D.,
-- Damnjanovic
-- I.
+- Alikhani, H.
+- Le, C.
+- admin
+- Damnjanovic, I.
 date: "2023-01-01T00:00:00Z"
 doi: "10.1061/JCEMD4.COENG-1316"
 

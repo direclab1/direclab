@@ -1,14 +1,10 @@
 ---
 title: "Mining Daily Work Report Data for Detecting Patterns of Construction Sequences"
 authors:
-- Le
-- C.
-- Le
-- T. R.
-- Shreshta
-- K.,
-- Jeong
-- H. D.
+- Le, C.
+- Le, T. R.
+- Shreshta, K.
+- admin
 date: "2019-01-01T00:00:00Z"
 doi: ""
 

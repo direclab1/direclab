@@ -1,12 +1,9 @@
 ---
 title: "Three-Tiered data and Information Integration Framework: A case Study of Transportation Project Daily Work Report"
 authors:
-- Woldesenbet
-- A.
-- Jeong
-- H. D.,
-- Lewis
-- M. P.
+- Woldesenbet, A.
+- admin
+- Lewis, M. P.
 date: "2014-01-01T00:00:00Z"
 doi: ""
 

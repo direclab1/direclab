@@ -1,12 +1,9 @@
 ---
 title: "An Asset Management Assessment Model for State Department of Transportation"
 authors:
-- Cooksey
-- S.
-- Jeong
-- H. S.,
-- Chae
-- M. J.
+- Cooksey, S.
+- admin
+- Chae, M. J.
 date: "2011-01-01T00:00:00Z"
 doi: "10.1061/(ASCE)ME.1943-5479.0000055"
 

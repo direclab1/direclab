@@ -1,12 +1,9 @@
 ---
 title: "Developing and Testing Computer-Based and Virtual Reality Target Value Design Simulations"
 authors:
-- Kim
-- S.
-- Jeong
-- H.D.
-- Rybkowski
-- Z. K
+- Kim, S.
+- admin
+- Rybkowski, Z. K
 date: "2023-01-01T00:00:00Z"
 doi: ""
 

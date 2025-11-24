@@ -1,12 +1,9 @@
 ---
 title: "Project Requirements Prioritization through NLP-Driven Classification and Adjusted Work Items Analysis"
 authors:
-- Ko
-- T.
-- Lee
-- J.,
-- Jeong
-- H. D.,
+- Ko, T.
+- Lee, J.
+- admin
 date: "2023-01-01T00:00:00Z"
 doi: "10.1061/JCEMD4.COENG-13655"
 

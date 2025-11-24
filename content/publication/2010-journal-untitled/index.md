@@ -1,16 +1,11 @@
 ---
 title: "Untitled"
 authors:
-- Syachrani
-- S.
-- Rai
-- V
-- Jeong
-- H. S.
-- Chae
-- M.,
-- Iseley
-- T.
+- Syachrani, S.
+- Rai, V
+- admin
+- Chae, M.
+- Iseley, T.
 date: "2010-01-01T00:00:00Z"
 doi: "10.1016/j.tust.2010.05.005"
 

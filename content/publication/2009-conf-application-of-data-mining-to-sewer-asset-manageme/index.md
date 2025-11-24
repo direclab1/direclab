@@ -1,12 +1,9 @@
 ---
 title: "Application of Data Mining to Sewer Asset Management"
 authors:
-- Syachrani
-- S.
-- Jeong
-- D. H.,
-- Chung
-- C. S.
+- Syachrani, S.
+- admin
+- Chung, C. S.
 date: "2009-01-01T00:00:00Z"
 doi: ""
 

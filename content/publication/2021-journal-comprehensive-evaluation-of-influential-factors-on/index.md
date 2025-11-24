@@ -1,14 +1,10 @@
 ---
 title: "Comprehensive Evaluation of Influential Factors on Public Roadway Project Contract Time"
 authors:
-- Le
-- C.
-- Yaw
-- M. W.
-- Jeong
-- H. D.,
-- Choi
-- K.
+- Le, C.
+- Yaw, M. W.
+- admin
+- Choi, K.
 date: "2021-01-01T00:00:00Z"
 doi: ""
 

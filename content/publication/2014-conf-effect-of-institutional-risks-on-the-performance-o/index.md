@@ -1,14 +1,10 @@
 ---
 title: "Effect of Institutional Risks on the Performance of International Construction Projects"
 authors:
-- Park
-- H.
-- Lee
-- K.
-- Jeong
-- H. D.,
-- Han
-- S.
+- Park, H.
+- Lee, K.
+- admin
+- Han, S.
 date: "2014-01-01T00:00:00Z"
 doi: ""
 

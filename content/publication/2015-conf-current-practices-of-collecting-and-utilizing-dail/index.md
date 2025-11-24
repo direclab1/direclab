@@ -1,12 +1,9 @@
 ---
 title: "Current Practices of Collecting and Utilizing Daily Work Report Data and Areas for Improvements"
 authors:
-- Shrestha
-- K. J.
-- Jeong
-- H.D.,
-- Gransberg
-- D. D.
+- Shrestha, K. J.
+- admin
+- Gransberg, D. D.
 date: "2015-01-01T00:00:00Z"
 doi: ""
 

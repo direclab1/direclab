@@ -1,22 +1,14 @@
 ---
 title: "Construction Field Management using a Popular Text Messenger"
 authors:
-- Lee
-- G.
-- Cho
-- J.
-- Song
-- T.
-- Roh
-- H.
-- Jung
-- J.
-- Chung
-- J.
-- Yong
-- G.,
-- Jeong
-- H. D.
+- Lee, G.
+- Cho, J.
+- Song, T.
+- Roh, H.
+- Jung, J.
+- Chung, J.
+- Yong, G.
+- admin
 date: "2020-01-01T00:00:00Z"
 doi: ""
 

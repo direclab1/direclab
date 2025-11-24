@@ -1,12 +1,9 @@
 ---
 title: "Reducing Data-Collection Efforts for Conceptual Cost Estimating at a Highway Agency"
 authors:
-- Gardner
-- B. J.
-- Gransberg
-- D. D.,
-- Jeong
-- H. D.
+- Gardner, B. J.
+- Gransberg, D. D.
+- admin
 date: "2016-01-01T00:00:00Z"
 doi: ""
 

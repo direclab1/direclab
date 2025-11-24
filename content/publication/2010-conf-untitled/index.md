@@ -1,8 +1,7 @@
 ---
 title: "Untitled"
 authors:
-- Jeong
-- H. S.
+- admin
 date: "2010-01-01T00:00:00Z"
 doi: ""
 

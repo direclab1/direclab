@@ -1,14 +1,10 @@
 ---
 title: "Civil Information Modeling (CiM) Adoption by Departments of Transportation"
 authors:
-- Guo
-- F.
-- Turkan
-- Y.
-- Jeong
-- H. D.,
-- Jahren
-- C. T.
+- Guo, F.
+- Turkan, Y.
+- admin
+- Jahren, C. T.
 date: "2014-01-01T00:00:00Z"
 doi: ""
 

@@ -1,12 +1,9 @@
 ---
 title: "Barriers to Implementing Data-Driven Pavement Treatment Performance Evaluation Process"
 authors:
-- Abdelaty
-- A.
-- Jeong
-- H.D.,
-- Smadi
-- O.
+- Abdelaty, A.
+- admin
+- Smadi, O.
 date: "2018-01-01T00:00:00Z"
 doi: ""
 

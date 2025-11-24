@@ -1,12 +1,8 @@
 ---
 title: "Effects of Flexible Notice-To-Proceed Provisions on the Performance of Transportation Infrastructure Projects"
 authors:
-- aw
-- M. W.
-- Jeong
-- H. D.,
-- Choi
-- K.
+- admin
+- Choi, K.
 date: "2022-01-01T00:00:00Z"
 doi: ""
 

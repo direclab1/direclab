@@ -1,12 +1,9 @@
 ---
 title: "Evaluation of Deterioration Models of Wastewater Infrastructure Systems. Optimizing Pipeline Design, Operations, and Maintenance"
 authors:
-- Jeong
-- H. S.
-- Baik
-- H-S.,
-- Abraham
-- D. M.
+- admin
+- Baik, H
+- Abraham, D. M.
 date: "2005-01-01T00:00:00Z"
 doi: ""
 

@@ -1,10 +1,8 @@
 ---
 title: "Principal-Agent Model for Determining Incentive/Disincentive Amount in Highway Rehabilitation Projects"
 authors:
-- Abdollahipour
-- S.,
-- Jeong
-- H. S.
+- Abdollahipour, S.
+- admin
 date: "2012-01-01T00:00:00Z"
 doi: ""
 

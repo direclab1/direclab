@@ -1,10 +1,8 @@
 ---
 title: "Dynamic Multi-dimensional Pavement Delineation Approach"
 authors:
-- Abdelaty
-- A.,
-- Jeong
-- H.D.
+- Abdelaty, A.
+- admin
 date: "2018-01-01T00:00:00Z"
 doi: "10.1061/(ASCE)CP.1943-5487.0000758"
 

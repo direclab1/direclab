@@ -1,12 +1,9 @@
 ---
 title: "Estimating Preconstruction Services for Bridge Design Projects"
 authors:
-- Abdelaty
-- A.
-- Shrestha
-- K. J.,
-- Jeong
-- H.D.
+- Abdelaty, A.
+- Shrestha, K. J.
+- admin
 date: "2020-01-01T00:00:00Z"
 doi: "10.1061/(ASCE)ME.1943-5479.000079"
 

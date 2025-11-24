@@ -1,11 +1,9 @@
 ---
 title: "Decision Tree Based Deterioration Model for Sewer Pipes"
 authors:
-- Syachrani,S.
-- Jeong
-- H. S.,
-- Chung
-- C. S.
+- Syachrani, S.
+- admin
+- Chung, C. S.
 date: "2013-01-01T00:00:00Z"
 doi: "10.1061/(ASCE)CF.1943-5509.0000349"
 

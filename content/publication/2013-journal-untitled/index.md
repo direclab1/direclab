@@ -1,12 +1,9 @@
 ---
 title: "Untitled"
 authors:
-- Syachrani
-- S.
-- Jeong
-- H. S.,
-- Chung
-- C. S.
+- Syachrani, S.
+- admin
+- Chung, C. S.
 date: "2013-01-01T00:00:00Z"
 doi: ""
 

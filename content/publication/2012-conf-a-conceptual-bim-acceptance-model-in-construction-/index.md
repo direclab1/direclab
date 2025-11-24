@@ -1,12 +1,9 @@
 ---
 title: "A Conceptual BIM Acceptance Model in Construction Organizations: Literature Review"
 authors:
-- Lee
-- S-K.
-- Yu
-- J-H,
-- Jeong
-- D.
+- Lee, S
+- Yu, J
+- admin
 date: "2012-01-01T00:00:00Z"
 doi: ""
 

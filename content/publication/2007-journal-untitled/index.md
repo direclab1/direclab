@@ -1,16 +1,11 @@
 ---
 title: "Untitled"
 authors:
-- Qiao,J. Jeong
-- H. S.
-- Lawley
-- M. A.
-- Richard
-- J-P P.
-- Abraham
-- D. M.,
-- Yih
-- Y.
+- Qiao, J. J
+- Lawley, M. A.
+- Richard, J
+- Abraham, D. M.
+- Yih, Y.
 date: "2007-01-01T00:00:00Z"
 doi: ""
 

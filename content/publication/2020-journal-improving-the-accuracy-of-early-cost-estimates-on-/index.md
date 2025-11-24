@@ -1,12 +1,9 @@
 ---
 title: "Improving the Accuracy of Early Cost Estimates on Transportation Infrastructure Projects"
 authors:
-- Karaca
-- I.
-- Gransberg
-- D.D.,
-- Jeong
-- H. D.
+- Karaca, I.
+- Gransberg, D.D.
+- admin
 date: "2020-01-01T00:00:00Z"
 doi: "10.1061/(ASCE)ME.1943-5479.000081"
 

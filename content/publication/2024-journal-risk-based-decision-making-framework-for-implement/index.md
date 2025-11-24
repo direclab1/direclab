@@ -1,14 +1,10 @@
 ---
 title: "Risk-based Decision-making Framework for Implementation of Collaboration and Integration Strategies"
 authors:
-- Kim
-- S.
-- Ghimire
-- P.
-- Barutha
-- P.,
-- Jeong
-- H. D.
+- Kim, S.
+- Ghimire, P.
+- Barutha, P.
+- admin
 date: "2024-01-01T00:00:00Z"
 doi: "10.1061/JMENEA.MEENG-5719"
 

@@ -1,10 +1,8 @@
 ---
 title: "Highway Project Clustering Using Unsupervised Machine Learning Approach"
 authors:
-- Alikhani
-- H.,
-- Jeong
-- H. D.
+- Alikhani, H.
+- admin
 date: "2021-01-01T00:00:00Z"
 doi: ""
 

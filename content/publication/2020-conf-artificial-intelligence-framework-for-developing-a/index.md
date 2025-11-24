@@ -1,10 +1,8 @@
 ---
 title: "Artificial Intelligence Framework for Developing a Critical Path Schedule Using Historical Daily Work Report Data. Construction Research Congress 2020"
 authors:
-- Le
-- C.,
-- Jeong
-- H. D.
+- Le, C.
+- admin
 date: "2020-01-01T00:00:00Z"
 doi: ""
 

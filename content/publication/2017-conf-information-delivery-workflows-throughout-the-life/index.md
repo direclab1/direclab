@@ -1,16 +1,11 @@
 ---
 title: "Information Delivery Workflows Throughout the Life Cycle of Transportation Assets"
 authors:
-- Le
-- T.
-- Jeong
-- H. D.
-- Jahren
-- C.
-- Shane
-- J.,
-- Cetin
-- K.
+- Le, T.
+- admin
+- Jahren, C.
+- Shane, J.
+- Cetin, K.
 date: "2017-01-01T00:00:00Z"
 doi: ""
 

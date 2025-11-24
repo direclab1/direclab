@@ -1,12 +1,9 @@
 ---
 title: "Effects of Survey Techniques on On-Board Survey Performance"
 authors:
-- Memarian
-- B.
-- Jeong
-- H. S.,
-- Uhm
-- D.
+- Memarian, B.
+- admin
+- Uhm, D.
 date: "2012-01-01T00:00:00Z"
 doi: ""
 

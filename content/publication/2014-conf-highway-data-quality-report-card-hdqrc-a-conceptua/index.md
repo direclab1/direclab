@@ -1,10 +1,8 @@
 ---
 title: "Highway Data Quality Report Card (HDQRC): A Conceptual Framework of Pavement Management Data"
 authors:
-- Woldesenbet
-- A.,
-- Jeong
-- H. D.,
+- Woldesenbet, A.
+- admin
 date: "2014-01-01T00:00:00Z"
 doi: ""
 

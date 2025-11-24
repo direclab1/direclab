@@ -1,14 +1,10 @@
 ---
 title: "A Case Study of Hybrid Learning Implementation in Construction Engineering"
 authors:
-- Jahren
-- C.
-- Karabulut-Ilgu
-- A.
-- Jeong
-- H. D.,
-- Cormicle
-- L
+- Jahren, C.
+- Karabulut-Ilgu, A.
+- admin
+- Cormicle, L
 date: "2015-01-01T00:00:00Z"
 doi: ""
 

@@ -1,12 +1,9 @@
 ---
 title: "Development of a Partnering Maturity Assessment Tool for Transportation Agencies"
 authors:
-- Nunez
-- M. P.
-- Del Puerto
-- C. L.,
-- Jeong
-- H. D.
+- Nunez, M. P.
+- Del Puerto, C. L.
+- admin
 date: "2018-01-01T00:00:00Z"
 doi: ""
 

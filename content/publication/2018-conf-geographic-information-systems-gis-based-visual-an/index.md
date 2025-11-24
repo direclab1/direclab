@@ -1,12 +1,9 @@
 ---
 title: "Geographic Information Systems (GIS) based Visual Analytics Framework for Highway Project Performance Evaluation"
 authors:
-- Le
-- C.
-- Le
-- T.,
-- Jeong
-- H.D.
+- Le, C.
+- Le, T.
+- admin
 date: "2018-01-01T00:00:00Z"
 doi: ""
 

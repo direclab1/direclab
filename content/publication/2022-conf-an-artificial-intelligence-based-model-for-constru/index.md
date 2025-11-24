@@ -1,10 +1,8 @@
 ---
 title: "An artificial intelligence-based model for construction activity sequence prediction in highway projects, Construction Research Congress (CRC)"
 authors:
-- Alikhani
-- H.
-- Jeong
-- H. D.
+- Alikhani, H.
+- admin
 date: "2022-01-01T00:00:00Z"
 doi: ""
 

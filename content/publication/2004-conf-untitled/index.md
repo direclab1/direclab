@@ -1,14 +1,10 @@
 ---
 title: "Untitled"
 authors:
-- Arboleda
-- C. A.
-- Jeong
-- H. S.
-- Abraham
-- D. M.,
-- Gokhale
-- S.
+- Arboleda, C. A.
+- admin
+- Abraham, D. M.
+- Gokhale, S.
 date: "2004-01-01T00:00:00Z"
 doi: ""
 

@@ -1,14 +1,10 @@
 ---
 title: "Tall Wind Tower Construction Using Hexcrete Tower Technology"
 authors:
-- Barutha
-- P
-- Jeong
-- H. D
-- Sritharan
-- S.,
-- Nahvi
-- A.
+- Barutha, P
+- admin
+- Sritharan, S.
+- Nahvi, A.
 date: "2016-01-01T00:00:00Z"
 doi: ""
 

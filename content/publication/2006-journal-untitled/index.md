@@ -1,12 +1,9 @@
 ---
 title: "Untitled"
 authors:
-- Baik
-- H-S.
-- Jeong
-- H. S.,
-- Abraham
-- D. M.
+- Baik, H
+- admin
+- Abraham, D. M.
 date: "2006-01-01T00:00:00Z"
 doi: ""
 

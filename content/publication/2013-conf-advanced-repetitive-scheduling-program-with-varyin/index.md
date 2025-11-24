@@ -1,14 +1,10 @@
 ---
 title: "Advanced Repetitive Scheduling Program with Varying Production Rates for Horizontal Construction Projects. 5th International Conference on Construction Engineering and Project Management"
 authors:
-- Duffy
-- G.
-- Asregedew
-- W.
-- Jeong
-- H. S.,
-- Oberlender
-- G. D.
+- Duffy, G.
+- Asregedew, W.
+- admin
+- Oberlender, G. D.
 date: "2013-01-01T00:00:00Z"
 doi: ""
 

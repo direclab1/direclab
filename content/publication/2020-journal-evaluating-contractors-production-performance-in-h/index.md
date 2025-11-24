@@ -1,14 +1,10 @@
 ---
 title: "Evaluating Contractor’s Production Performance in Highway Projects Using Historical Daily Work Report Data"
 authors:
-- Le
-- C.
-- Jeong
-- H.D.
-- Le
-- T.
-- Kang
-- Y.
+- Le, C.
+- admin
+- Le, T.
+- Kang, Y.
 date: "2020-01-01T00:00:00Z"
 doi: ""
 

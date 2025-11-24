@@ -1,12 +1,9 @@
 ---
 title: "A Natural Language Processing-Based Approach for Clustering Construction Projects, Construction Research Congress (CRC)"
 authors:
-- Le
-- C.
-- Ko
-- T.,
-- Jeong
-- H. D.
+- Le, C.
+- Ko, T.
+- admin
 date: "2022-01-01T00:00:00Z"
 doi: ""
 

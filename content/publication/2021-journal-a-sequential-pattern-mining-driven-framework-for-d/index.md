@@ -1,14 +1,10 @@
 ---
 title: "A Sequential Pattern Mining Driven Framework for Developing Construction Logic Knowledge Bases"
 authors:
-- Le
-- C.
-- Shrestha
-- K. J.
-- Jeong
-- H. D.,
-- Damnjanovic
-- I.
+- Le, C.
+- Shrestha, K. J.
+- admin
+- Damnjanovic, I.
 date: "2021-01-01T00:00:00Z"
 doi: ""
 

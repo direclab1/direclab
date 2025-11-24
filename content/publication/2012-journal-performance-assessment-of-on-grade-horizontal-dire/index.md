@@ -1,14 +1,10 @@
 ---
 title: "Performance Assessment of On-Grade Horizontal Directional Drilling"
 authors:
-- Abdollahipour
-- S.
-- Jeong
-- H. S.
-- Burman
-- R.,
-- Gunsaulis
-- F.
+- Abdollahipour, S.
+- admin
+- Burman, R.
+- Gunsaulis, F.
 date: "2012-01-01T00:00:00Z"
 doi: "10.1061/(ASCE)CO.1943-7862.0000428"
 

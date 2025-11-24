@@ -1,16 +1,11 @@
 ---
 title: "Untitled"
 authors:
-- Kim
-- S.*
-- Mainardi
-- P.*
-- Jeong
-- H. D.
-- Rybkowski
-- Z.
-- Seo
-- J. H.
+- Kim, S.
+- Mainardi, P.
+- admin
+- Rybkowski, Z.
+- Seo, J. H.
 date: "2022-01-01T00:00:00Z"
 doi: ""
 

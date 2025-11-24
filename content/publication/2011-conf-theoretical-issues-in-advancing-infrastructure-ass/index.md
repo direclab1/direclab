@@ -1,12 +1,9 @@
 ---
 title: "Theoretical Issues in Advancing Infrastructure Asset Management Programs (two page extended abstract review only)"
 authors:
-- Jeong
-- H.S.
-- Syachrani
-- S.,
-- Chung
-- C.S.
+- admin
+- Syachrani, S.
+- Chung, C.S.
 date: "2011-01-01T00:00:00Z"
 doi: ""
 

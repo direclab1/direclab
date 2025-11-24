@@ -1,16 +1,11 @@
 ---
 title: "A Practical Gravel Loss Prediction Model for Local Agencies"
 authors:
-- Alam-Kan
-- S.
-- Cetin
-- B.
-- Jeong
-- H.D.
-- Ashlock
-- J. C.
-- Yaw
-- M.
+- Alam-Kan, S.
+- Cetin, B.
+- admin
+- Ashlock, J. C.
+- Yaw, M.
 date: "2020-01-01T00:00:00Z"
 doi: ""
 

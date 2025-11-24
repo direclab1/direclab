@@ -1,11 +1,8 @@
 ---
 title: "Framework for Integrating and Assessing Highway Infrastructure Data"
 authors:
-- Woldesenbet
-- W. Jeong
-- H.D.,
-- Park
-- H.
+- Woldesenbet, W. J
+- Park, H.
 date: "2015-01-01T00:00:00Z"
 doi: "10.1061/(ASCE)ME.1943-5479.000038"
 

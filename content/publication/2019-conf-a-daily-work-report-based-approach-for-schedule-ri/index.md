@@ -1,10 +1,8 @@
 ---
 title: "A Daily Work Report Based Approach for Schedule Risk Analysis"
 authors:
-- Le
-- C.,
-- Jeong
-- H.D.
+- Le, C.
+- admin
 date: "2019-01-01T00:00:00Z"
 doi: ""
 

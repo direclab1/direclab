@@ -1,12 +1,9 @@
 ---
 title: "Linear Scheduling Model with Varying Production Rates"
 authors:
-- Duffy
-- G. A.
-- Oberlender
-- G. D.,
-- Jeong
-- H. S.
+- Duffy, G. A.
+- Oberlender, G. D.
+- admin
 date: "2011-01-01T00:00:00Z"
 doi: "10.1061/(ASCE)CO.1943-7862.000032"
 

@@ -1,14 +1,10 @@
 ---
 title: "Development of a Next Generation Smart Project Management Information System"
 authors:
-- Im
-- C.W.
-- Park
-- K. M.
-- Kim
-- C. D.,
-- Jeong
-- H. S.
+- Im, C.W.
+- Park, K. M.
+- Kim, C. D.
+- admin
 date: "2013-01-01T00:00:00Z"
 doi: ""
 

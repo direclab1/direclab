@@ -1,12 +1,9 @@
 ---
 title: "Deep Learning Algorithms to Generate Activity Sequences using Historical As-built Schedule Data"
 authors:
-- Alikhani
-- H.
-- Le
-- C.,
-- Jeong
-- H.D.
+- Alikhani, H.
+- Le, C.
+- admin
 date: "2020-01-01T00:00:00Z"
 doi: ""
 

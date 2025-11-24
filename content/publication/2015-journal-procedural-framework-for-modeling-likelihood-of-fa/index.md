@@ -1,12 +1,9 @@
 ---
 title: "Procedural Framework for Modeling Likelihood of Failure of Underground Pipeline Assets"
 authors:
-- Park
-- H.
-- Ting
-- T.,
-- Jeong
-- H.D.
+- Park, H.
+- Ting, T.
+- admin
 date: "2015-01-01T00:00:00Z"
 doi: "10.1061/(ASCE)PS.1949-1204.0000222"
 

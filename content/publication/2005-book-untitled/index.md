@@ -1,11 +1,8 @@
 ---
 title: "Untitled"
 authors:
-- Qiao
-- J.
+- Qiao, J.
 - admin
-- H.S.,
-- Richard J-P.P.
 date: "2005-01-01T00:00:00Z"
 doi: ""
 

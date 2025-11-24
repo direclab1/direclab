@@ -1,10 +1,8 @@
 ---
 title: "An Enhanced Framework for Dynamic Segmentation of Pavement Sections, Construction Research Congress"
 authors:
-- Abdelaty
-- A.,
-- Jeong
-- H. D.
+- Abdelaty, A.
+- admin
 date: "2017-01-01T00:00:00Z"
 doi: ""
 

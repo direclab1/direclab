@@ -1,10 +1,8 @@
 ---
 title: "Determining Highway Project Contract Time from Project Duration Estimates"
 authors:
-- Le
-- C.,
-- Jeong
-- H. D.
+- Le, C.
+- admin
 date: "2023-01-01T00:00:00Z"
 doi: "10.1061/JLADAH.LADR-957"
 

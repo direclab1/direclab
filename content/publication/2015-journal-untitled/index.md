@@ -1,12 +1,9 @@
 ---
 title: "Untitled"
 authors:
-- Alroomi
-- A.
-- Jeong
-- H. D.,
-- Oberlender
-- G. D.
+- Alroomi, A.
+- admin
+- Oberlender, G. D.
 date: "2015-01-01T00:00:00Z"
 doi: "10.1061/(ASCE)ME.1943-5479.0000380"
 

@@ -380,11 +380,15 @@ sections:
               <img src="completed-12.jpg" alt="Unit Price Visualization Tool">
             </div>
             <div class="project-title-area">
-              <h3 class="project-title">Unit Price Visualization Tool Development</h3>
+              <h3 class="project-title">Unit Price Visualization Tool Development (Extension of Contract MDT 8232)</h3>
               <p class="project-date">(July 2018 – November 2018)</p>
             </div>
           </div>
-          <p class="project-description">Investigators: David Jeong (PI), Joseph Shrestha. Montana DOT extension project creating visual analytics for unit price distribution across the state.</p>
+          <p class="project-description">
+            • Investigators: David Jeong (PI) and Joseph Shrestha.<br>
+            • Sponsor: Montana Department of Transportation.<br>
+            • Objectives: As an extension of MDT8232, the research team developed a Unit Price Visualization Tool which is a powerful tool to generate visual analytics results on a map showing the distribution of interpolated unit prices of bid items across the state. The tool can serve as a quick tool to determine the unit price of a bid item in a certain location based on historical data and interpolation algorithm. It will also help evaluate different unit prices of the same bid item based on its location and quantity of work. The tool is an add-in tool to Environmental Systems Research Institute (ESRI) ArcGIS for Desktop application.
+          </p>
         </div>
 
         <hr>
@@ -399,7 +403,11 @@ sections:
               <p class="project-date">(January 2017 - December 2021)</p>
             </div>
           </div>
-          <p class="project-description">Investigators: Peter Savolainen (PI), Anuj Sharma, David Jeong, Jennifer Shane, others. FHWA project developing training materials and decision support tools for highway work zone safety.</p>
+          <p class="project-description">
+            • Investigators: Peter Savolainen (PI) and Co-PIs : Anuj Sharma, David Jeong, Jennifer Shane and others.<br>
+            • Sponsor: Federal Highway Administration (FHWA).<br>
+            • Objectives: In the United States, traffic volumes and congestion are projected to continue increasing, though limited growth is expected in roadway capacity. Consequently, transportation agencies are increasingly focused on maintaining and extending the lifespan of the transportation infrastructure. To this end, it is imperative that construction and maintenance activities can be conducted in a manner that optimizes safety while maintaining acceptable levels of mobility. This project will focus on further improvement areas of additional guidance, training opportunities, and decision support tools for highway work zone safety. Key topics include Post Project Construction Evaluation, Work Near Signalized/Unsignalized Intersections, Traffic Management/Safety During Winter Construction and Severe Weather, Low-Cost Work Zone Management Strategies, and Development and Application of Work Zone Crash Modification Factor. Based on research findings, a series of training materials will be developed.
+          </p>
         </div>
 
         <hr>
@@ -410,11 +418,15 @@ sections:
               <img src="completed-14.jpg" alt="Production Rate Estimating">
             </div>
             <div class="project-title-area">
-              <h3 class="project-title">Effective Production Rate Estimating and Activity Sequencing</h3>
+              <h3 class="project-title">Effective Production Rate Estimating and Activity Sequencing Using Daily Work Report Data</h3>
               <p class="project-date">(May 2017 – January 2018)</p>
             </div>
           </div>
-          <p class="project-description">Investigators: David Jeong (PI), Doug Gransberg (Co-PI). Montana DOT research developing activity sequencing logic for highway projects based on historical data.</p>
+          <p class="project-description">
+            • Investigators: David Jeong (PI) and Doug Gransberg (Co-PI).<br>
+            • Sponsor: Montana Department of Transportation.<br>
+            • Objectives: this research project will develop construction activity sequencing logics for different types of highway projects based on historical data, which can help quickly identify the most common work sequence of the given project and determine the project schedule. Results are expected to significantly improve the accuracy and reliability of project scheduling practices.
+          </p>
         </div>
 
         <hr>
@@ -425,11 +437,15 @@ sections:
               <img src="completed-15.jpg" alt="Natural Language Data Retrieval">
             </div>
             <div class="project-title-area">
-              <h3 class="project-title">Natural Language Based Data Retrieval Engine</h3>
+              <h3 class="project-title">Natural Language Based Data Retrieval Engine for Automated Digital Data Extraction for Civil Infrastructure Projects</h3>
               <p class="project-date">(September 2016 - February 2020)</p>
             </div>
           </div>
-          <p class="project-description">Investigators: David Jeong (PI), Evegeny Chukharev-Hudilainen, Stephen Gilbert. NSF project developing automated data retrieval using Natural Language Processing techniques for infrastructure projects.</p>
+          <p class="project-description">
+            • Investigators: David Jeong (PI), Evegeny Chukharev-Hudilainen, and Stephen Gilbert.<br>
+            • Sponsor: National Science Foundation (NSF).<br>
+            • Objectives: This research proposes a novel approach for a fast and unambiguous reuse of digital models for the civil infrastructure industry by developing an automated data retrieval engine capable of recognizing user information from their natural language queries (e.g., words, phrases, questions) and extracting the desired data from heterogeneous digital datasets by employing the recent advances in Natural Language Processing (NLP) techniques, machine-learning based semantic measure methods to develop the data retrieval system.
+          </p>
         </div>
 
         <hr>
@@ -440,11 +456,15 @@ sections:
               <img src="completed-16.jpg" alt="RT341">
             </div>
             <div class="project-title-area">
-              <h3 class="project-title">RT341: Integrated Project Delivery for Industrial Projects</h3>
+              <h3 class="project-title">RT341: Integrated Project Delivery (IPD) for Industrial Projects</h3>
               <p class="project-date">(June 2016 - June 2019)</p>
             </div>
           </div>
-          <p class="project-description">Investigators: David Jeong (PI), Doug Gransberg, Ali Touran. CII research evaluating IPD and Alliancing principles' effectiveness in industrial capital projects.</p>
+          <p class="project-description">
+            • Investigators: David Jeong (PI) with Doug Gransberg and Ali Touran.<br>
+            • Sponsor: Construction Industry Institute (CII).<br>
+            • Objectives: Industrial capital projects are risky business ventures. As they increase in size, uncertainty, and complexity, they frequently experience corresponding growth in cost and time to deliver, and they often fail to achieve their desired performance results. The risk-shedding structure of current project delivery methods not only creates a non-collaborative environment that impedes the performance of industrial projects; risk-shedding can also stifle innovation and create inefficiencies during industrial project delivery processes. For decades, the delivery of industrial capital projects has suffered from stunted productivity growth and little broad industry innovation while seeing an increase in claims and disputes. Traditional project delivery has not proven to be reliable for industrial capital projects. The industry is open to alternatives. This research project evaluated the potential of increasing integration and collaboration by applying the principles of IPD and Alliancing in the industrial capital projects sector. The key findings from this project is that the increased integration and collaboration that come from implementing IPD and Alliancing principles can lead to better project performance and increase the probability of successfully achieving the business case objectives of an industrial project.
+          </p>
         </div>
 
         <hr>
@@ -455,11 +475,15 @@ sections:
               <img src="completed-17.jpg" alt="Data Sharing Workflows">
             </div>
             <div class="project-title-area">
-              <h3 class="project-title">Guide to Data and Information Sharing Workflows</h3>
+              <h3 class="project-title">Guide to Data and Information Sharing Workflows across the Life Cycle of Transportation Assets</h3>
               <p class="project-date">(August 2016 - September 2018)</p>
             </div>
           </div>
-          <p class="project-description">Investigators: David Jeong (PI), Chuck Jahren, Jennifer Shane, Kristen Cetin. IHRB/MTC project identifying current workflows and improvements for highway asset data management across five asset types.</p>
+          <p class="project-description">
+            • Investigators: David Jeong (PI) with Chuck Jahren, Jennifer Shane, and Kristen Cetin.<br>
+            • Sponsors: Iowa Highway Research Board (IHRB) and Midwest Transportation Center (MTC).<br>
+            • Objectives: Due to an array of advanced digital technologies, much of today's transportation project data are available in digital format. However, due to the fragmented nature of the highway project delivery process, the growing amount of digital data is being archived and managed separately. This makes it difficult for professionals to take full advantage of the efficiencies of digitized data and information. The purpose of this research was to identify current data workflows and areas for improvement for five of the most common types of highway assets—signs, guardrails, culverts, pavements, and bridges—and offer guidance to practitioners on how to better collect, manage, and exchange asset data. For each type of asset, an information delivery manual (IDM) was developed. Each IDM consists of several process maps (PMs) and one exchange requirement (ER) matrix. A total of 15 PMs and 5 ER matrices were developed. A set of limitations in current data workflows was identified and a set of recommendations to overcome those limitations was also determined and documented. The conclusion was that current data workflows were designed mostly for contract administration purposes. Thus, more efficient asset-centric data workflows need to be implemented to truly streamline the data workflows throughout an asset's life cycle and minimize wasted resources in recreating data in the asset maintenance stage.
+          </p>
         </div>
 
         <hr>
@@ -470,11 +494,15 @@ sections:
               <img src="completed-18.jpg" alt="Pavement Preservation">
             </div>
             <div class="project-title-area">
-              <h3 class="project-title">Effectiveness of Pavement Preservation Techniques</h3>
+              <h3 class="project-title">Effectiveness of Pavement Preservation Techniques (Phase I)</h3>
               <p class="project-date">(August 2016 - July 2018)</p>
             </div>
           </div>
-          <p class="project-description">Investigators: Ashley Buss (PI), David Jeong, Fatih Bektas. Iowa DOT research documenting pavement preservation effectiveness and factors influencing performance.</p>
+          <p class="project-description">
+            • Investigators: Ashley Buss (PI), David Jeong, and Fatih Bektas.<br>
+            • Sponsor: Iowa Department of Transportation.<br>
+            • Objectives: Pavement preservation has shown to improve pavement performance and the desire to maximize Iowa's infrastructure investment has led Iowa to invest in collecting pavement performance information. This data, combined with construction and contract records can provide a better understanding of the effectiveness of pavement preservation techniques on Iowa roadways. The overreaching objective of pavement preservation is to bolster the pavement network investment and maintain a higher level of service. This research aims to improve the understanding of pavement preservation strategies in Iowa by focusing on three key areas: (1) documenting the effectiveness using both qualitative and quantitative metrics (2) understanding the important factors that influence the performance of pavement preservation strategies and (3) develop guidance for selecting pavement preservation techniques considering cost and roadway characteristics such as traffic, pavement condition and construction history.
+          </p>
         </div>
 
         <hr>

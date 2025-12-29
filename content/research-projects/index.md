@@ -168,7 +168,7 @@ sections:
         <div class="research-project">
           <div class="project-header">
             <div class="project-photo">
-              <img src="completed-1.jpg" alt="AI Driven Model for Project Duration Estimation">
+              <img src="project-9.jpg" alt="AI Driven Model for Project Duration Estimation">
             </div>
             <div class="project-title-area">
               <h3 class="project-title">Artificial Intelligence Driven Model for Project Duration Estimation</h3>
@@ -187,7 +187,7 @@ sections:
         <div class="research-project">
           <div class="project-header">
             <div class="project-photo">
-              <img src="completed-2.jpg" alt="TxDOT Time Impact Analysis">
+              <img src="project-10.jpg" alt="TxDOT Time Impact Analysis">
             </div>
             <div class="project-title-area">
               <h3 class="project-title">Texas DOT Time Impact Analysis Curriculum Development</h3>
@@ -206,7 +206,7 @@ sections:
         <div class="research-project">
           <div class="project-header">
             <div class="project-photo">
-              <img src="completed-3.jpg" alt="Virtual Participatory Simulation Games">
+              <img src="project-11.jpg" alt="Virtual Participatory Simulation Games">
             </div>
             <div class="project-title-area">
               <h3 class="project-title">Virtual Participatory Simulation Games for Teaching and Learning Project Management Principles</h3>
@@ -225,7 +225,7 @@ sections:
         <div class="research-project">
           <div class="project-header">
             <div class="project-photo">
-              <img src="completed-4.jpg" alt="Virtual Lean Simulation Games">
+              <img src="project-12.jpg" alt="Virtual Lean Simulation Games">
             </div>
             <div class="project-title-area">
               <h3 class="project-title">Development of Virtual Lean Simulation Games for the Construction Industry</h3>
@@ -244,7 +244,7 @@ sections:
         <div class="research-project">
           <div class="project-header">
             <div class="project-photo">
-              <img src="completed-5.jpg" alt="Contingency Factors for Risk">
+              <img src="project-13.jpg" alt="Contingency Factors for Risk">
             </div>
             <div class="project-title-area">
               <h3 class="project-title">Contingency Factors to Account for Risk in Early Construction Cost Estimates for Transportation Infrastructure Projects</h3>
@@ -263,7 +263,7 @@ sections:
         <div class="research-project">
           <div class="project-header">
             <div class="project-photo">
-              <img src="completed-6.jpg" alt="RT383">
+              <img src="project-14.jpg" alt="RT383">
             </div>
             <div class="project-title-area">
               <h3 class="project-title">RT383: Quantitative Validation and Development of Industrial Integrated Project Delivery (I2PD)</h3>
@@ -282,7 +282,7 @@ sections:
         <div class="research-project">
           <div class="project-header">
             <div class="project-photo">
-              <img src="completed-7.jpg" alt="Digitalization of Construction Contracts">
+              <img src="project-15.jpg" alt="Digitalization of Construction Contracts">
             </div>
             <div class="project-title-area">
               <h3 class="project-title">International Research Project: Digitalization of Construction Contract requirements using Artificial Intelligence and Natural Language Processing</h3>
@@ -301,7 +301,7 @@ sections:
         <div class="research-project">
           <div class="project-header">
             <div class="project-photo">
-              <img src="completed-8.jpg" alt="SDDOT Construction Cost Index">
+              <img src="project-16.jpg" alt="SDDOT Construction Cost Index">
             </div>
             <div class="project-title-area">
               <h3 class="project-title">Develop an Improved SDDOT Construction Cost Index</h3>
@@ -320,7 +320,7 @@ sections:
         <div class="research-project">
           <div class="project-header">
             <div class="project-photo">
-              <img src="completed-9.jpg" alt="NCHRP 08-114">
+              <img src="project-17.jpg" alt="NCHRP 08-114">
             </div>
             <div class="project-title-area">
               <h3 class="project-title">NCHRP 08-114: Systematic Approach for Determining Construction Contract Time: A Guidebook</h3>
@@ -339,7 +339,7 @@ sections:
         <div class="research-project">
           <div class="project-header">
             <div class="project-photo">
-              <img src="completed-10.jpg" alt="Maintenance Equipment Life Cycle">
+              <img src="project-18.jpg" alt="Maintenance Equipment Life Cycle">
             </div>
             <div class="project-title-area">
               <h3 class="project-title">Optimizing Maintenance Equipment Life Cycle for Local Agencies</h3>
@@ -358,7 +358,7 @@ sections:
         <div class="research-project">
           <div class="project-header">
             <div class="project-photo">
-              <img src="completed-11.jpg" alt="GRAMS">
+              <img src="project-19.jpg" alt="GRAMS">
             </div>
             <div class="project-title-area">
               <h3 class="project-title">Granular Roads Asset Management System (GRAMS)</h3>
@@ -377,7 +377,7 @@ sections:
         <div class="research-project">
           <div class="project-header">
             <div class="project-photo">
-              <img src="completed-12.jpg" alt="Unit Price Visualization Tool">
+              <img src="project-20.jpg" alt="Unit Price Visualization Tool">
             </div>
             <div class="project-title-area">
               <h3 class="project-title">Unit Price Visualization Tool Development (Extension of Contract MDT 8232)</h3>
@@ -396,7 +396,7 @@ sections:
         <div class="research-project">
           <div class="project-header">
             <div class="project-photo">
-              <img src="completed-13.jpg" alt="Work Zone Safety Training">
+              <img src="project-21.jpg" alt="Work Zone Safety Training">
             </div>
             <div class="project-title-area">
               <h3 class="project-title">Work Zone Safety Training Grant</h3>
@@ -415,7 +415,7 @@ sections:
         <div class="research-project">
           <div class="project-header">
             <div class="project-photo">
-              <img src="completed-14.jpg" alt="Production Rate Estimating">
+              <img src="project-22.jpg" alt="Production Rate Estimating">
             </div>
             <div class="project-title-area">
               <h3 class="project-title">Effective Production Rate Estimating and Activity Sequencing Using Daily Work Report Data</h3>
@@ -434,7 +434,7 @@ sections:
         <div class="research-project">
           <div class="project-header">
             <div class="project-photo">
-              <img src="completed-15.jpg" alt="Natural Language Data Retrieval">
+              <img src="project-23.jpg" alt="Natural Language Data Retrieval">
             </div>
             <div class="project-title-area">
               <h3 class="project-title">Natural Language Based Data Retrieval Engine for Automated Digital Data Extraction for Civil Infrastructure Projects</h3>
@@ -453,7 +453,7 @@ sections:
         <div class="research-project">
           <div class="project-header">
             <div class="project-photo">
-              <img src="completed-16.jpg" alt="RT341">
+              <img src="project-24.jpg" alt="RT341">
             </div>
             <div class="project-title-area">
               <h3 class="project-title">RT341: Integrated Project Delivery (IPD) for Industrial Projects</h3>
@@ -472,7 +472,7 @@ sections:
         <div class="research-project">
           <div class="project-header">
             <div class="project-photo">
-              <img src="completed-17.jpg" alt="Data Sharing Workflows">
+              <img src="project-25.jpg" alt="Data Sharing Workflows">
             </div>
             <div class="project-title-area">
               <h3 class="project-title">Guide to Data and Information Sharing Workflows across the Life Cycle of Transportation Assets</h3>
@@ -491,7 +491,7 @@ sections:
         <div class="research-project">
           <div class="project-header">
             <div class="project-photo">
-              <img src="completed-18.jpg" alt="Pavement Preservation">
+              <img src="project-26.jpg" alt="Pavement Preservation">
             </div>
             <div class="project-title-area">
               <h3 class="project-title">Effectiveness of Pavement Preservation Techniques (Phase I)</h3>
@@ -510,7 +510,7 @@ sections:
         <div class="research-project">
           <div class="project-header">
             <div class="project-photo">
-              <img src="completed-19.jpg" alt="Bridge Design Cost Estimation">
+              <img src="project-27.jpg" alt="Bridge Design Cost Estimation">
             </div>
             <div class="project-title-area">
               <h3 class="project-title">Bridge Design Effort and Cost Estimation Models</h3>
@@ -528,7 +528,7 @@ sections:
         <div class="research-project">
           <div class="project-header">
             <div class="project-photo">
-              <img src="completed-20.jpg" alt="NCHRP 19-10">
+              <img src="project-28.jpg" alt="NCHRP 19-10">
             </div>
             <div class="project-title-area">
               <h3 class="project-title">NCHRP 19-10: AASHTO Partnering Handbook, Second Edition</h3>
@@ -546,7 +546,7 @@ sections:
         <div class="research-project">
           <div class="project-header">
             <div class="project-photo">
-              <img src="completed-21.jpg" alt="HCCI Methodology">
+              <img src="project-29.jpg" alt="HCCI Methodology">
             </div>
             <div class="project-title-area">
               <h3 class="project-title">Advanced Methodology for Highway Construction Cost Index</h3>
@@ -564,7 +564,7 @@ sections:
         <div class="research-project">
           <div class="project-header">
             <div class="project-photo">
-              <img src="completed-22.jpg" alt="Hexcrete Tower">
+              <img src="project-30.jpg" alt="Hexcrete Tower">
             </div>
             <div class="project-title-area">
               <h3 class="project-title">Hexcrete Tower for Harvesting Wind Energy</h3>
@@ -582,7 +582,7 @@ sections:
         <div class="research-project">
           <div class="project-header">
             <div class="project-photo">
-              <img src="completed-23.jpg" alt="Top-down Cost Estimating">
+              <img src="project-31.jpg" alt="Top-down Cost Estimating">
             </div>
             <div class="project-title-area">
               <h3 class="project-title">Top-down Construction Cost Estimating Model/Guide</h3>
@@ -600,7 +600,7 @@ sections:
         <div class="research-project">
           <div class="project-header">
             <div class="project-photo">
-              <img src="completed-24.jpg" alt="Iowa Pavement Treatments">
+              <img src="project-32.jpg" alt="Iowa Pavement Treatments">
             </div>
             <div class="project-title-area">
               <h3 class="project-title">Historical Performance Evaluation of Iowa Pavement Treatments</h3>
@@ -618,7 +618,7 @@ sections:
         <div class="research-project">
           <div class="project-header">
             <div class="project-photo">
-              <img src="completed-25.jpg" alt="ROW Acquisition Barriers">
+              <img src="project-33.jpg" alt="ROW Acquisition Barriers">
             </div>
             <div class="project-title-area">
               <h3 class="project-title">Barriers to Right-of-Way Acquisition</h3>
@@ -636,7 +636,7 @@ sections:
         <div class="research-project">
           <div class="project-header">
             <div class="project-photo">
-              <img src="completed-26.jpg" alt="Daily Work Report Framework">
+              <img src="project-34.jpg" alt="Daily Work Report Framework">
             </div>
             <div class="project-title-area">
               <h3 class="project-title">Framework for Advanced Daily Work Report System</h3>
@@ -654,7 +654,7 @@ sections:
         <div class="research-project">
           <div class="project-header">
             <div class="project-photo">
-              <img src="completed-27.jpg" alt="Preconstruction Services">
+              <img src="project-35.jpg" alt="Preconstruction Services">
             </div>
             <div class="project-title-area">
               <h3 class="project-title">Preconstruction Services Cost Estimating Guidebook</h3>
@@ -672,7 +672,7 @@ sections:
         <div class="research-project">
           <div class="project-header">
             <div class="project-photo">
-              <img src="completed-28.jpg" alt="Complex Projects Management">
+              <img src="project-36.jpg" alt="Complex Projects Management">
             </div>
             <div class="project-title-area">
               <h3 class="project-title">Project Management Strategies for Complex Projects</h3>
@@ -690,7 +690,7 @@ sections:
         <div class="research-project">
           <div class="project-header">
             <div class="project-photo">
-              <img src="completed-29.jpg" alt="Iowa Pavement Decision Framework">
+              <img src="project-37.jpg" alt="Iowa Pavement Decision Framework">
             </div>
             <div class="project-title-area">
               <h3 class="project-title">Iowa Pavement Asset Management Decision Framework</h3>
@@ -708,7 +708,7 @@ sections:
         <div class="research-project">
           <div class="project-header">
             <div class="project-photo">
-              <img src="completed-30.jpg" alt="A Risk Based Asset Investment Decision">
+              <img src="project-38.jpg" alt="A Risk Based Asset Investment Decision">
             </div>
             <div class="project-title-area">
               <h3 class="project-title">A Risk Based Asset Investment Decision Making Process Tool- Phase II</h3>
@@ -725,7 +725,7 @@ sections:
         <div class="research-project">
           <div class="project-header">
             <div class="project-photo">
-              <img src="completed-31.jpg" alt="Data and Information Integration Framework">
+              <img src="project-39.jpg" alt="Data and Information Integration Framework">
             </div>
             <div class="project-title-area">
               <h3 class="project-title">Data and Information Integration Framework for Highway Project Decision Makings</h3>
@@ -742,7 +742,7 @@ sections:
         <div class="research-project">
           <div class="project-header">
             <div class="project-photo">
-              <img src="completed-32.jpg" alt="Calibration of Controlling Input Models">
+              <img src="project-40.jpg" alt="Calibration of Controlling Input Models">
             </div>
             <div class="project-title-area">
               <h3 class="project-title">Calibration of Controlling Input Models for Pavement Management System</h3>
@@ -759,7 +759,7 @@ sections:
         <div class="research-project">
           <div class="project-header">
             <div class="project-photo">
-              <img src="completed-33.jpg" alt="Iowa Pavement Decision Framework">
+              <img src="project-41.jpg" alt="Iowa Pavement Decision Framework">
             </div>
             <div class="project-title-area">
               <h3 class="project-title">Development of a Next Generation Smart Project Management Information System (PMIS)</h3>
@@ -776,7 +776,7 @@ sections:
         <div class="research-project">
           <div class="project-header">
             <div class="project-photo">
-              <img src="completed-34.jpg" alt="Decision Making Process Tool">
+              <img src="project-42.jpg" alt="Decision Making Process Tool">
             </div>
             <div class="project-title-area">
               <h3 class="project-title">A Risk Based Asset Investment Decision Making Process Tool</h3>
@@ -793,7 +793,7 @@ sections:
         <div class="research-project">
           <div class="project-header">
             <div class="project-photo">
-              <img src="completed-35.jpg" alt="Cycle Cost Analysis">
+              <img src="project-43.jpg" alt="Cycle Cost Analysis">
             </div>
             <div class="project-title-area">
               <h3 class="project-title">Alternative Bidding Strategies for Asphalt and Concrete Pavement Projects Utilizing Life Cycle Cost Analysis</h3>
@@ -810,7 +810,7 @@ sections:
         <div class="research-project">
           <div class="project-header">
             <div class="project-photo">
-              <img src="completed-36.jpg" alt="Models for Estimating">
+              <img src="project-44.jpg" alt="Models for Estimating">
             </div>
             <div class="project-title-area">
               <h3 class="project-title">Procedures and Models for Estimating Preconstruction Engineering Costs of Highway Projects</h3>
@@ -827,7 +827,7 @@ sections:
         <div class="research-project">
           <div class="project-header">
             <div class="project-photo">
-              <img src="completed-37.jpg" alt="Robot-based Automated Building Construction System">
+              <img src="project-45.jpg" alt="Robot-based Automated Building Construction System">
             </div>
             <div class="project-title-area">
               <h3 class="project-title">Robot-based Automated Building Construction System for High-rise Buildings</h3>
@@ -844,7 +844,7 @@ sections:
         <div class="research-project">
           <div class="project-header">
             <div class="project-photo">
-              <img src="completed-39.jpg" alt="Evaluation of Business Models">
+              <img src="project-46.jpg" alt="Evaluation of Business Models">
             </div>
             <div class="project-title-area">
               <h3 class="project-title">Evaluation of Business Models and Internet Based Systems for Construction Products Information</h3>
@@ -861,7 +861,7 @@ sections:
         <div class="research-project">
           <div class="project-header">
             <div class="project-photo">
-              <img src="completed-40.jpg" alt="Knowledge Management">
+              <img src="project-47.jpg" alt="Knowledge Management">
             </div>
             <div class="project-title-area">
               <h3 class="project-title">Knowledge Management for Underground Infrastructure Asset Management Information System</h3>
@@ -878,7 +878,7 @@ sections:
         <div class="research-project">
           <div class="project-header">
             <div class="project-photo">
-              <img src="completed-41.jpg" alt="Evaluation of Construction Strategies">
+              <img src="project-48.jpg" alt="Evaluation of Construction Strategies">
             </div>
             <div class="project-title-area">
               <h3 class="project-title">Evaluation of Construction Strategies for PCC Pavements</h3>
@@ -895,7 +895,7 @@ sections:
         <div class="research-project">
           <div class="project-header">
             <div class="project-photo">
-              <img src="completed-42.jpg" alt="Development of an Improved System">
+              <img src="project-49.jpg" alt="Development of an Improved System">
             </div>
             <div class="project-title-area">
               <h3 class="project-title">Development of an Improved System for Contract Time Determination – Phase III</h3>
@@ -912,7 +912,7 @@ sections:
         <div class="research-project">
           <div class="project-header">
             <div class="project-photo">
-              <img src="completed-43.jpg" alt="Performance Assessment">
+              <img src="project-50.jpg" alt="Performance Assessment">
             </div>
             <div class="project-title-area">
               <h3 class="project-title">Performance Assessment of On-Grade Horizontal Directional Drilling Technology</h3>
@@ -929,7 +929,7 @@ sections:
         <div class="research-project">
           <div class="project-header">
             <div class="project-photo">
-              <img src="completed-44.jpg" alt="Estimating as a Competency">
+              <img src="project-51.jpg" alt="Estimating as a Competency">
             </div>
             <div class="project-title-area">
               <h3 class="project-title">Estimating as a Competency in Capital Projects</h3>
@@ -946,7 +946,7 @@ sections:
         <div class="research-project">
           <div class="project-header">
             <div class="project-photo">
-              <img src="completed-45.jpg" alt="Development of Improved System">
+              <img src="project-52.jpg" alt="Development of Improved System">
             </div>
             <div class="project-title-area">
               <h3 class="project-title">Development of Improved System for Contract Time Determination (Phase II)</h3>
@@ -963,7 +963,7 @@ sections:
         <div class="research-project">
           <div class="project-header">
             <div class="project-photo">
-              <img src="completed-46.jpg" alt="Performance Assessment">
+              <img src="project-53.jpg" alt="Performance Assessment">
             </div>
             <div class="project-title-area">
               <h3 class="project-title">Performance Assessment of On-Board Survey Methodologies</h3>
@@ -980,7 +980,7 @@ sections:
         <div class="research-project">
           <div class="project-header">
             <div class="project-photo">
-              <img src="completed-47.jpg" alt="Evaluation of DOT Practices">
+              <img src="project-54.jpg" alt="Evaluation of DOT Practices">
             </div>
             <div class="project-title-area">
               <h3 class="project-title">Evaluation of DOT Practices in the U.S. for Rehabilitation of Transportation Drainage Structures</h3>
@@ -997,7 +997,7 @@ sections:
         <div class="research-project">
           <div class="project-header">
             <div class="project-photo">
-              <img src="completed-48.jpg" alt="Development of an Improved System">
+              <img src="project-55.jpg" alt="Development of an Improved System">
             </div>
             <div class="project-title-area">
               <h3 class="project-title">Development of an Improved System for Contract Time Determination (Phase – I)</h3>

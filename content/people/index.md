@@ -9,7 +9,16 @@ sections:
     content:
       title: People
       subtitle:
-      text:
+      text: |
+        <style>
+        .home-section p {
+          font-size: 0.9rem !important;
+          line-height: 1.6 !important;
+        }
+        .home-section p strong {
+          font-size: 0.9rem !important;
+        }
+        </style>
     design:
       columns: '1'
 

@@ -12,11 +12,11 @@ sections:
       text: |
         <style>
         .home-section p {
-          font-size: 1rem !important;
+          font-size: 0.9rem !important;
           line-height: 1.6 !important;
         }
         .home-section p strong {
-          font-size: 1rem !important;
+          font-size: 0.9rem !important;
         }
         </style>
 

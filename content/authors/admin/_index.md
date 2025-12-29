@@ -50,20 +50,30 @@ user_groups:
 show_related: false
 ---
 
-<style>
-/* Hide Latest section and publications list */
-h2:first-of-type:not([id]),
-.page-body > div > h2:contains("Latest"),
-.page-body > div:has(> h2) + .stream-item,
-.universal-wrapper > .article-metadata ~ h2,
-.universal-wrapper > .article-metadata ~ .pub-list-item,
-.universal-wrapper > .article-metadata ~ .stream-item,
-div[class*="col"] > h2:first-child,
-div[class*="col"] > .stream-item,
-div[class*="col"] > .pub-list-item {
-  display: none !important;
-}
-</style>
+<script>
+// Remove Latest section when page loads
+document.addEventListener('DOMContentLoaded', function() {
+  // Find and remove all h2 elements containing "Latest"
+  const headings = document.querySelectorAll('h2');
+  headings.forEach(function(h2) {
+    if (h2.textContent.trim() === 'Latest') {
+      // Remove the h2 and all following siblings until next h2 or end
+      let next = h2.nextElementSibling;
+      h2.remove();
+      while (next && next.tagName !== 'H2') {
+        const toRemove = next;
+        next = next.nextElementSibling;
+        toRemove.remove();
+      }
+    }
+  });
+
+  // Also remove any .stream-item or .pub-list-item elements
+  document.querySelectorAll('.stream-item, .pub-list-item').forEach(function(el) {
+    el.remove();
+  });
+});
+</script>
 
 Dr. H. David Jeong is a Professor and Associate Department Head in the Department of Construction Science at Texas A&M University, where he holds the James C. Smith CIAC Endowed Professorship. He also serves as an Associate Research Engineer at the Texas A&M Transportation Institute (TTI).
 

@@ -11,10 +11,10 @@ role: Ph.D. Student
 
 # Organizations/Affiliations
 organizations:
-  - name: Texas A&M University
-    url: 'https://www.tamu.edu'
   - name: Department of Construction Science
     url: ''
+  - name: Texas A&M University
+    url: 'https://www.tamu.edu'
 
 # Short bio
 bio: My research focuses on data-driven construction methods, natural language processing in AEC workflows, and computer vision techniques.

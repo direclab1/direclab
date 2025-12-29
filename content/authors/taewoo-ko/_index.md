@@ -5,10 +5,10 @@ last_name: Ko
 role: Ph.D. Graduate (2022)
 
 organizations:
-  - name: Texas A&M University - Commerce
-    url: ''
 
 bio: AI-based project similarity evaluation, cost estimation.
+  - name: Texas A&M University - Commerce
+    url: ''
 
 interests:
   - AI in Construction

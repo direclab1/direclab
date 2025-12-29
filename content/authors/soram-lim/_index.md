@@ -5,10 +5,10 @@ last_name: Lim
 role: Postdoctoral Researcher (2019-2020)
 
 organizations:
-  - name: Seoul Institute of Technology
-    url: ''
 
 bio: Data-driven decision support in construction and transportation, occupational safety.
+  - name: Seoul Institute of Technology
+    url: ''
 
 interests:
   - Data-Driven Decision Support

@@ -14,10 +14,10 @@ role: Professor & Associate Department Head
 
 # Organizations/Affiliations
 organizations:
-  - name: Texas A&M University
-    url: 'https://www.tamu.edu'
   - name: Department of Construction Science
     url: ''
+  - name: Texas A&M University
+    url: 'https://www.tamu.edu'
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research focuses on applying data analytics and artificial intelligence to construction management, natural language processing, civil integrated management, and infrastructure asset management.

@@ -14,10 +14,10 @@ role: Undergraduate Student
 
 # Organizations/Affiliations
 organizations:
-  - name: Texas A&M University
-    url: 'https://www.tamu.edu'
   - name: Department of Computer Science
     url: ''
+  - name: Texas A&M University
+    url: 'https://www.tamu.edu'
 
 # Short bio (displayed in user profile at end of posts)
 bio: Undergraduate student in Computer Science at Texas A&M University.

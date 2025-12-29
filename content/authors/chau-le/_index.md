@@ -5,10 +5,10 @@ last_name: Le
 role: Ph.D. Graduate (2021)
 
 organizations:
-  - name: North Dakota State University
-    url: ''
 
 bio: Contract scheduling, cost estimation, risk analysis, AI in construction.
+  - name: North Dakota State University
+    url: ''
 
 interests:
   - Contract Scheduling

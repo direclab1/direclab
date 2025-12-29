@@ -11,10 +11,10 @@ role: Ph.D. Student
 
 # Organizations/Affiliations
 organizations:
-  - name: Texas A&M University
-    url: 'https://www.tamu.edu'
   - name: Department of Interdisciplinary Engineering
     url: ''
+  - name: Texas A&M University
+    url: 'https://www.tamu.edu'
 
 # Short bio
 bio: 

@@ -50,29 +50,62 @@ user_groups:
 show_related: false
 ---
 
-<script>
-// Remove Latest section when page loads
-document.addEventListener('DOMContentLoaded', function() {
-  // Find and remove all h2 elements containing "Latest"
-  const headings = document.querySelectorAll('h2');
-  headings.forEach(function(h2) {
-    if (h2.textContent.trim() === 'Latest') {
-      // Remove the h2 and all following siblings until next h2 or end
-      let next = h2.nextElementSibling;
-      h2.remove();
-      while (next && next.tagName !== 'H2') {
-        const toRemove = next;
-        next = next.nextElementSibling;
-        toRemove.remove();
-      }
-    }
-  });
+<style>
+/* Hide Latest section with CSS */
+.page-body h2,
+.page-body .stream-item,
+.page-body .pub-list-item,
+.page-body ul.ul-edu,
+.page-body ul.ul-interests,
+section h2:not([id]),
+.col-12 > h2,
+.col-12 > ul,
+.col-12 > .stream-item {
+  display: none !important;
+}
+</style>
 
-  // Also remove any .stream-item or .pub-list-item elements
-  document.querySelectorAll('.stream-item, .pub-list-item').forEach(function(el) {
-    el.remove();
-  });
-});
+<script>
+// Aggressively remove Latest section
+(function() {
+  function removeLatest() {
+    // Remove all h2 elements
+    document.querySelectorAll('h2').forEach(function(h2) {
+      if (h2.textContent.includes('Latest') || !h2.id) {
+        let elem = h2.nextElementSibling;
+        h2.remove();
+        while (elem) {
+          let next = elem.nextElementSibling;
+          if (elem.tagName === 'H2') break;
+          elem.remove();
+          elem = next;
+        }
+      }
+    });
+
+    // Remove publication lists
+    document.querySelectorAll('.stream-item, .pub-list-item, ul.ul-edu, ul.ul-interests').forEach(function(el) {
+      el.remove();
+    });
+  }
+
+  // Run immediately
+  removeLatest();
+
+  // Run on DOM ready
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', removeLatest);
+  }
+
+  // Run after a short delay
+  setTimeout(removeLatest, 100);
+  setTimeout(removeLatest, 500);
+  setTimeout(removeLatest, 1000);
+
+  // Use MutationObserver to catch dynamically added content
+  var observer = new MutationObserver(removeLatest);
+  observer.observe(document.body, { childList: true, subtree: true });
+})();
 </script>
 
 Dr. H. David Jeong is a Professor and Associate Department Head in the Department of Construction Science at Texas A&M University, where he holds the James C. Smith CIAC Endowed Professorship. He also serves as an Associate Research Engineer at the Texas A&M Transportation Institute (TTI).

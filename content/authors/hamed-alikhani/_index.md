@@ -5,10 +5,10 @@ last_name: Alikhani
 role: Ph.D. Graduate (2023)
 
 organizations:
-
-bio: AI and machine learning in construction, infrastructure asset management.
   - name: Kraft Heinz Company
     url: ''
+
+bio: AI and machine learning in construction, infrastructure asset management.
 
 interests:
   - AI and Machine Learning in Construction

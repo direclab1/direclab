@@ -71,7 +71,7 @@ sections:
         }
         /* 正文开头的介绍段落 */
         .markdown p {
-          font-size: 0.95rem !important;
+          font-size: 0.88rem !important;
           line-height: 1.85 !important;
         }
         </style>

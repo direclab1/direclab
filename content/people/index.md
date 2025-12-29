@@ -85,12 +85,6 @@ sections:
       text: |
         **[Suryeon Kim](../authors/suryeon-kim)**
         Researching construction project management and digital technologies.
-
-        **[Soram Lim](../authors/soram-lim)**
-        Focusing on construction engineering and management.
-
-        **[Taewoo Ko](../authors/taewoo-ko)**
-        Researching construction management and data analytics.
     design:
       columns: '1'
 ---

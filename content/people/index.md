@@ -93,15 +93,4 @@ sections:
         Researching construction management and data analytics.
     design:
       columns: '1'
-
-  - block: markdown
-    content:
-      title: Alumni
-      subtitle:
-      text: |
-        **[Chau Le](../authors/chau-le)** - Former Ph.D. student
-
-        **[Hamed Alikhani](../authors/hamed-alikhani)** - Former Ph.D. student
-    design:
-      columns: '1'
 ---

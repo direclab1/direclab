@@ -24,18 +24,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research focuses on applying data analytics and artificial intelligence to construction management, natural language processing, civil integrated management, and infrastructure asset management.
 
-education:
-  courses:
-    - course: Ph.D. in Civil Engineering (Construction Engineering and Management)
-      institution: Purdue University
-      year: 2005
-    - course: M.S. in Civil Engineering (Construction Engineering and Management)
-      institution: Purdue University
-      year: 2001
-    - course: B.S. in Agricultural Engineering
-      institution: Seoul National University, South Korea
-      year: 1994
-
 # Social/Academic Networking
 social:
   - icon: envelope
@@ -63,12 +51,16 @@ show_related: false
 ---
 
 <style>
-/* Hide Latest section */
-.article-metadata + .stream-item,
-.article-metadata + h2:contains("Latest") + .stream-item,
-h2:contains("Latest"),
-.page-body > h2:first-of-type,
-.page-body > .pub-list-item {
+/* Hide Latest section and publications list */
+h2:first-of-type:not([id]),
+.page-body > div > h2:contains("Latest"),
+.page-body > div:has(> h2) + .stream-item,
+.universal-wrapper > .article-metadata ~ h2,
+.universal-wrapper > .article-metadata ~ .pub-list-item,
+.universal-wrapper > .article-metadata ~ .stream-item,
+div[class*="col"] > h2:first-child,
+div[class*="col"] > .stream-item,
+div[class*="col"] > .pub-list-item {
   display: none !important;
 }
 </style>
@@ -80,6 +72,15 @@ Dr. H. David Jeong is a Professor and Associate Department Head in the Departmen
 - Phone: (979) 458-9380
 - Email: djeong@tamu.edu
 - Office: Francis Hall, Room 321B, Texas A&M University, College Station, TX 77843-3137
+
+**Education**
+
+- Ph.D. in Civil Engineering (Construction Engineering and Management), 2005
+  - Purdue University
+- M.S. in Civil Engineering (Construction Engineering and Management), 2001
+  - Purdue University
+- B.S. in Agricultural Engineering, 1994
+  - Seoul National University, South Korea
 
 **Professional Experience**
 

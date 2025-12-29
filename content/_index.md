@@ -13,7 +13,7 @@ sections:
         <style>
         .home-section p {
           font-size: 1rem !important;
-          line-height: 1.7 !important;
+          line-height: 1.6 !important;
         }
         .home-section p strong {
           font-size: 1rem !important;

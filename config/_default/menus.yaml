@@ -23,9 +23,6 @@ main:
   - name: News
     url: post
     weight: 40
-  - name: Events
-    url: event
-    weight: 50
   - name: Contact
     url: contact
-    weight: 60
+    weight: 50

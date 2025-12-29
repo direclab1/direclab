@@ -29,6 +29,11 @@ sections:
           line-height: 1.5 !important;
           margin-top: 4px !important;
         }
+        .project-description strong {
+          color: inherit !important;
+          font-size: inherit !important;
+          font-weight: bold !important;
+        }
         .project-header {
           margin-bottom: 6px !important;
           display: flex !important;

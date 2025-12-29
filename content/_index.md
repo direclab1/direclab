@@ -10,6 +10,13 @@ sections:
       title: The Digital Innovation and Research in Construction
       subtitle:
       text: |
+        <style>
+        .home-section p {
+          font-size: 0.9rem !important;
+          line-height: 1.7 !important;
+        }
+        </style>
+
         ## About DiReC Lab
 
         The Digital Innovation and Research in Construction (DiReC) Lab advances data-driven and AI-enabled models to improve work processes, efficiency, and sustainability across the built environment. Our research focuses on leveraging digital data and intelligent technologies to enhance decision-making throughout the project and asset life cycle. Despite the rapid digital transformation across other industries, construction continues to face challenges in fully harnessing the vast and growing data generated from projects, organizations, and industry systems. DiReC addresses this gap by combining artificial intelligence, machine learning, simulation, and data analytics to extract actionable insights from complex and heterogeneous data sources. Our team collaborates closely with industry partners to ensure our research is grounded in real-world challenges and produces practical, scalable impacts. Through interdisciplinary research and strong industry collaboration, DiReC aims to transform construction practices with intelligent, evidence-based, and socially responsible innovation.

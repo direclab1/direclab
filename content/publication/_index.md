@@ -5,31 +5,40 @@ date: 2024-01-01
 type: landing
 
 sections:
-  # Navigation Section
+  # Title and Navigation Section
   - block: markdown
     content:
       title: ''
       text: |
         <style>
+        .pub-title {
+          text-align: center;
+          font-size: 2.5rem;
+          font-weight: 700;
+          margin-bottom: 2rem;
+          color: #1a1a1a;
+        }
         .pub-nav {
           display: flex;
-          justify-content: flex-end;
-          gap: 1.5rem;
+          justify-content: flex-start;
+          gap: 2rem;
           margin: 1rem 0 2rem 0;
           flex-wrap: wrap;
         }
         .pub-nav a {
-          color: #555;
+          color: #666;
           text-decoration: none;
-          font-size: 0.9rem;
+          font-size: 0.95rem;
           font-weight: 400;
           transition: color 0.3s ease;
         }
         .pub-nav a:hover {
-          color: #b8860b;
+          color: #0066cc;
           text-decoration: underline;
         }
         </style>
+
+        <h1 class="pub-title">Publications</h1>
 
         <div class="pub-nav">
           <a href="#journal-papers">Journal Papers</a>

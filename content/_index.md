@@ -16,13 +16,13 @@ sections:
 
         ## Current Research Areas
 
-        **AI and data analytics for project intelligence** – automating the interpretation of project documents and requirements, and generating advanced solutions
+        **AI and data analytics for project intelligence:** This research leverages Natural Language Processing (NLP) to automatically extract critical clauses and risks from complex contracts and technical specifications. By synthesizing historical project data, these systems provide predictive insights that enable project managers to make data-driven decisions and optimize resource allocation in real-time.
 
-        **Data interoperability for asset intensive industries** – developing open, neutral and standards based models for data and systems interoperability.
+        **Data interoperability for asset intensive industries:** The focus is on dismantling information silos by implementing unified frameworks that facilitate seamless data exchange across the entire asset lifecycle. This ensures that Digital Twins and Building Information Models (BIM) remain consistent and actionable for all stakeholders, from initial design through to long-term decommissioning.
 
-        **Workforce development and productivity solutions** – studying and developing effective solutions for critical construction workforce shortage.
+        **Workforce development and productivity solutions:** This initiative investigates the integration of human-centric technologies, such as wearable sensors and collaborative robotics, to augment the physical capabilities of the existing workforce. Furthermore, it explores strategic recruitment and retention models designed to bridge the skills gap and enhance per-capita productivity on increasingly complex job sites.
 
-        **Innovative games and simulations for construction education and training** – using interactive games and simulations to radically improve the effectiveness of educating project management knowledge and principles.
+        **Innovative games and simulations for construction education and training:** By utilizing high-fidelity Virtual Reality (VR) and "serious games," we create immersive environments where learners can practice high-stakes decision-making in a risk-free setting. This approach transforms abstract management theories into visceral experiences, significantly improving knowledge retention and preparing the next generation for real-world field challenges.
     design:
       columns: '1'
 

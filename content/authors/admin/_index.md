@@ -54,26 +54,26 @@ Dr. H. David Jeong is a Professor and Associate Department Head in the Departmen
 
 <style>
 /* Hide Latest section with CSS */
-.page-body h2,
 .page-body .stream-item,
 .page-body .pub-list-item,
 .page-body ul.ul-edu,
-.page-body ul.ul-interests,
-section h2:not([id]),
-.col-12 > h2,
-.col-12 > ul,
-.col-12 > .stream-item {
+.page-body ul.ul-interests {
+  display: none !important;
+}
+/* Hide Latest heading */
+.page-body h2:has(+ .stream-item),
+.page-body h2:has(+ .pub-list-item) {
   display: none !important;
 }
 </style>
 
 <script>
-// Aggressively remove Latest section
+// Remove Latest section only
 (function() {
   function removeLatest() {
-    // Remove all h2 elements
+    // Only remove h2 elements that contain "Latest" text
     document.querySelectorAll('h2').forEach(function(h2) {
-      if (h2.textContent.includes('Latest') || !h2.id) {
+      if (h2.textContent.trim().toLowerCase().includes('latest')) {
         let elem = h2.nextElementSibling;
         h2.remove();
         while (elem) {
@@ -86,7 +86,7 @@ section h2:not([id]),
     });
 
     // Remove publication lists
-    document.querySelectorAll('.stream-item, .pub-list-item, ul.ul-edu, ul.ul-interests').forEach(function(el) {
+    document.querySelectorAll('.stream-item, .pub-list-item').forEach(function(el) {
       el.remove();
     });
   }
@@ -109,8 +109,6 @@ section h2:not([id]),
   observer.observe(document.body, { childList: true, subtree: true });
 })();
 </script>
-
-Dr. H. David Jeong is a Professor and Associate Department Head in the Department of Construction Science at Texas A&M University, where he holds the James C. Smith CIAC Endowed Professorship. He also serves as an Associate Research Engineer at the Texas A&M Transportation Institute (TTI).
 
 **Contact Information**
 

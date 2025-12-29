@@ -37,6 +37,7 @@ sections:
         }
         .project-photo {
           flex-shrink: 0 !important;
+          margin-left: 20px !important;
         }
         .project-photo img {
           max-width: 140px !important;

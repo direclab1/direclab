@@ -31,12 +31,20 @@ sections:
         }
         .project-header {
           margin-bottom: 6px !important;
+          display: flex !important;
+          align-items: center !important;
+          gap: 12px !important;
+        }
+        .project-photo {
+          flex-shrink: 0 !important;
         }
         .project-photo img {
           max-width: 140px !important;
           height: auto !important;
-          margin-top: -8px !important;
-          margin-left: 16px !important;
+          display: block !important;
+        }
+        .project-title-area {
+          flex: 1 !important;
         }
         hr {
           margin: 10px 0 !important;

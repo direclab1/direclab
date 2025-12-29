@@ -13,25 +13,21 @@ sections:
         <style>
         .pub-nav {
           display: flex;
-          justify-content: center;
-          gap: 2rem;
-          margin: 2rem 0;
+          justify-content: flex-end;
+          gap: 1.5rem;
+          margin: 1rem 0 2rem 0;
           flex-wrap: wrap;
         }
         .pub-nav a {
-          padding: 0.75rem 2rem;
-          background-color: #f8f9fa;
-          color: #333;
+          color: #555;
           text-decoration: none;
-          border-radius: 4px;
-          border: 2px solid #dee2e6;
-          font-weight: 500;
-          transition: all 0.3s ease;
+          font-size: 0.9rem;
+          font-weight: 400;
+          transition: color 0.3s ease;
         }
         .pub-nav a:hover {
-          background-color: #b8860b;
-          color: white;
-          border-color: #b8860b;
+          color: #b8860b;
+          text-decoration: underline;
         }
         </style>
 

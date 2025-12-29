@@ -216,4 +216,4 @@ Additional Memberships
 
 **Publications**
 
-Kindly visit the [Publications page](https://direclab1.github.io/direclab/publication/) to view all past publications by Dr. David Jeong.
+Kindly visit the <a href="/direclab/publication/">Publications page</a> to view all past publications by Dr. David Jeong.

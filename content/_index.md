@@ -15,6 +15,9 @@ sections:
           font-size: 0.9rem !important;
           line-height: 1.7 !important;
         }
+        .home-section p strong {
+          font-size: 0.9rem !important;
+        }
         </style>
 
         ## About DiReC Lab

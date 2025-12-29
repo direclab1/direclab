@@ -1,0 +1,25 @@
+/* Custom Font Override - Calibri */
+
+/* Apply Calibri to body and all text elements */
+body,
+html,
+h1, h2, h3, h4, h5, h6,
+p, span, div, a, li, td, th,
+.article-title,
+.article-metadata,
+.navbar,
+.nav-link,
+.btn,
+input, textarea, select {
+  font-family: Calibri, 'Helvetica Neue', Arial, 'PingFang SC', 'Microsoft YaHei', sans-serif !important;
+}
+
+/* Ensure headings use Calibri */
+h1, h2, h3, h4, h5, h6 {
+  font-family: Calibri, 'Helvetica Neue', Arial, 'PingFang SC', 'Microsoft YaHei', sans-serif !important;
+}
+
+/* Override any monospace fonts for code blocks if needed */
+code, pre, kbd, samp {
+  font-family: 'Consolas', 'Monaco', 'Courier New', monospace !important;
+}

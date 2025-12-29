@@ -97,24 +97,16 @@ sections:
       columns: '1'
 
   # Books and Book Chapters Section
-  - block: collection
+  - block: markdown
     id: books
     content:
       title: Books and Book Chapters
-      text: ""
-      filters:
-        folders:
-          - publication
-        publication_type: 'book'
-      count: 10
-      sort_by: 'Date'
-      sort_ascending: false
-      archive:
-        enable: true
-        text: See all books and chapters
-        link: books-chapters/
+      text: |
+        1. Jeong, H.S., and HanmiGlobal. (2020). Integrated Project Delivery: Project Success Formula through Collaboration, IPD 협력을 통한 프로젝트 성공방식. Bomundang, p.194, ISBN: 9788984132320(8984132322).
+        2. Jeong, H.S., and Pecha, D.L. (2011) Proceedings of the ASCE Pipelines 2011 Conference, Seattle, WA, July 23-27, 2011 (Proceedings in CDROM).
+        3. Jeong, H.S., Abraham, Dolphy, and Abrahan, Dulcy M. (2005). Knowledge Management in Civil Infrastructure Systems. Elayne Coakes and Steve Clarke (Eds.), "Encyclopedia of Communities of Practice in Information and Knowledge Management," Idea Group Reference, Hershey, PA.
+        4. Qiao, J., Jeong, H.S., and Richard J-P.P. (2005). Vulnerability Assessment and Mitigation for Water Infrastructure Systems against Intentional Attacks. Advances in Homeland Security, Vol. (1), The Science of Homeland Secutiry, Purdue University Press.
     design:
-      view: citation
       columns: '1'
 
   # Conference Proceedings Section

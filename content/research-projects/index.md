@@ -11,23 +11,23 @@ sections:
       text: |
         <style>
         .research-project {
-          margin-bottom: 12px !important;
+          margin-bottom: 20px !important;
         }
         .project-title {
           font-size: 1.15rem !important;
-          margin-bottom: 2px !important;
+          margin-bottom: 6px !important;
           font-weight: 600 !important;
         }
         .project-date {
           font-size: 0.85rem !important;
           margin-top: 0 !important;
-          margin-bottom: 4px !important;
+          margin-bottom: 8px !important;
           color: #666 !important;
         }
         .project-description {
           font-size: 0.95rem !important;
-          line-height: 1.5 !important;
-          margin-top: 4px !important;
+          line-height: 1.65 !important;
+          margin-top: 8px !important;
         }
         .project-description strong {
           color: inherit !important;
@@ -35,7 +35,7 @@ sections:
           font-weight: bold !important;
         }
         .project-header {
-          margin-bottom: 6px !important;
+          margin-bottom: 10px !important;
           display: flex !important;
           align-items: center !important;
           gap: 12px !important;
@@ -53,18 +53,18 @@ sections:
           flex: 1 !important;
         }
         hr {
-          margin: 10px 0 !important;
+          margin: 18px 0 !important;
           opacity: 0.5 !important;
         }
         h2 {
           font-size: 1.4rem !important;
-          margin-top: 15px !important;
-          margin-bottom: 10px !important;
+          margin-top: 20px !important;
+          margin-bottom: 16px !important;
         }
         /* 确保所有段落和文本都使用合适的字号 */
         .research-project p {
           font-size: 0.95rem !important;
-          line-height: 1.5 !important;
+          line-height: 1.65 !important;
         }
         .research-project h3 {
           font-size: 1.15rem !important;
@@ -72,7 +72,7 @@ sections:
         /* 正文开头的介绍段落 */
         .markdown p {
           font-size: 0.95rem !important;
-          line-height: 1.5 !important;
+          line-height: 1.65 !important;
         }
         </style>
 

@@ -26,7 +26,7 @@ sections:
         }
         .project-description {
           font-size: 0.95rem !important;
-          line-height: 1.65 !important;
+          line-height: 1.85 !important;
           margin-top: 8px !important;
         }
         .project-description strong {
@@ -64,7 +64,7 @@ sections:
         /* 确保所有段落和文本都使用合适的字号 */
         .research-project p {
           font-size: 0.95rem !important;
-          line-height: 1.65 !important;
+          line-height: 1.85 !important;
         }
         .research-project h3 {
           font-size: 1.15rem !important;
@@ -72,7 +72,7 @@ sections:
         /* 正文开头的介绍段落 */
         .markdown p {
           font-size: 0.95rem !important;
-          line-height: 1.65 !important;
+          line-height: 1.85 !important;
         }
         </style>
 

@@ -11,38 +11,51 @@ sections:
       text: |
         <style>
         .research-project {
-          margin-bottom: 12px;
+          margin-bottom: 12px !important;
         }
         .project-title {
-          font-size: 0.95rem;
-          margin-bottom: 2px;
-          font-weight: 600;
+          font-size: 0.95rem !important;
+          margin-bottom: 2px !important;
+          font-weight: 600 !important;
         }
         .project-date {
-          font-size: 0.75rem;
-          margin-top: 0;
-          margin-bottom: 4px;
-          color: #666;
+          font-size: 0.75rem !important;
+          margin-top: 0 !important;
+          margin-bottom: 4px !important;
+          color: #666 !important;
         }
         .project-description {
-          font-size: 0.8rem;
-          line-height: 1.3;
-          margin-top: 4px;
+          font-size: 0.8rem !important;
+          line-height: 1.3 !important;
+          margin-top: 4px !important;
         }
         .project-header {
-          margin-bottom: 6px;
+          margin-bottom: 6px !important;
         }
         .project-photo img {
-          max-width: 200px;
+          max-width: 200px !important;
         }
         hr {
-          margin: 10px 0;
-          opacity: 0.5;
+          margin: 10px 0 !important;
+          opacity: 0.5 !important;
         }
         h2 {
-          font-size: 1.3rem;
-          margin-top: 15px;
-          margin-bottom: 10px;
+          font-size: 1.3rem !important;
+          margin-top: 15px !important;
+          margin-bottom: 10px !important;
+        }
+        /* 确保所有段落和文本都使用小字号 */
+        .research-project p {
+          font-size: 0.8rem !important;
+          line-height: 1.3 !important;
+        }
+        .research-project h3 {
+          font-size: 0.95rem !important;
+        }
+        /* 正文开头的介绍段落 */
+        .markdown p {
+          font-size: 0.85rem !important;
+          line-height: 1.4 !important;
         }
         </style>
 

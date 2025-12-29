@@ -5,6 +5,44 @@ date: 2024-01-01
 type: landing
 
 sections:
+  # Navigation Section
+  - block: markdown
+    content:
+      title: ''
+      text: |
+        <style>
+        .pub-nav {
+          display: flex;
+          justify-content: center;
+          gap: 2rem;
+          margin: 2rem 0;
+          flex-wrap: wrap;
+        }
+        .pub-nav a {
+          padding: 0.75rem 2rem;
+          background-color: #f8f9fa;
+          color: #333;
+          text-decoration: none;
+          border-radius: 4px;
+          border: 2px solid #dee2e6;
+          font-weight: 500;
+          transition: all 0.3s ease;
+        }
+        .pub-nav a:hover {
+          background-color: #b8860b;
+          color: white;
+          border-color: #b8860b;
+        }
+        </style>
+
+        <div class="pub-nav">
+          <a href="#journal-papers">Journal Papers</a>
+          <a href="#books">Books Edited and Book Chapters</a>
+          <a href="#conference">Conference Proceedings</a>
+        </div>
+    design:
+      columns: '1'
+
   # Journal Papers Section
   - block: markdown
     id: journal-papers

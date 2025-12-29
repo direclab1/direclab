@@ -14,26 +14,27 @@ sections:
           margin-bottom: 12px !important;
         }
         .project-title {
-          font-size: 0.95rem !important;
+          font-size: 1.0rem !important;
           margin-bottom: 2px !important;
           font-weight: 600 !important;
         }
         .project-date {
-          font-size: 0.75rem !important;
+          font-size: 0.8rem !important;
           margin-top: 0 !important;
           margin-bottom: 4px !important;
           color: #666 !important;
         }
         .project-description {
-          font-size: 0.8rem !important;
-          line-height: 1.3 !important;
+          font-size: 0.85rem !important;
+          line-height: 1.4 !important;
           margin-top: 4px !important;
         }
         .project-header {
           margin-bottom: 6px !important;
         }
         .project-photo img {
-          max-width: 200px !important;
+          max-width: 140px !important;
+          height: auto !important;
         }
         hr {
           margin: 10px 0 !important;
@@ -44,17 +45,17 @@ sections:
           margin-top: 15px !important;
           margin-bottom: 10px !important;
         }
-        /* 确保所有段落和文本都使用小字号 */
+        /* 确保所有段落和文本都使用合适的字号 */
         .research-project p {
-          font-size: 0.8rem !important;
-          line-height: 1.3 !important;
+          font-size: 0.85rem !important;
+          line-height: 1.4 !important;
         }
         .research-project h3 {
-          font-size: 0.95rem !important;
+          font-size: 1.0rem !important;
         }
         /* 正文开头的介绍段落 */
         .markdown p {
-          font-size: 0.85rem !important;
+          font-size: 0.9rem !important;
           line-height: 1.4 !important;
         }
         </style>

@@ -13,7 +13,7 @@ sections:
         <style>
         .pub-title {
           text-align: center;
-          font-size: 2.5rem;
+          font-size: 3rem;
           font-weight: 700;
           margin-bottom: 0.8rem;
           color: #1a1a1a;

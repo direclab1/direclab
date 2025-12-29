@@ -20,8 +20,8 @@ main:
   - name: Publications
     url: publication
     weight: 30
-  - name: News
-    url: post
+  - name: Gallery
+    url: gallery
     weight: 40
   - name: Contact
     url: contact

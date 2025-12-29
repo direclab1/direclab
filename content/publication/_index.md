@@ -20,10 +20,10 @@ sections:
         }
         .pub-nav {
           display: flex;
-          justify-content: flex-start;
-          gap: 1rem;
+          flex-direction: column;
+          align-items: flex-start;
+          gap: 0.5rem;
           margin: 0 0 1rem 0;
-          flex-wrap: wrap;
         }
         .pub-nav a {
           color: #666;

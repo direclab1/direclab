@@ -63,6 +63,20 @@ Dr. H. David Jeong is a Professor and Associate Department Head in the Departmen
 .page-body h2:has(+ .pub-list-item) {
   display: none !important;
 }
+/* Adjust font size and spacing for content */
+.article-style p {
+  font-size: 0.9rem !important;
+  line-height: 1.8 !important;
+  margin-bottom: 1.2rem !important;
+}
+.article-style ul {
+  font-size: 0.9rem !important;
+  line-height: 1.8 !important;
+  margin-bottom: 1.2rem !important;
+}
+.article-style li {
+  margin-bottom: 0.6rem !important;
+}
 </style>
 
 <script>

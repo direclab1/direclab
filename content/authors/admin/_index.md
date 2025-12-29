@@ -10,15 +10,13 @@ last_name: Jeong
 superuser: true
 
 # Role/position
-role: Professor & Associate Department Head, James C. Smith CIAC Endowed Professor
+role: Professor & Associate Department Head
 
 # Organizations/Affiliations
 organizations:
   - name: Texas A&M University
     url: 'https://www.tamu.edu'
   - name: Department of Construction Science
-    url: ''
-  - name: Texas A&M Transportation Institute
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -50,7 +48,7 @@ user_groups:
 show_related: false
 ---
 
-Dr. H. David Jeong is a Professor and Associate Department Head in the Department of Construction Science at Texas A&M University, where he holds the James C. Smith CIAC Endowed Professorship. He also serves as an Associate Research Engineer at the Texas A&M Transportation Institute (TTI). His research focuses on applying data analytics and artificial intelligence to construction management, natural language processing, civil integrated management, and infrastructure asset management.
+Dr. H. David Jeong is a Professor and Associate Department Head in the Department of Construction Science at Texas A&M University. His research focuses on applying data analytics and artificial intelligence to construction management, natural language processing, civil integrated management, and infrastructure asset management.
 
 <style>
 /* Hide Latest section with CSS */

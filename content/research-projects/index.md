@@ -35,6 +35,8 @@ sections:
         .project-photo img {
           max-width: 140px !important;
           height: auto !important;
+          margin-top: -8px !important;
+          margin-left: 8px !important;
         }
         hr {
           margin: 10px 0 !important;

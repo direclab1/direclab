@@ -18,8 +18,8 @@ sections:
     content:
       title:
       text:
-      email: djeong@tamu.edu
-      phone: (979) 458-9380
+      email: direclab1@gmail.com
+      phone:
       address:
         street: Francis Hall, 3137 TAMU
         city: College Station
@@ -30,7 +30,7 @@ sections:
       coordinates:
         latitude: '30.6187'
         longitude: '-96.3365'
-      directions: Director's office - Room 321B, Research team office - Room 328
+      directions: Director's office - Room 321B, Research team office - Room 115
       office_hours:
         - 'By appointment'
       appointment_url: ''
@@ -40,7 +40,7 @@ sections:
 
       # Email form provider
       form:
-        provider: netlify
+        provider:
         formspree:
           id:
         netlify:

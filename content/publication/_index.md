@@ -15,14 +15,14 @@ sections:
           text-align: center;
           font-size: 2.5rem;
           font-weight: 700;
-          margin-bottom: 3rem;
+          margin-bottom: 1.5rem;
           color: #1a1a1a;
         }
         .pub-nav {
           display: flex;
           justify-content: flex-start;
           gap: 1rem;
-          margin: 1rem 0 2rem 0;
+          margin: 0 0 1rem 0;
           flex-wrap: wrap;
         }
         .pub-nav a {

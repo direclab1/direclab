@@ -15,7 +15,7 @@ sections:
           text-align: center;
           font-size: 2.5rem;
           font-weight: 700;
-          margin-bottom: 1.5rem;
+          margin-bottom: 0.8rem;
           color: #1a1a1a;
         }
         .pub-nav {
@@ -23,7 +23,7 @@ sections:
           flex-direction: column;
           align-items: flex-start;
           gap: 0.5rem;
-          margin: 0 0 1rem 0;
+          margin: 0;
         }
         .pub-nav a {
           color: #666;

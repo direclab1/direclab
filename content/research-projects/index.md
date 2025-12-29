@@ -11,27 +11,38 @@ sections:
       text: |
         <style>
         .research-project {
-          margin-bottom: 20px;
+          margin-bottom: 12px;
         }
         .project-title {
-          font-size: 1.1rem;
-          margin-bottom: 4px;
+          font-size: 0.95rem;
+          margin-bottom: 2px;
+          font-weight: 600;
         }
         .project-date {
-          font-size: 0.85rem;
-          margin-top: 2px;
-          margin-bottom: 8px;
+          font-size: 0.75rem;
+          margin-top: 0;
+          margin-bottom: 4px;
+          color: #666;
         }
         .project-description {
-          font-size: 0.9rem;
-          line-height: 1.5;
-          margin-top: 8px;
+          font-size: 0.8rem;
+          line-height: 1.3;
+          margin-top: 4px;
         }
         .project-header {
-          margin-bottom: 10px;
+          margin-bottom: 6px;
+        }
+        .project-photo img {
+          max-width: 200px;
         }
         hr {
-          margin: 15px 0;
+          margin: 10px 0;
+          opacity: 0.5;
+        }
+        h2 {
+          font-size: 1.3rem;
+          margin-top: 15px;
+          margin-bottom: 10px;
         }
         </style>
 

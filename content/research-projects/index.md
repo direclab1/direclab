@@ -36,7 +36,7 @@ sections:
           max-width: 140px !important;
           height: auto !important;
           margin-top: -8px !important;
-          margin-left: 8px !important;
+          margin-left: 12px !important;
         }
         hr {
           margin: 10px 0 !important;

@@ -26,7 +26,7 @@ sections:
         }
         .project-description {
           font-size: 0.95rem !important;
-          line-height: 1.85 !important;
+          line-height: 1.65 !important;
           margin-top: 8px !important;
         }
         .project-description strong {
@@ -64,7 +64,7 @@ sections:
         /* 确保所有段落和文本都使用合适的字号 */
         .research-project p {
           font-size: 0.95rem !important;
-          line-height: 1.85 !important;
+          line-height: 1.65 !important;
         }
         .research-project h3 {
           font-size: 1.15rem !important;
@@ -72,7 +72,7 @@ sections:
         /* 正文开头的介绍段落 */
         .markdown p {
           font-size: 0.88rem !important;
-          line-height: 1.85 !important;
+          line-height: 1.65 !important;
         }
         /* 针对markdown block内的所有直接段落 */
         section p:not(.project-description):not(.project-date) {
@@ -80,7 +80,7 @@ sections:
         }
         </style>
 
-        <p style="font-size: 1.0rem !important; line-height: 1.85 !important;">Dr. Jeong's research team has received a total funding of over <strong style="font-size: 1.0rem !important;">$13.0 million</strong>. His research sponsors include National Science Foundation (NSF), National Cooperative Highway Research Program (NCHRP), Construction Industry Institute (CII), Federal Highway Administration (FHWA), Federal Transit Administration (FTA), Environmental Protection Agency (EPA) - Water Environmental Research Foundation (WERF), US Department of Labor (DOL), US Department of Energy (DOE), State DOTs (Texas, California, Montana, Iowa, Minnesota, South Dakota, and Oklahoma), Industry sponsors (SHELL, GHD, Charles Machine works, etc.), and International Agencies.</p>
+        <p style="font-size: 1.0rem !important; line-height: 1.65 !important;">Dr. Jeong's research team has received a total funding of over <strong style="font-size: 1.0rem !important;">$13.0 million</strong>. His research sponsors include National Science Foundation (NSF), National Cooperative Highway Research Program (NCHRP), Construction Industry Institute (CII), Federal Highway Administration (FHWA), Federal Transit Administration (FTA), Environmental Protection Agency (EPA) - Water Environmental Research Foundation (WERF), US Department of Labor (DOL), US Department of Energy (DOE), State DOTs (Texas, California, Montana, Iowa, Minnesota, South Dakota, and Oklahoma), Industry sponsors (SHELL, GHD, Charles Machine works, etc.), and International Agencies.</p>
 
         ## Current Funded Projects
 

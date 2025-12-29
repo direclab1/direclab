@@ -14,7 +14,7 @@ sections:
           margin-bottom: 12px !important;
         }
         .project-title {
-          font-size: 1.0rem !important;
+          font-size: 1.1rem !important;
           margin-bottom: 2px !important;
           font-weight: 600 !important;
         }

@@ -74,9 +74,13 @@ sections:
           font-size: 0.88rem !important;
           line-height: 1.85 !important;
         }
+        /* 针对markdown block内的所有直接段落 */
+        section p:not(.project-description):not(.project-date) {
+          font-size: 0.88rem !important;
+        }
         </style>
 
-        Dr. Jeong's research team has received a total funding of over **$13.0 million**. His research sponsors include National Science Foundation (NSF), National Cooperative Highway Research Program (NCHRP), Construction Industry Institute (CII), Federal Highway Administration (FHWA), Federal Transit Administration (FTA), Environmental Protection Agency (EPA) - Water Environmental Research Foundation (WERF), US Department of Labor (DOL), US Department of Energy (DOE), State DOTs (Texas, California, Montana, Iowa, Minnesota, South Dakota, and Oklahoma), Industry sponsors (SHELL, GHD, Charles Machine works, etc.), and International Agencies.
+        <p style="font-size: 0.88rem; line-height: 1.85;">Dr. Jeong's research team has received a total funding of over <strong>$13.0 million</strong>. His research sponsors include National Science Foundation (NSF), National Cooperative Highway Research Program (NCHRP), Construction Industry Institute (CII), Federal Highway Administration (FHWA), Federal Transit Administration (FTA), Environmental Protection Agency (EPA) - Water Environmental Research Foundation (WERF), US Department of Labor (DOL), US Department of Energy (DOE), State DOTs (Texas, California, Montana, Iowa, Minnesota, South Dakota, and Oklahoma), Industry sponsors (SHELL, GHD, Charles Machine works, etc.), and International Agencies.</p>
 
         ## Current Funded Projects
 

@@ -130,12 +130,9 @@ Dr. H. David Jeong is a Professor and Associate Department Head in the Departmen
 
 **Education**
 
-- Ph.D. in Civil Engineering (Construction Engineering and Management), 2005
-  - Purdue University
-- M.S. in Civil Engineering (Construction Engineering and Management), 2001
-  - Purdue University
-- B.S. in Agricultural Engineering, 1994
-  - Seoul National University, South Korea
+- **Ph.D.** in Civil Engineering (Construction Engineering and Management), Purdue University, 2005
+- **M.S.** in Civil Engineering (Construction Engineering and Management), Purdue University, 2001
+- **B.S.** in Agricultural Engineering, Seoul National University, South Korea, 1994
 
 **Professional Experience**
 

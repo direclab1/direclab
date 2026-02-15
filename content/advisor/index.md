@@ -9,11 +9,11 @@ sections:
     content:
       title: Leader
       text: |
-        <meta http-equiv="refresh" content="0; url=/author/h.-david-jeong/">
+        <meta http-equiv="refresh" content="0; url=../author/h.-david-jeong/">
         <script>
-          window.location.replace('/author/h.-david-jeong/');
+          window.location.replace('../author/h.-david-jeong/');
         </script>
-        Redirecting to <a href="/author/h.-david-jeong/">H. David Jeong</a>...
+        Redirecting to <a href="../author/h.-david-jeong/">H. David Jeong</a>...
     design:
       columns: '1'
 ---

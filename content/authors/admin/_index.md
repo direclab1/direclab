@@ -130,19 +130,24 @@ Dr. H. David Jeong is a Professor and Associate Department Head in the Departmen
 
 **Education**
 
-- **Ph.D.** in Civil Engineering (Construction Engineering and Management), Purdue University, 2005
-- **M.S.** in Civil Engineering (Construction Engineering and Management), Purdue University, 2001
-- **B.S.** in Agricultural Engineering, Seoul National University, South Korea, 1994
+- **Ph.D.**, Purdue University, West Lafayette, Indiana, May 2005. Major: Civil Engineering, Concentration: Construction Engineering & Management
+- **M.S.**, Purdue University, West Lafayette, Indiana, December 2001. Major: Civil Engineering, Concentration: Construction Engineering & Management
+- **B.S.**, Seoul National University, Seoul, South Korea, February 1994. Major: Agricultural Engineering (Civil Engineering Emphasis)
+- **Certificate:** Applied Management Principles Program (Mini-MBA), Krannert Graduate School of Management, Purdue University, West Lafayette, Indiana, August 2003
 
 **Professional Experience**
 
-- Associate Department Head, Construction Science, Texas A&M University (2022–present)
-- Ph.D. Program Coordinator, Construction Science, Texas A&M University (2021–2024)
-- Professor, Department of Construction Science, Texas A&M University (2018–present)
-- Professor/Associate Professor, Department of Civil, Construction and Environmental Engineering, Iowa State University (2012–2018)
-- Associate/Assistant Professor, School of Civil & Environmental Engineering, Oklahoma State University (2005–2012)
-- Graduate Research/Teaching Assistant, School of Civil Engineering, Purdue University (2001–2005)
-- Project Engineer/Assistant General Manager, Daewoo Engineering & Construction, Seoul, South Korea (1994–2000)
+- Texas A&M University, College Station, Texas: Associate Department Head, Department of Construction Science, January 2022 - Present
+- Texas A&M University, College Station, Texas: Professor, Department of Construction Science, September 2018 - Present
+- Texas A&M University, College Station, Texas: Ph.D. Program Coordinator, Department of Construction Science, September 2021 - August 2024
+- Texas A&M University, College Station, Texas: Professor (Courtesy Appointment), Department of Multidisciplinary Engineering, September 2019 - Present
+- Texas A&M University, College Station, Texas: Research Scientist, Texas A&M Transportation Institute (TTI), September 2018 - Present
+- Iowa State University, Ames, Iowa: Professor, Department of Civil, Construction and Environmental Engineering, August 2018
+- Iowa State University, Ames, Iowa: Associate Professor, Department of Civil, Construction and Environmental Engineering, August 2012 - July 2018
+- Oklahoma State University, Stillwater, Oklahoma: Associate/Assistant Professor, School of Civil and Environmental Engineering, August 2005 - August 2012
+- Purdue University, West Lafayette, Indiana: Graduate Research/Teaching Assistant, School of Civil Engineering, January 2001 - May 2005
+- Daewoo Engineering & Construction Co., Seoul, South Korea: Assistant General Manager (Cost Engineer), January 1999 - April 2000
+- Daewoo Engineering & Construction Co., Seoul, South Korea: Project Engineer, Korean High Speed Railway Project, June 1994 - December 1998
 
 **Research Interests**
 
@@ -156,27 +161,30 @@ Dr. H. David Jeong is a Professor and Associate Department Head in the Departmen
 
 **Honors and Awards**
 
-- 2024: Best Paper of the Year Award, Journal of Construction Engineering and Management, ASCE
+- 2024: Best Scholarly Paper of the Year Award, Journal of Construction Engineering and Management, ASCE
 - 2023: Faculty Aspiring Leadership Program Fellow, Texas A&M University
-- 2023: TRB Best Poster Award, AKC10- Construction Management Committee
+- 2023: Editor's Choice Paper for May 2023, Journal of Management in Engineering, ASCE
+- 2023: Best Poster Award, AKC10-Construction Management, 102nd Transportation Research Board (TRB) Annual Meeting, January 8-12, 2023, Washington, D.C.
 - 2020: Editor's Choice Paper for May 2020, Journal of Management in Engineering, ASCE
-- 2019: Researcher of the Year Award, Construction Science, Texas A&M University
-- 2019: The James C. Smith CIAC Endowed Professorship, Texas A&M University
+- 2019: Most Valuable Researcher of the Year Award, Construction Science, Texas A&M University
+- 2019-Present: The James C. Smith CIAC Endowed Professorship, Texas A&M University
 - 2018: Editor's Choice Paper for July 2018, Journal of Management in Engineering, ASCE
+- 2017: Nominated for ASCE Arthur M. Wellington Prize by the ASCE Journal of Construction Engineering and Management
 - 2017: Charles W. Schafer Award for Excellence in Teaching, Research, and Service, CCEE, Iowa State University
-- 2017: Outstanding Reviewer Award, Journal of Pipeline Systems Engineering, ASCE
-- 2016: Best Paper of the Year Award, Journal of Construction Engineering and Management, ASCE
-- 2016: Joseph C. & Elizabeth A. Anderlik Faculty Award, CCEE, Iowa State University
-- 2016: Outstanding Leadership Award, Korean-American Construction Engineering & Project Management Association
+- 2016: Best Scholarly Paper Award, Journal of Construction Engineering and Management, ASCE
+- 2016: Outstanding Leadership Award, Korean-American Construction Engineering and Project Management Association (KACEPMA)
+- 2016: Joseph C. & Elizabeth A. Anderlik Faculty Award for Excellence in Undergraduate Teaching, CCEE, Iowa State University
 - 2015: Distinguished Professor Award, Construction Industry Institute (CII)
-- 2013: ARTBA Young Executive Development Program Fellow, American Road and Transportation Builders Association
-- 2013: Outstanding Reviewer Award (two awards), ASCE journals
-- 2012: Williams Foundation Endowed Professorship, Oklahoma State University
+- 2013: Outstanding Reviewer Award, Journal of Pipeline Systems Engineering - Management & Practice, ASCE
+- 2013: Outstanding Reviewer Award, Journal of Construction Engineering and Management, ASCE
+- 2013: ARTBA Young Executive Development Program Fellow, American Road and Transportation Builders Association (ARTBA)
+- 2012: Williams Foundation Professorship, Oklahoma State University
+- 2011: Nominated for Halliburton Outstanding Junior Faculty Award, Oklahoma State University
 - 2010: Outstanding Researcher of the Year Award, Construction Industry Institute (CII)
-- 2008: Transactions Award, Best Application Paper, Institute of Industrial Engineers (IIE)
-- 2007: Chi Epsilon Outstanding Teacher of the Year, Civil & Environmental Engineering, Oklahoma State University
-- 1993: Outstanding Junior Scholarship, Seoul National University
-- 1990: Admittance Scholarship, Seoul National University
+- 2008: Institute of Industrial Engineers (IIE) Transactions Award, Best Application Paper in Operations Engineering
+- 2007: Chi Epsilon Outstanding Teacher of the Year, School of Civil & Environmental Engineering, Oklahoma State University
+- 1993: Outstanding Junior Scholarship, Seoul National University Alumni Foundation
+- 1990: Admittance Scholarship, Seoul National University (awarded to top two new students in the department)
 
 **Professional Activities**
 

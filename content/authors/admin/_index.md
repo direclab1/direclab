@@ -77,11 +77,6 @@ Dr. H. David Jeong is a Professor and Associate Department Head in the Departmen
 .article-style li {
   margin-bottom: 0.6rem !important;
 }
-/* Reposition only Dr. Jeong's avatar within the circular crop */
-#profile .avatar[alt="H. David Jeong"] {
-  object-fit: cover;
-  object-position: center 26%;
-}
 </style>
 
 <script>

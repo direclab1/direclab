@@ -21,6 +21,29 @@ sections:
     content:
       title:
       text: |
+        <style>
+        /* Team page only: circular member avatars */
+        .team-member .member-photo {
+          width: 250px;
+          aspect-ratio: 1 / 1;
+          overflow: hidden;
+          flex-shrink: 0;
+        }
+        .team-member .member-photo img {
+          width: 100%;
+          height: 100%;
+          object-fit: cover;
+          border-radius: 50%;
+        }
+        @media (max-width: 768px) {
+          .team-member .member-photo {
+            width: 100%;
+            max-width: 300px;
+            aspect-ratio: 1 / 1;
+          }
+        }
+        </style>
+
         <div class="team-member">
           <div class="member-photo">
             <img src="../author/chanyoung-park/avatar.jpg" alt="Chanyoung Park">

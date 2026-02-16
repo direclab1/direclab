@@ -95,7 +95,7 @@ sections:
           <div class="member-info">
             <p class="member-role">Ph.D. Student</p>
             <h2 class="member-name"><a href="../author/yizhi-jia">Yizhi Jia</a></h2>
-            <p class="member-bio">Yizhi Jia is a Ph.D. student in the Department of Construction Science at Texas A&M University. His research focuses on artificial intelligence in construction.</p>
+            <p class="member-bio">Yizhi Jia is a Ph.D. student in the Department of Construction Science at Texas A&M University. He holds an M.S. in Intelligent Construction from Hong Kong Polytechnic University and a B.S. in Engineering from China University of Geoscience. His research focuses on artificial intelligence in construction.</p>
           </div>
         </div>
 

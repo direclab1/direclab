@@ -196,6 +196,25 @@ sections:
           </p>
         </div>
 
+        <hr>
+
+        <div class="research-project">
+          <div class="project-header">
+            <div class="project-photo">
+              <img src="project-56.jpg" alt="NCIT Inspector Development Project">
+            </div>
+            <div class="project-title-area">
+              <h3 class="project-title">Advancing Inspector Development Programs using Digital Technologies and Effective Recruitment and Retention Strategies</h3>
+              <p class="project-date">(Feb 2026 - Jan 2028)</p>
+            </div>
+          </div>
+          <p class="project-description">
+            • <strong>Investigators:</strong> Dr. David Jeong (PI), Dr. Gilles Albeaino (Co-PI), Dr. Charles Gurganus (Co-PI), and Dr. Zhenyu Zhang (Co-PI).<br>
+            • <strong>Funding Agency:</strong> National Center for Infrastructure Transformation (NCIT).<br>
+            • <strong>Objective:</strong> This project collaborates with experienced TxDOT inspectors to review and modernize existing inspector development modules. The modernization is intended to improve training effectiveness and strengthen trainees' inspection knowledge and skills through development and testing of updated modules in real training sessions. The project will also develop and deliver effective recruitment and retention strategies for highway construction inspectors.
+          </p>
+        </div>
+
         ## Completed Projects (Selected)
 
         <div class="research-project">

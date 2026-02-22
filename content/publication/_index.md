@@ -37,9 +37,14 @@ sections:
           text-decoration: underline;
         }
         /* Publication content typography */
-        .home-section p, .home-section li, .home-section ol {
-          font-size: 1rem !important;
-          line-height: 1.3 !important;
+        #books ol li, #journal-papers ol li, #conference ol li, #communication ol li {
+          font-size: 1.06rem !important;
+          line-height: 1.22 !important;
+          margin-bottom: 0.12rem !important;
+        }
+        #books ol, #journal-papers ol, #conference ol, #communication ol {
+          margin-top: 0.3rem !important;
+          margin-bottom: 0.5rem !important;
         }
         </style>
 

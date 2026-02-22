@@ -36,9 +36,10 @@ sections:
           color: #0066cc;
           text-decoration: underline;
         }
-        /* Publication content font size */
+        /* Publication content typography */
         .home-section p, .home-section li, .home-section ol {
-          font-size: 0.9rem !important;
+          font-size: 0.95rem !important;
+          line-height: 1.35 !important;
         }
         </style>
 

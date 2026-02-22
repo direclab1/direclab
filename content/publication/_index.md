@@ -38,7 +38,7 @@ sections:
         }
         /* Publication content typography */
         #books ol li, #journal-papers ol li, #conference ol li, #communication ol li {
-          font-size: 1rem !important;
+          font-size: 0.95rem !important;
           line-height: 1.3 !important;
           margin-bottom: 0.24rem !important;
         }

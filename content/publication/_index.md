@@ -38,8 +38,8 @@ sections:
         }
         /* Publication content typography */
         .home-section p, .home-section li, .home-section ol {
-          font-size: 0.95rem !important;
-          line-height: 1.35 !important;
+          font-size: 1rem !important;
+          line-height: 1.3 !important;
         }
         </style>
 

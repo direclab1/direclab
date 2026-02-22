@@ -210,8 +210,7 @@ sections:
           </div>
           <p class="project-description">
             • <strong>Investigators:</strong> Dr. David Jeong (PI), Dr. Gilles Albeaino (Co-PI), Dr. Charles Gurganus (Co-PI), and Dr. Zhenyu Zhang (Co-PI).<br>
-            • <strong>Funding Agency:</strong> National Center for Infrastructure Transformation (NCIT).<br>
-            • <strong>Objective:</strong> This project collaborates with experienced TxDOT inspectors to review and modernize existing inspector development modules. The modernization is intended to improve training effectiveness and strengthen trainees' inspection knowledge and skills through development and testing of updated modules in real training sessions. The project will also develop and deliver effective recruitment and retention strategies for highway construction inspectors.
+            • <strong>Funding Agency:</strong> Workforce shortage is a serious problem in the construction industry. Particularly, the significant lack of qualified inspectors is well known in the highway construction sector, and it poses a serious threat to delivering construction and maintenance projects with adequate monitoring and inspection for acceptable quality of work. This project aims to collaborate with experienced TxDOT inspectors to review and modernize the existing inspector development modules. This modernization will improve training effectiveness and strengthen trainees’ inspection knowledge and skills. A set of updated modules will be developed and tested in real training sessions. In addition, effective strategies and methods to recruit and retain inspectors will be developed and delivered at the conclusion of this project.
           </p>
         </div>
 

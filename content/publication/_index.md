@@ -40,7 +40,7 @@ sections:
         #books ol li, #journal-papers ol li, #conference ol li, #communication ol li {
           font-size: 1rem !important;
           line-height: 1.3 !important;
-          margin-bottom: 0.12rem !important;
+          margin-bottom: 0.24rem !important;
         }
         #books ol, #journal-papers ol, #conference ol, #communication ol {
           margin-top: 0.3rem !important;

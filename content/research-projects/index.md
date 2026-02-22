@@ -87,6 +87,25 @@ sections:
         <div class="research-project">
           <div class="project-header">
             <div class="project-photo">
+              <img src="project-56.jpg" alt="NCIT Inspector Development Project">
+            </div>
+            <div class="project-title-area">
+              <h3 class="project-title">Advancing Inspector Development Programs using Digital Technologies and Effective Recruitment and Retention Strategies</h3>
+              <p class="project-date">(Feb 2026 - Jan 2028)</p>
+            </div>
+          </div>
+          <p class="project-description">
+            • <strong>Investigators:</strong> Dr. David Jeong (PI), Dr. Gilles Albeaino (Co-PI), Dr. Charles Gurganus (Co-PI), and Dr. Zhenyu Zhang (Co-PI).<br>
+            • <strong>Funding Agency:</strong> National Center for Infrastructure Transformation (NCIT).<br>
+            • <strong>Objective:</strong> Workforce shortage is a serious problem in the construction industry. Particularly, the significant lack of qualified inspectors is well known in the highway construction sector, and it poses a serious threat to delivering construction and maintenance projects with adequate monitoring and inspection for acceptable quality of work. This project aims to collaborate with experienced TxDOT inspectors to review and modernize the existing inspector development modules. This modernization will improve training effectiveness and strengthen trainees’ inspection knowledge and skills. A set of updated modules will be developed and tested in real training sessions. In addition, effective strategies and methods to recruit and retain inspectors will be developed and delivered at the conclusion of this project. 
+          </p>
+        </div>
+
+        <hr>
+
+        <div class="research-project">
+          <div class="project-header">
+            <div class="project-photo">
               <img src="project-1.jpg" alt="Transformation of Undergraduate Education">
             </div>
             <div class="project-title-area">
@@ -193,25 +212,6 @@ sections:
             • <strong>Investigators:</strong> Dr. David Jeong (PI), and Dr. Ashrant Aryal (Co-PI), through Interagency Contract (IAC).<br>
             • <strong>Funding Agency:</strong> Texas Department of Transportation.<br>
             • <strong>Objective:</strong> Change orders are the main reason for project delay and cost overrun. The most common reason for change orders in highway projects is "work item omission in contract" which accounts for more than two third of change orders. Identification of missing work items before bid advertisement will significantly help reduce the number of change orders during construction and it will help determining a realistic project budget. Recent advancement in artificial intelligence (AI) can serve as a key technique for the systematic identification of potentially missing work items in a new project by analyzing the space of historical project data. Specifically, as a sub-field of cutting-edge AI techniques, Natural Language Processing (NLP) enables a computer to analyze, understand, and derive meaning from human language in a smart and computational way. Innovative NLP techniques will contribute to the automated and reliable identification of potential change order items due to missing work items.
-          </p>
-        </div>
-
-        <hr>
-
-        <div class="research-project">
-          <div class="project-header">
-            <div class="project-photo">
-              <img src="project-56.jpg" alt="NCIT Inspector Development Project">
-            </div>
-            <div class="project-title-area">
-              <h3 class="project-title">Advancing Inspector Development Programs using Digital Technologies and Effective Recruitment and Retention Strategies</h3>
-              <p class="project-date">(Feb 2026 - Jan 2028)</p>
-            </div>
-          </div>
-          <p class="project-description">
-            • <strong>Investigators:</strong> Dr. David Jeong (PI), Dr. Gilles Albeaino (Co-PI), Dr. Charles Gurganus (Co-PI), and Dr. Zhenyu Zhang (Co-PI).<br>
-            • <strong>Funding Agency:</strong> National Center for Infrastructure Transformation (NCIT).<br>
-            • <strong>Objective:</strong> Workforce shortage is a serious problem in the construction industry. Particularly, the significant lack of qualified inspectors is well known in the highway construction sector, and it poses a serious threat to delivering construction and maintenance projects with adequate monitoring and inspection for acceptable quality of work. This project aims to collaborate with experienced TxDOT inspectors to review and modernize the existing inspector development modules. This modernization will improve training effectiveness and strengthen trainees’ inspection knowledge and skills. A set of updated modules will be developed and tested in real training sessions. In addition, effective strategies and methods to recruit and retain inspectors will be developed and delivered at the conclusion of this project. 
           </p>
         </div>
 

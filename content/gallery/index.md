@@ -49,9 +49,12 @@ sections:
           background: white;
         }
         .gallery-feature img {
-          width: 100%;
-          height: auto;
-          display: block;
+          width: 100% !important;
+          height: auto !important;
+          max-height: none !important;
+          aspect-ratio: auto !important;
+          object-fit: contain !important;
+          display: block !important;
         }
         .gallery-feature-caption {
           padding: 10px 12px 12px;
@@ -60,13 +63,17 @@ sections:
           background: white;
         }
         .gallery-grid {
-          display: grid;
-          grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-          gap: 18px;
+          display: block;
+          columns: 3 280px;
+          column-gap: 18px;
           margin-top: 0;
-          align-items: start;
         }
         .gallery-item {
+          display: inline-block;
+          width: 100%;
+          margin: 0 0 18px;
+          break-inside: avoid;
+          page-break-inside: avoid;
           overflow: hidden;
           border-radius: 8px;
           box-shadow: 0 2px 10px rgba(0,0,0,0.09);
@@ -78,21 +85,12 @@ sections:
           box-shadow: 0 4px 16px rgba(0,0,0,0.15);
         }
         .gallery-item img {
-          width: 100%;
-          height: auto;
-          display: block;
-        }
-        .gallery-item.large {
-          grid-column: span 2;
-        }
-        .gallery-item.wide {
-          grid-column: span 2;
-        }
-        .gallery-item.tall {
-          grid-column: span 1;
-        }
-        .gallery-item.small {
-          grid-column: span 1;
+          width: 100% !important;
+          height: auto !important;
+          max-height: none !important;
+          aspect-ratio: auto !important;
+          object-fit: contain !important;
+          display: block !important;
         }
         .gallery-caption {
           padding: 10px 12px 12px;
@@ -110,15 +108,7 @@ sections:
             white-space: normal;
           }
           .gallery-grid {
-            grid-template-columns: 1fr;
-          }
-          .gallery-item,
-          .gallery-item.large,
-          .gallery-item.wide,
-          .gallery-item.tall,
-          .gallery-item.small {
-            grid-column: auto;
-            grid-row: auto;
+            columns: 1;
           }
         }
         </style>

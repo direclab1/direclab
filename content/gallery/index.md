@@ -42,39 +42,31 @@ sections:
           white-space: nowrap;
         }
         .gallery-feature {
-          position: relative;
           overflow: hidden;
           border-radius: 8px;
           margin-bottom: 16px;
-          box-shadow: 0 8px 24px rgba(0,0,0,0.12);
-          background: #f5f5f5;
+          box-shadow: 0 6px 18px rgba(0,0,0,0.10);
+          background: white;
         }
         .gallery-feature img {
           width: 100%;
-          height: min(58vh, 520px);
-          min-height: 320px;
-          object-fit: cover;
+          height: auto;
           display: block;
         }
         .gallery-feature-caption {
-          position: absolute;
-          left: 0;
-          right: 0;
-          bottom: 0;
-          padding: 32px 18px 16px;
-          color: white;
-          font-size: 0.95rem;
-          background: linear-gradient(to top, rgba(0,0,0,0.64), rgba(0,0,0,0));
+          padding: 10px 12px 12px;
+          color: #555;
+          font-size: 0.9rem;
+          background: white;
         }
         .gallery-grid {
           display: grid;
-          grid-template-columns: repeat(6, 1fr);
-          grid-auto-rows: 150px;
-          gap: 14px;
+          grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+          gap: 18px;
           margin-top: 0;
+          align-items: start;
         }
         .gallery-item {
-          position: relative;
           overflow: hidden;
           border-radius: 8px;
           box-shadow: 0 2px 10px rgba(0,0,0,0.09);
@@ -87,33 +79,26 @@ sections:
         }
         .gallery-item img {
           width: 100%;
-          height: 100%;
-          object-fit: cover;
+          height: auto;
           display: block;
         }
         .gallery-item.large {
-          grid-column: span 3;
-          grid-row: span 2;
+          grid-column: span 2;
         }
         .gallery-item.wide {
-          grid-column: span 3;
+          grid-column: span 2;
         }
         .gallery-item.tall {
-          grid-column: span 2;
-          grid-row: span 2;
+          grid-column: span 1;
         }
         .gallery-item.small {
-          grid-column: span 2;
+          grid-column: span 1;
         }
         .gallery-caption {
-          position: absolute;
-          left: 0;
-          right: 0;
-          bottom: 0;
-          padding: 28px 12px 10px;
-          background: linear-gradient(to top, rgba(0,0,0,0.58), rgba(0,0,0,0));
+          padding: 10px 12px 12px;
+          background: white;
           font-size: 0.86rem;
-          color: white;
+          color: #555;
           text-align: left;
         }
         @media (max-width: 768px) {
@@ -124,13 +109,8 @@ sections:
             margin-top: 4px !important;
             white-space: normal;
           }
-          .gallery-feature img {
-            height: 320px;
-            min-height: 0;
-          }
           .gallery-grid {
             grid-template-columns: 1fr;
-            grid-auto-rows: auto;
           }
           .gallery-item,
           .gallery-item.large,
@@ -139,10 +119,6 @@ sections:
           .gallery-item.small {
             grid-column: auto;
             grid-row: auto;
-          }
-          .gallery-item img {
-            height: auto;
-            aspect-ratio: 4 / 3;
           }
         }
         </style>
@@ -193,21 +169,9 @@ sections:
               <img src="CRC%202026/web/crc2026-08.jpg" alt="CRC 2026 group photo" loading="lazy">
               <div class="gallery-caption">Team time</div>
             </div>
-            <div class="gallery-item small">
-              <img src="CRC%202026/web/crc2026-09.jpg" alt="CRC 2026 casual group photo" loading="lazy">
-              <div class="gallery-caption">More from CRC</div>
-            </div>
-            <div class="gallery-item tall">
-              <img src="CRC%202026/web/crc2026-10.jpg" alt="CRC 2026 portrait photo" loading="lazy">
-              <div class="gallery-caption">A quick pause</div>
-            </div>
             <div class="gallery-item wide">
               <img src="CRC%202026/web/crc2026-11.jpg" alt="CRC 2026 conference activity" loading="lazy">
               <div class="gallery-caption">Conference week</div>
-            </div>
-            <div class="gallery-item wide">
-              <img src="CRC%202026/web/crc2026-12.jpg" alt="CRC 2026 casual team photo" loading="lazy">
-              <div class="gallery-caption">Closing out CRC</div>
             </div>
           </div>
         </div>

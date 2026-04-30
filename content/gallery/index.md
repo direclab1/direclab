@@ -80,13 +80,6 @@ sections:
         .crc-photo.group {
           aspect-ratio: 4 / 3;
         }
-        .crc-caption {
-          padding: 10px 12px 12px;
-          background: white;
-          font-size: 0.86rem;
-          color: #555;
-          text-align: left;
-        }
         @media (max-width: 768px) {
           .crc-event-header {
             display: block;
@@ -117,43 +110,33 @@ sections:
           <div class="crc-grid">
             <div class="crc-card feature">
               <div class="crc-photo landscape" role="img" aria-label="DIREC Lab members at CRC 2026" style="background-image: url('CRC%202026/web/crc2026-hero.jpg');"></div>
-              <div class="crc-caption">DIREC Lab at CRC 2026</div>
             </div>
             <div class="crc-card">
               <div class="crc-photo landscape" role="img" aria-label="CRC 2026 conference session" style="background-image: url('CRC%202026/web/crc2026-01.jpg');"></div>
-              <div class="crc-caption">Conference sessions</div>
             </div>
             <div class="crc-card">
               <div class="crc-photo landscape" role="img" aria-label="CRC 2026 presentation moment" style="background-image: url('CRC%202026/web/crc2026-02.jpg');"></div>
-              <div class="crc-caption">Presentation moments</div>
             </div>
             <div class="crc-card">
               <div class="crc-photo landscape" role="img" aria-label="CRC 2026 team conversation" style="background-image: url('CRC%202026/web/crc2026-03.jpg');"></div>
-              <div class="crc-caption">Around the venue</div>
             </div>
             <div class="crc-card">
               <div class="crc-photo portrait" role="img" aria-label="CRC 2026 portrait moment" style="background-image: url('CRC%202026/web/crc2026-04.jpg');"></div>
-              <div class="crc-caption">Between sessions</div>
             </div>
             <div class="crc-card wide">
               <div class="crc-photo landscape" role="img" aria-label="CRC 2026 conference activity" style="background-image: url('CRC%202026/web/crc2026-05.jpg');"></div>
-              <div class="crc-caption">CRC 2026</div>
             </div>
             <div class="crc-card">
               <div class="crc-photo landscape" role="img" aria-label="Taste of Texas reception at CRC 2026" style="background-image: url('CRC%202026/web/crc2026-06.jpg');"></div>
-              <div class="crc-caption">Taste of Texas reception</div>
             </div>
             <div class="crc-card">
               <div class="crc-photo landscape" role="img" aria-label="Reception moment at CRC 2026" style="background-image: url('CRC%202026/web/crc2026-07.jpg');"></div>
-              <div class="crc-caption">Reception moments</div>
             </div>
             <div class="crc-card wide">
               <div class="crc-photo landscape" role="img" aria-label="CRC 2026 group photo" style="background-image: url('CRC%202026/web/crc2026-08.jpg');"></div>
-              <div class="crc-caption">Team time</div>
             </div>
             <div class="crc-card">
               <div class="crc-photo group" role="img" aria-label="CRC 2026 conference activity" style="background-image: url('CRC%202026/web/crc2026-11.jpg');"></div>
-              <div class="crc-caption">Conference week</div>
             </div>
           </div>
         </div>

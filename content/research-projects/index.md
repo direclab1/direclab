@@ -80,9 +80,28 @@ sections:
         }
         </style>
 
-        <p style="font-size: 0.9rem !important; line-height: 1.65 !important;">Dr. Jeong's team has received competitive funding for 65 research projects from a wide range of sponsors, including the National Science Foundation (NSF), the National Cooperative Highway Research Program (NCHRP), the Federal Highway Administration (FHWA), the Federal Transit Administration (FTA), the Water Environment Research Foundation (WERF), the U.S. Departments of Labor (DOL) and Transportation (DOT), the Construction Industry Institute (CII), several state DOTs (Texas, Montana, Minnesota, Oklahoma, and Iowa), various industry sponsors, and international agencies. The total funding exceeds <strong style="font-size: 0.9rem !important;">$14.0 million</strong>, with over <strong style="font-size: 0.9rem !important;">$5.6 million</strong> allocated to his team.</p>
+        <p style="font-size: 0.9rem !important; line-height: 1.65 !important;">Dr. Jeong's team has received competitive funding for 66 research projects from a wide range of sponsors, including the National Science Foundation (NSF), the National Cooperative Highway Research Program (NCHRP), the Federal Highway Administration (FHWA), the Federal Transit Administration (FTA), the Water Environment Research Foundation (WERF), the U.S. Departments of Labor (DOL) and Transportation (DOT), the Construction Industry Institute (CII), several state DOTs (Texas, Montana, Minnesota, Oklahoma, and Iowa), various industry sponsors, and international agencies. The total funding exceeds <strong style="font-size: 0.9rem !important;">$14.0 million</strong>, with over <strong style="font-size: 0.9rem !important;">$5.6 million</strong> allocated to his team.</p>
 
         ## Current Funded Projects
+
+        <div class="research-project">
+          <div class="project-header">
+            <div class="project-photo">
+              <img src="project-57.jpg" alt="NCHRP 10-144 Pay Adjustment Systems">
+            </div>
+            <div class="project-title-area">
+              <h3 class="project-title">NCHRP 10-144: Using Pay Adjustment Systems to Incentivize Quality Highway Construction</h3>
+              <p class="project-date">(April 2026 - October 2030)</p>
+            </div>
+          </div>
+          <p class="project-description">
+            • <strong>Investigators:</strong> Dr. David Jeong (PI), Dr. Charles Gurganus (Co-PI), Dr. Tara Cavalline, and Dr. Chau Le.<br>
+            • <strong>Funding Agency:</strong> National Cooperative Highway Research Program (NCHRP).<br>
+            • <strong>Objective:</strong> Pay adjustments, including both incentives and disincentives, are widely used by transportation agencies to motivate contractors to achieve higher levels of quality. Bonuses are awarded for exceeding quality criteria, while deductions are imposed for substandard performance. Despite their widespread adoption, pay adjustment systems present several challenges. Positive incentives alone have often proven insufficient to encourage higher quality, leading many agencies to rely on penalties to enforce compliance. This research will develop methodologies to optimize pay adjustments and effectively incentivize quality improvements while managing risks and costs. This study will explore the optimal structuring of pay factors, balancing incentives and disincentives to achieve performance goals. Furthermore, it will assess the effectiveness of various pay factor equations, evaluate contractor risks, and establish correlations between measurable construction parameters and long-term performance outcomes.
+          </p>
+        </div>
+
+        <hr>
 
         <div class="research-project">
           <div class="project-header">
